@@ -1,15 +1,340 @@
 [
     {
-        "name": "Dotted Berry",
+        "name": "Treasurespheres",
         "type": "consumable",
         "loop": "false",
-        "img": "images/items/collectables/Dotted Berry.png",
+        "img": "images/items/treasure.png",
         "overlay_background": "#000",
-        "codes": "dotted_berry",
-        "max_quantity": 24,
+        "codes": "treasuresphere",
+        "max_quantity": 6,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
+    },
+    {
+        "name": "Progressive Area",
+        "type": "consumable",
+        "loop": "false",
+        "img": "images/items/Area_Kingdom_Outskirts.png",
+        "overlay_background": "#000",
+        "codes": "prog_area",
+        "max_quantity": 7,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false,
+        "disabled_img_mods":"none"
+    },
+    {
+        "name": "Area Scholar",
+        "type": "toggle",
+        "img": "images/items/Area_Scholar's_Nest.png",
+        "codes": "scholar"
+    },
+    {
+        "name": "Area Arsenal",
+        "type": "toggle",
+        "img": "images/items/Area_King's_Arsenal.png",
+        "codes": "arsenal"
+    },
+    {
+        "name": "Area Darkhouse",
+        "type": "toggle",
+        "img": "images/items/Area_Red_Darkhouse.png",
+        "codes": "darkhouse"
+    },
+    {
+        "name": "Area Churchmouse",
+        "type": "toggle",
+        "img": "images/items/Area_Churchmouse_Streets.png",
+        "codes": "churchmouse"
+    },
+    {
+        "name": "Area Lakeside",
+        "type": "toggle",
+        "img": "images/items/Area_Emerald_Lakeside.png",
+        "codes": "lakeside"
+    },
+    {
+        "name": "Area Pale Keep",
+        "type": "toggle",
+        "img": "images/items/Area_The_Pale_Keep.png",
+        "codes": "pale_keep"
+    },
+    {
+        "name": "Area Moonlit",
+        "type": "toggle",
+        "img": "images/items/Area_Moonlit_Pinnacle.png",
+        "codes": "moonlit"
+    },
+    {
+        "name": "Class Wizard",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Wizard.png",
+        "codes": "wizard"
+    },
+    {
+        "name": "Class Assassin",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Assassin.png",
+        "codes": "assassin"
+    },
+    {
+        "name": "Class Heavyblade",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Heavyblade.png",
+        "codes": "heavyblade"
+    },
+    {
+        "name": "Class Dancer",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Dancer.png",
+        "codes": "dancer"
+    },
+    {
+        "name": "Class Druid",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Druid.png",
+        "codes": "druid"
+    },
+    {
+        "name": "Class Spellword",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Spellsword.png",
+        "codes": "Spellword"
+    },
+    {
+        "name": "Class Sniper",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Sniper.png",
+        "codes": "sniper"
+    },
+    {
+        "name": "Class Bruiser",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Bruiser.png",
+        "codes": "bruiser"
+    },
+    {
+        "name": "Class Defender",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Defender.png",
+        "codes": "defender"
+    },
+    {
+        "name": "Class Ancient",
+        "type": "toggle",
+        "img": "images/items/ClassIcon_Ancient.png",
+        "codes": "ancient"
+    },
+    {
+        "name": "Sapphire Primary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_blue_0.png",
+        "codes": "sapphire_primary"
+    },
+    {
+        "name": "Sapphire Secondary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_blue_1.png",
+        "codes": "sapphire_secondary"
+    },
+    {
+        "name": "Sapphire Special",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_blue_2.png",
+        "codes": "sapphire_special"
+    },
+    {
+        "name": "Sapphire Defender",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_blue_3.png",
+        "codes": "sapphire_defender"
+    },
+    {
+        "name": "Opal Primary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_purple_0.png",
+        "codes": "opal_primary"
+    },
+    {
+        "name": "Opal Secondary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_purple_1.png",
+        "codes": "opal_secondary"
+    },
+    {
+        "name": "Opal Special",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_purple_2.png",
+        "codes": "opal_special"
+    },
+    {
+        "name": "Opal Defender",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_purple_3.png",
+        "codes": "opal_defender"
+    },
+    {
+        "name": "Emerald Primary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_green_0.png",
+        "codes": "emerald_primary"
+    },
+    {
+        "name": "Emerald Secondary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_green_1.png",
+        "codes": "emerald_secondary"
+    },
+    {
+        "name": "Emerald Special",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_green_2.png",
+        "codes": "emerald_special"
+    },
+    {
+        "name": "Emerald Defender",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_green_3.png",
+        "codes": "emerald_defender"
+    },
+    {
+        "name": "Ruby Primary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_red_0.png",
+        "codes": "ruby_primary"
+    },
+    {
+        "name": "Ruby Secondary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_red_1.png",
+        "codes": "ruby_secondary"
+    },
+    {
+        "name": "Ruby Special",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_red_2.png",
+        "codes": "ruby_special"
+    },
+    {
+        "name": "Ruby Defender",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_red_3.png",
+        "codes": "ruby_defender"
+    },
+    {
+        "name": "Garnet Primary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_0.png",
+        "codes": "garnet_primary"
+    },
+    {
+        "name": "Garnet Secondary",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_1.png",
+        "codes": "garnet_secondary"
+    },
+    {
+        "name": "Garnet Special",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_2.png",
+        "codes": "garnet_special"
+    },
+    {
+        "name": "Garnet Defender",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_3.png",
+        "codes": "garnet_defender"
+    },
+    {
+        "name": "Regen Potion",
+        "type": "toggle",
+        "img": "images/items/Regen_Potion.png",
+        "codes": "regen_potion"
+    },
+    {
+        "name": "Vitality Potion",
+        "type": "toggle",
+        "img": "images/items/Vitality_Potion.png",
+        "codes": "vitality_potion"
+    },
+    {
+        "name": "Essence of Strength",
+        "type": "toggle",
+        "img": "images/items/Essence_of_Strength.png",
+        "codes": "essence_of_strength"
+    },
+    {
+        "name": "Essence of Wit",
+        "type": "toggle",
+        "img": "images/items/Essence_of_Wit.png",
+        "codes": "essence_of_wit"
+    },
+    {
+        "name": "Essence of Spell",
+        "type": "toggle",
+        "img": "images/items/Essence_of_Spell.png",
+        "codes": "essence_of_spell"
+    },
+    {
+        "name": "Essence of Steel",
+        "type": "toggle",
+        "img": "images/items/Essence_of_Steel.png",
+        "codes": "essence_of_steel"
+    },
+    {
+        "name": "Longarm Potion",
+        "type": "toggle",
+        "img": "images/items/Longarm_Potion.png",
+        "codes": "longarm_potion"
+    },
+    {
+        "name": "Swifthand Potion",
+        "type": "toggle",
+        "img": "images/items/Swifthand_Potion.png",
+        "codes": "swifthand_potion"
+    },
+    {
+        "name": "Quickening Potion",
+        "type": "toggle",
+        "img": "images/items/Quickening_Potion.png",
+        "codes": "quickening_potion"
+    },
+    {
+        "name": "Winged Potion",
+        "type": "toggle",
+        "img": "images/items/Winged_Potion.png",
+        "codes": "winged_potion"
+    },
+    {
+        "name": "Evasion Potion",
+        "type": "toggle",
+        "img": "images/items/Evasion_Potion.png",
+        "codes": "evasion_potion"
+    },
+    {
+        "name": "Luck Potion",
+        "type": "toggle",
+        "img": "images/items/Luck_Potion.png",
+        "codes": "luck_potion"
+    },
+    {
+        "name": "Golden Potion",
+        "type": "toggle",
+        "img": "images/items/Golden_Potion.png",
+        "codes": "golden_potion"
+    },
+    {
+        "name": "Fire Potion",
+        "type": "toggle",
+        "img": "images/items/Fire_Potion.png",
+        "codes": "fire_potion"
+    },
+    {
+        "name": "Darkness Potion",
+        "type": "toggle",
+        "img": "images/items/Darkness_Potion.png",
+        "codes": "darkness_potion"
     },
 
     //Settings

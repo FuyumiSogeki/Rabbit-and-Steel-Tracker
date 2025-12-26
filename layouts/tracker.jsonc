@@ -1,4 +1,61 @@
 {
+    "upgrade_item_grid": 
+    {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows": 
+        [
+            ["sapphire_primary","sapphire_secondary","sapphire_special", "sapphire_defender"],
+            ["opal_primary","opal_secondary","opal_special", "opal_defender"],
+            ["emerald_primary","emerald_secondary","emerald_special", "emerald_defender"],
+            ["ruby_primary","ruby_secondary","ruby_special", "ruby_defender"],
+            ["garnet_primary","garnet_secondary","garnet_special", "garnet_defender"]
+        ]
+    },
+    "potion_item_grid": 
+    {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows": 
+        [
+            ["regen_potion","vitality_potion","essence_of_strength", "essence_of_wit"],
+            ["essence_of_spell","essence_of_steel","longarm_potion", "swifthand_potion"],
+            ["quickening_potion","winged_potion","evasion_potion", "luck_potion"],
+            ["golden_potion","fire_potion","darkness_potion"]
+        ]
+    },
+    "area_item_grid": 
+    {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows": 
+        [
+            ["","prog_area",""],
+            ["scholar","arsenal","darkhouse"],
+            ["churchmouse","lakeside","pale_keep"],
+            ["","moonlit",""]
+        ]
+    },
+    "character_item_grid": 
+    {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows": 
+        [
+            ["wizard","assassin","heavyblade"],
+            ["dancer","druid","Spellword"],
+            ["sniper","bruiser","defender"],
+            ["ancient"]
+        ]
+    },
     "tracker_horizontal": 
     {
         "type": "container",
@@ -9,6 +66,135 @@
             "dropshadow": true,
             "content": 
             [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "content":
+                    [
+                        {
+                            "type": "group",
+                            "header": "Areas",
+                            "content": 
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "margin": "0,0",
+                                "dock": "top",
+                                "content": 
+                                [
+                                    {
+                                        "type": "layout",
+                                        "key": "area_item_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Classes",
+                            "content": 
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "margin": "0,0",
+                                "dock": "top",
+                                "content": 
+                                [
+                                    {
+                                        "type": "layout",
+                                        "key": "character_item_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Settings",
+                            "content": 
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "margin": "0,0",
+                                "dock": "top",
+                                "content": 
+                                [
+                                    {
+                                        "type": "layout",
+                                        "key": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "dock": "right",
+                    "content":
+                    [
+                        {
+                            "type": "group",
+                            "header": "Upgrade",
+                            "content": 
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "margin": "0,0",
+                                "dock": "top",
+                                "content": 
+                                [
+                                    {
+                                        "type": "layout",
+                                        "key": "upgrade_item_grid"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Potions",
+                            "content": 
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "margin": "0,0",
+                                "dock": "top",
+                                "content": 
+                                [
+                                    {
+                                        "type": "layout",
+                                        "key": "potion_item_grid"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "content":
+                    [
+                        {
+                            "type": "group",
+                            "header": "Item Set",
+                            "content": 
+                            {
+                                "type": "array",
+                                "orientation": "horizontal",
+                                "margin": "0,0",
+                                "dock": "top",
+                                "content": 
+                                [
+                                    {
+                                        "type": "layout",
+                                        "key": ""
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
                 {
                     "type": "tabbed",
                     "tabs": 
@@ -125,7 +311,7 @@
                             ]
                         },
                         {
-                            "title": "Characters",
+                            "title": "Classes",
                             "content":
                             [
                                 {
