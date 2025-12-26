@@ -9,7 +9,8 @@
         "max_quantity": 6,
         "initial_quantity": 0,
         "increment": 1,
-        "swap_actions": false
+        "swap_actions": false,
+        "disabled_img_mods":"none"
     },
     {
         "name": "Progressive Area",
@@ -335,6 +336,102 @@
         "type": "toggle",
         "img": "images/items/Darkness_Potion.png",
         "codes": "darkness_potion"
+    },
+    {
+        "name": "Raven Grimoire",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_0.png",
+        "codes": "arcane1"
+    },
+    {
+        "name": "Blackwing Staff",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_1.png",
+        "codes": "arcane2"
+    },
+    {
+        "name": "Curse Talon",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_2.png",
+        "codes": "arcane3"
+    },
+    {
+        "name": "Darkmagic Blade",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_3.png",
+        "codes": "arcane4"
+    },
+    {
+        "name": "Witch's Cloak",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_4.png",
+        "codes": "arcane5"
+    },
+    {
+        "name": "Crowfeather Hairpin",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_5.png",
+        "codes": "arcane6"
+    },
+    {
+        "name": "Redblack Ribbon",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_6.png",
+        "codes": "arcane7"
+    },
+    {
+        "name": "Opal Necklace",
+        "type": "toggle",
+        "img": "images/items/Spr_item_arcane_7.png",
+        "codes": "arcane8"
+    },
+    {
+        "name": "Black Wakizashi",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_0.png",
+        "codes": "assassin1"
+    },
+    {
+        "name": "Throwing Dagger",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_1.png",
+        "codes": "assassin2"
+    },
+    {
+        "name": "Black Wakizashi",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_2.png",
+        "codes": "assassin3"
+    },
+    {
+        "name": "Throwing Dagger",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_3.png",
+        "codes": "assassin4"
+    },
+    {
+        "name": "Black Wakizashi",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_4.png",
+        "codes": "assassin5"
+    },
+    {
+        "name": "Throwing Dagger",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_5.png",
+        "codes": "assassin6"
+    },
+    {
+        "name": "Black Wakizashi",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_6.png",
+        "codes": "assassin7"
+    },
+    {
+        "name": "Throwing Dagger",
+        "type": "toggle",
+        "img": "images/items/Spr_item_assassin_7.png",
+        "codes": "assassin8"
     },
 
     //Settings

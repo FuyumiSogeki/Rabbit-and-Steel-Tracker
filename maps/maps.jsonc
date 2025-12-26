@@ -63,7 +63,7 @@
         "name": "Shop",
         "location_size": 24,
         "location_border_thickness": 4,
-        "img": "images/maps/shop_all.png"
+        "img": "images/maps/shop.png"
     },
     {
         "name": "Treasuresphere",
