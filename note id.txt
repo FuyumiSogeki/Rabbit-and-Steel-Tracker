@@ -1,0 +1,960 @@
+called onItem: 0, 1, Scholar's Nest, 1, -1
+called onItem: 1, 2, King's Arsenal, 1, 0
+called onItem: 2, 3, Red Darkhouse, 1, 1
+called onItem: 3, 4, Churchmouse Streets, 1, 2
+called onItem: 4, 5, Emerald Lakeside, 1, 3
+called onItem: 5, 6, The Pale Keep, 1, 4
+called onItem: 6, 7, Moonlit Pinnacle, 1, 5
+called onItem: 7, 8, Wizard, 1, 6
+called onItem: 8, 9, Assassin, 1, 7
+called onItem: 9, 10, Heavyblade, 1, 8
+called onItem: 10, 11, Dancer, 1, 9
+called onItem: 11, 12, Druid, 1, 10
+called onItem: 12, 13, Spellsword, 1, 11
+called onItem: 13, 14, Sniper, 1, 12
+called onItem: 14, 15, Bruiser, 1, 13
+called onItem: 15, 16, Defender, 1, 14
+called onItem: 16, 17, Ancient, 1, 15
+called onItem: 17, 18, Arcane Set, 1, 16
+called onItem: 18, 19, Night Set, 1, 17
+called onItem: 19, 20, Timespace Set, 1, 18
+called onItem: 20, 21, Wind Set, 1, 19
+called onItem: 21, 22, Bloodwolf Set, 1, 20
+called onItem: 22, 23, Assassin Set, 1, 21
+called onItem: 23, 24, Rockdragon Set, 1, 22
+called onItem: 24, 25, Flame Set, 1, 23
+called onItem: 25, 26, Gem Set, 1, 24
+called onItem: 26, 27, Lightning Set, 1, 25
+called onItem: 27, 28, Shrine Set, 1, 26
+called onItem: 28, 29, Lucky Set, 1, 27
+called onItem: 29, 30, Life Set, 1, 28
+called onItem: 30, 31, Poison Set, 1, 29
+called onItem: 31, 32, Depth Set, 1, 30
+called onItem: 32, 33, Darkbite Set, 1, 31
+called onItem: 33, 34, Timegem Set, 1, 32
+called onItem: 34, 35, Youkai Set, 1, 33
+called onItem: 35, 36, Haunted Set, 1, 34
+called onItem: 36, 37, Gladiator Set, 1, 35
+called onItem: 37, 38, Sparkblade Set, 1, 36
+called onItem: 38, 39, Swiftflight Set, 1, 37
+called onItem: 39, 40, Sacredflame Set, 1, 38
+called onItem: 40, 41, Ruins Set, 1, 39
+called onItem: 41, 42, Lakeshrine Set, 1, 40
+called onItem: 42, 48, Primary Emerald Gem, 1, 41
+called onItem: 43, 49, Primary Garnet Gem, 1, 42
+called onItem: 44, 50, Primary Ruby Gem, 1, 43
+called onItem: 45, 51, Primary Sapphire Gem, 1, 44
+called onItem: 46, 52, Primary Opal Gem, 1, 45
+called onItem: 47, 53, Secondary Emerald Gem, 1, 46
+called onItem: 48, 54, Secondary Garnet Gem, 1, 47
+called onItem: 49, 55, Secondary Ruby Gem, 1, 48
+called onItem: 50, 56, Secondary Sapphire Gem, 1, 49
+called onItem: 51, 57, Secondary Opal Gem, 1, 50
+called onItem: 52, 58, Special Emerald Gem, 1, 51
+called onItem: 53, 59, Special Garnet Gem, 1, 52
+called onItem: 54, 60, Special Ruby Gem, 1, 53
+called onItem: 55, 61, Special Sapphire Gem, 1, 54
+called onItem: 56, 62, Special Opal Gem, 1, 55
+called onItem: 57, 63, Defensive Emerald Gem, 1, 56
+called onItem: 58, 64, Defensive Garnet Gem, 1, 57
+called onItem: 59, 65, Defensive Ruby Gem, 1, 58
+called onItem: 60, 66, Defensive Sapphire Gem, 1, 59
+called onItem: 61, 67, Defensive Opal Gem, 1, 60
+called onItem: 62, 68, Full Heal Potion, 1, 61
+called onItem: 63, 69, Level Up Potion, 1, 62
+called onItem: 64, 70, Regen Potion, 1, 63
+called onItem: 65, 71, Essence of Spell, 1, 64
+called onItem: 66, 72, Darkness Potion, 1, 65
+called onItem: 67, 73, Quickening Potion, 1, 66
+called onItem: 68, 74, Winged Potion, 1, 67
+called onItem: 69, 75, Essence of Wit, 1, 68
+called onItem: 70, 76, Swifthand Potion, 1, 69
+called onItem: 71, 77, Fire Potion, 1, 70
+called onItem: 72, 78, Strength Potion, 1, 71
+called onItem: 73, 79, Gold Potion, 1, 72
+called onItem: 74, 80, Luck Potion, 1, 73
+called onItem: 75, 81, Essence of Steel, 1, 74
+called onItem: 76, 82, Evasion Potion, 1, 75
+called onItem: 77, 83, Longarm Potion, 1, 76
+called onItem: 78, 84, Vitality Potion, 1, 77
+called onItem: 79, 85, Victory - Wizard, 1, 78
+called onItem: 80, 86, Victory - Assassin, 1, 79
+called onItem: 81, 87, Victory - Heavyblade, 1, 80
+called onItem: 82, 88, Victory - Dancer, 1, 81
+called onItem: 83, 89, Victory - Druid, 1, 82
+called onItem: 84, 90, Victory - Spellsword, 1, 83
+called onItem: 85, 91, Victory - Sniper, 1, 84
+called onItem: 86, 92, Victory - Bruiser, 1, 85
+called onItem: 87, 93, Victory - Defender, 1, 86
+called onItem: 88, 94, Victory - Ancient, 1, 87
+called onItem: 89, 95, Progressive Region, 1, 88
+called onItem: 90, 95, Progressive Region, 1, 89
+called onItem: 91, 95, Progressive Region, 1, 90
+called onItem: 92, 95, Progressive Region, 1, 91
+called onItem: 93, 95, Progressive Region, 1, 92
+called onItem: 94, 97, Treasuresphere, 1, 93
+called onItem: 95, 97, Treasuresphere, 1, 94
+called onItem: 96, 97, Treasuresphere, 1, 95
+called onItem: 97, 97, Treasuresphere, 1, 96
+called onItem: 98, 97, Treasuresphere, 1, 97
+called onItem: 99, 98, Gold, 1, 98
+called onItem: 100, 98, Gold, 1, 99
+called onItem: 101, 98, Gold, 1, 100
+called onItem: 102, 98, Gold, 1, 101
+called onItem: 103, 98, Gold, 1, 102
+called onItem: 104, 98, Gold, 1, 103
+called onItem: 105, 98, Gold, 1, 104
+called onItem: 106, 98, Gold, 1, 105
+called onItem: 107, 98, Gold, 1, 106
+called onItem: 108, 98, Gold, 1, 107
+called onItem: 109, 98, Gold, 1, 108
+called onItem: 110, 98, Gold, 1, 109
+called onItem: 111, 98, Gold, 1, 110
+called onItem: 112, 98, Gold, 1, 111
+called onItem: 113, 98, Gold, 1, 112
+called onItem: 114, 98, Gold, 1, 113
+called onItem: 115, 98, Gold, 1, 114
+called onItem: 116, 98, Gold, 1, 115
+called onItem: 117, 98, Gold, 1, 116
+called onItem: 118, 98, Gold, 1, 117
+called onItem: 119, 98, Gold, 1, 118
+called onItem: 120, 98, Gold, 1, 119
+called onItem: 121, 98, Gold, 1, 120
+called onItem: 122, 98, Gold, 1, 121
+called onItem: 123, 98, Gold, 1, 122
+called onItem: 124, 98, Gold, 1, 123
+called onItem: 125, 98, Gold, 1, 124
+called onItem: 126, 98, Gold, 1, 125
+called onItem: 127, 98, Gold, 1, 126
+called onItem: 128, 98, Gold, 1, 127
+called onItem: 129, 98, Gold, 1, 128
+called onItem: 130, 98, Gold, 1, 129
+called onItem: 131, 98, Gold, 1, 130
+called onItem: 132, 98, Gold, 1, 131
+called onItem: 133, 98, Gold, 1, 132
+called onItem: 134, 98, Gold, 1, 133
+called onItem: 135, 98, Gold, 1, 134
+called onItem: 136, 98, Gold, 1, 135
+called onItem: 137, 98, Gold, 1, 136
+called onItem: 138, 98, Gold, 1, 137
+called onItem: 139, 98, Gold, 1, 138
+called onItem: 140, 98, Gold, 1, 139
+called onItem: 141, 98, Gold, 1, 140
+called onItem: 142, 98, Gold, 1, 141
+called onItem: 143, 98, Gold, 1, 142
+called onItem: 144, 98, Gold, 1, 143
+called onItem: 145, 98, Gold, 1, 144
+called onItem: 146, 98, Gold, 1, 145
+called onItem: 147, 98, Gold, 1, 146
+called onItem: 148, 98, Gold, 1, 147
+called onItem: 149, 98, Gold, 1, 148
+called onItem: 150, 98, Gold, 1, 149
+called onItem: 151, 98, Gold, 1, 150
+called onItem: 152, 98, Gold, 1, 151
+called onItem: 153, 98, Gold, 1, 152
+called onItem: 154, 98, Gold, 1, 153
+called onItem: 155, 98, Gold, 1, 154
+called onItem: 156, 98, Gold, 1, 155
+called onItem: 157, 98, Gold, 1, 156
+called onItem: 158, 98, Gold, 1, 157
+called onItem: 159, 98, Gold, 1, 158
+called onItem: 160, 98, Gold, 1, 159
+called onItem: 161, 98, Gold, 1, 160
+called onItem: 162, 98, Gold, 1, 161
+called onItem: 163, 98, Gold, 1, 162
+called onItem: 164, 98, Gold, 1, 163
+called onItem: 165, 98, Gold, 1, 164
+called onItem: 166, 98, Gold, 1, 165
+called onItem: 167, 98, Gold, 1, 166
+called onItem: 168, 98, Gold, 1, 167
+called onItem: 169, 98, Gold, 1, 168
+called onItem: 170, 98, Gold, 1, 169
+called onItem: 171, 98, Gold, 1, 170
+called onItem: 172, 98, Gold, 1, 171
+called onItem: 173, 98, Gold, 1, 172
+called onItem: 174, 98, Gold, 1, 173
+called onItem: 175, 98, Gold, 1, 174
+called onItem: 176, 98, Gold, 1, 175
+called onItem: 177, 98, Gold, 1, 176
+called onItem: 178, 98, Gold, 1, 177
+called onItem: 179, 98, Gold, 1, 178
+called onItem: 180, 98, Gold, 1, 179
+called onItem: 181, 98, Gold, 1, 180
+called onItem: 182, 98, Gold, 1, 181
+called onItem: 183, 98, Gold, 1, 182
+called onItem: 184, 98, Gold, 1, 183
+called onItem: 185, 98, Gold, 1, 184
+called onItem: 186, 98, Gold, 1, 185
+called onItem: 187, 98, Gold, 1, 186
+called onItem: 188, 98, Gold, 1, 187
+called onItem: 189, 98, Gold, 1, 188
+called onItem: 190, 98, Gold, 1, 189
+called onItem: 191, 98, Gold, 1, 190
+called onItem: 192, 98, Gold, 1, 191
+called onItem: 193, 98, Gold, 1, 192
+called onItem: 194, 98, Gold, 1, 193
+called onItem: 195, 98, Gold, 1, 194
+called onItem: 196, 98, Gold, 1, 195
+called onItem: 197, 98, Gold, 1, 196
+called onItem: 198, 98, Gold, 1, 197
+called onItem: 199, 98, Gold, 1, 198
+called onItem: 200, 98, Gold, 1, 199
+called onItem: 201, 98, Gold, 1, 200
+called onItem: 202, 98, Gold, 1, 201
+called onItem: 203, 98, Gold, 1, 202
+called onItem: 204, 98, Gold, 1, 203
+called onItem: 205, 98, Gold, 1, 204
+called onItem: 206, 98, Gold, 1, 205
+called onItem: 207, 98, Gold, 1, 206
+called onItem: 208, 98, Gold, 1, 207
+called onItem: 209, 98, Gold, 1, 208
+called onItem: 210, 98, Gold, 1, 209
+called onItem: 211, 98, Gold, 1, 210
+called onItem: 212, 98, Gold, 1, 211
+called onItem: 213, 98, Gold, 1, 212
+called onItem: 214, 98, Gold, 1, 213
+called onItem: 215, 98, Gold, 1, 214
+called onItem: 216, 98, Gold, 1, 215
+called onItem: 217, 98, Gold, 1, 216
+called onItem: 218, 98, Gold, 1, 217
+called onItem: 219, 98, Gold, 1, 218
+called onItem: 220, 98, Gold, 1, 219
+called onItem: 221, 98, Gold, 1, 220
+called onItem: 222, 98, Gold, 1, 221
+called onItem: 223, 98, Gold, 1, 222
+called onItem: 224, 98, Gold, 1, 223
+called onItem: 225, 98, Gold, 1, 224
+called onItem: 226, 98, Gold, 1, 225
+called onItem: 227, 98, Gold, 1, 226
+called onItem: 228, 98, Gold, 1, 227
+called onItem: 229, 98, Gold, 1, 228
+called onItem: 230, 98, Gold, 1, 229
+called onItem: 231, 98, Gold, 1, 230
+called onItem: 232, 98, Gold, 1, 231
+called onItem: 233, 98, Gold, 1, 232
+called onItem: 234, 98, Gold, 1, 233
+called onItem: 235, 98, Gold, 1, 234
+called onItem: 236, 98, Gold, 1, 235
+called onItem: 237, 98, Gold, 1, 236
+called onItem: 238, 98, Gold, 1, 237
+called onItem: 239, 98, Gold, 1, 238
+called onItem: 240, 98, Gold, 1, 239
+called onItem: 241, 98, Gold, 1, 240
+called onItem: 242, 98, Gold, 1, 241
+called onItem: 243, 98, Gold, 1, 242
+called onItem: 244, 98, Gold, 1, 243
+called onItem: 245, 98, Gold, 1, 244
+called onItem: 246, 98, Gold, 1, 245
+called onItem: 247, 98, Gold, 1, 246
+called onItem: 248, 98, Gold, 1, 247
+called onItem: 249, 98, Gold, 1, 248
+called onItem: 250, 98, Gold, 1, 249
+called onItem: 251, 98, Gold, 1, 250
+called onItem: 252, 98, Gold, 1, 251
+called onItem: 253, 98, Gold, 1, 252
+called onItem: 254, 98, Gold, 1, 253
+called onItem: 255, 98, Gold, 1, 254
+called onItem: 256, 98, Gold, 1, 255
+called onItem: 257, 98, Gold, 1, 256
+called onItem: 258, 98, Gold, 1, 257
+called onItem: 259, 98, Gold, 1, 258
+called onItem: 260, 98, Gold, 1, 259
+called onItem: 261, 98, Gold, 1, 260
+called onItem: 262, 98, Gold, 1, 261
+called onItem: 263, 98, Gold, 1, 262
+called onItem: 264, 98, Gold, 1, 263
+called onItem: 265, 98, Gold, 1, 264
+called onItem: 266, 98, Gold, 1, 265
+called onItem: 267, 98, Gold, 1, 266
+called onItem: 268, 98, Gold, 1, 267
+called onItem: 269, 98, Gold, 1, 268
+called onItem: 270, 98, Gold, 1, 269
+called onItem: 271, 98, Gold, 1, 270
+called onItem: 272, 98, Gold, 1, 271
+called onItem: 273, 98, Gold, 1, 272
+called onItem: 274, 98, Gold, 1, 273
+called onItem: 275, 98, Gold, 1, 274
+called onItem: 276, 98, Gold, 1, 275
+called onItem: 277, 98, Gold, 1, 276
+called onItem: 278, 98, Gold, 1, 277
+called onItem: 279, 98, Gold, 1, 278
+called onItem: 280, 98, Gold, 1, 279
+called onItem: 281, 98, Gold, 1, 280
+called onItem: 282, 98, Gold, 1, 281
+called onItem: 283, 98, Gold, 1, 282
+called onItem: 284, 98, Gold, 1, 283
+called onItem: 285, 98, Gold, 1, 284
+called onItem: 286, 98, Gold, 1, 285
+called onItem: 287, 98, Gold, 1, 286
+called onItem: 288, 98, Gold, 1, 287
+called onItem: 289, 98, Gold, 1, 288
+called onItem: 290, 98, Gold, 1, 289
+called onItem: 291, 98, Gold, 1, 290
+called onItem: 292, 98, Gold, 1, 291
+called onItem: 293, 98, Gold, 1, 292
+called onItem: 294, 98, Gold, 1, 293
+called onItem: 295, 98, Gold, 1, 294
+called onItem: 296, 98, Gold, 1, 295
+called onItem: 297, 98, Gold, 1, 296
+called onItem: 298, 98, Gold, 1, 297
+called onItem: 299, 98, Gold, 1, 298
+called onItem: 300, 98, Gold, 1, 299
+called onItem: 301, 98, Gold, 1, 300
+called onItem: 302, 98, Gold, 1, 301
+called onItem: 303, 98, Gold, 1, 302
+called onItem: 304, 98, Gold, 1, 303
+called onItem: 305, 98, Gold, 1, 304
+called onItem: 306, 98, Gold, 1, 305
+called onItem: 307, 98, Gold, 1, 306
+called onItem: 308, 98, Gold, 1, 307
+called onItem: 309, 98, Gold, 1, 308
+called onItem: 310, 98, Gold, 1, 309
+called onItem: 311, 98, Gold, 1, 310
+called onItem: 312, 98, Gold, 1, 311
+called onItem: 313, 98, Gold, 1, 312
+called onItem: 314, 98, Gold, 1, 313
+called onItem: 315, 98, Gold, 1, 314
+called onItem: 316, 98, Gold, 1, 315
+called onItem: 317, 98, Gold, 1, 316
+called onItem: 318, 98, Gold, 1, 317
+called onItem: 319, 98, Gold, 1, 318
+called onItem: 320, 98, Gold, 1, 319
+called onItem: 321, 98, Gold, 1, 320
+called onItem: 322, 98, Gold, 1, 321
+called onItem: 323, 98, Gold, 1, 322
+called onItem: 324, 98, Gold, 1, 323
+called onItem: 325, 98, Gold, 1, 324
+called onItem: 326, 98, Gold, 1, 325
+called onItem: 327, 98, Gold, 1, 326
+called onItem: 328, 98, Gold, 1, 327
+called onItem: 329, 98, Gold, 1, 328
+called onItem: 330, 98, Gold, 1, 329
+called onItem: 331, 98, Gold, 1, 330
+called onItem: 332, 98, Gold, 1, 331
+called onItem: 333, 98, Gold, 1, 332
+called onItem: 334, 98, Gold, 1, 333
+called onItem: 335, 98, Gold, 1, 334
+called onItem: 336, 98, Gold, 1, 335
+called onItem: 337, 98, Gold, 1, 336
+called onItem: 338, 98, Gold, 1, 337
+called onItem: 339, 98, Gold, 1, 338
+called onItem: 340, 98, Gold, 1, 339
+called onItem: 341, 98, Gold, 1, 340
+called onItem: 342, 98, Gold, 1, 341
+called onItem: 343, 98, Gold, 1, 342
+called onItem: 344, 98, Gold, 1, 343
+called onItem: 345, 98, Gold, 1, 344
+called onItem: 346, 98, Gold, 1, 345
+called onItem: 347, 98, Gold, 1, 346
+called onItem: 348, 98, Gold, 1, 347
+called onItem: 349, 98, Gold, 1, 348
+called onItem: 350, 98, Gold, 1, 349
+called onItem: 351, 98, Gold, 1, 350
+called onItem: 352, 98, Gold, 1, 351
+called onItem: 353, 98, Gold, 1, 352
+called onItem: 354, 98, Gold, 1, 353
+called onItem: 355, 98, Gold, 1, 354
+called onItem: 356, 98, Gold, 1, 355
+called onItem: 357, 98, Gold, 1, 356
+called onItem: 358, 98, Gold, 1, 357
+called onItem: 359, 98, Gold, 1, 358
+called onItem: 360, 98, Gold, 1, 359
+called onItem: 361, 98, Gold, 1, 360
+called onItem: 362, 98, Gold, 1, 361
+called onItem: 363, 98, Gold, 1, 362
+called onItem: 364, 98, Gold, 1, 363
+called onItem: 365, 98, Gold, 1, 364
+called onItem: 366, 98, Gold, 1, 365
+called onItem: 367, 98, Gold, 1, 366
+called onItem: 368, 98, Gold, 1, 367
+called onItem: 369, 98, Gold, 1, 368
+called onItem: 370, 98, Gold, 1, 369
+called onItem: 371, 98, Gold, 1, 370
+called onItem: 372, 98, Gold, 1, 371
+called onItem: 373, 98, Gold, 1, 372
+called onItem: 374, 98, Gold, 1, 373
+called onItem: 375, 98, Gold, 1, 374
+called onItem: 376, 98, Gold, 1, 375
+called onItem: 377, 98, Gold, 1, 376
+called onItem: 378, 98, Gold, 1, 377
+called onItem: 379, 98, Gold, 1, 378
+called onItem: 380, 98, Gold, 1, 379
+called onItem: 381, 98, Gold, 1, 380
+called onItem: 382, 98, Gold, 1, 381
+called onItem: 383, 98, Gold, 1, 382
+called onItem: 384, 98, Gold, 1, 383
+called onItem: 385, 98, Gold, 1, 384
+called onItem: 386, 98, Gold, 1, 385
+called onItem: 387, 98, Gold, 1, 386
+called onItem: 388, 98, Gold, 1, 387
+called onItem: 389, 98, Gold, 1, 388
+called onItem: 390, 98, Gold, 1, 389
+called onItem: 391, 98, Gold, 1, 390
+called onItem: 392, 98, Gold, 1, 391
+called onItem: 393, 98, Gold, 1, 392
+called onItem: 394, 98, Gold, 1, 393
+called onItem: 395, 98, Gold, 1, 394
+called onItem: 396, 98, Gold, 1, 395
+called onItem: 397, 98, Gold, 1, 396
+called onItem: 398, 98, Gold, 1, 397
+called onItem: 399, 98, Gold, 1, 398
+called onItem: 400, 98, Gold, 1, 399
+called onItem: 401, 98, Gold, 1, 400
+called onItem: 402, 98, Gold, 1, 401
+called onItem: 403, 98, Gold, 1, 402
+called onItem: 404, 98, Gold, 1, 403
+called onItem: 405, 98, Gold, 1, 404
+called onItem: 406, 98, Gold, 1, 405
+called onItem: 407, 98, Gold, 1, 406
+called onItem: 408, 98, Gold, 1, 407
+called onItem: 409, 98, Gold, 1, 408
+called onItem: 410, 98, Gold, 1, 409
+called onItem: 411, 98, Gold, 1, 410
+called onItem: 412, 98, Gold, 1, 411
+called onItem: 413, 98, Gold, 1, 412
+called onItem: 414, 98, Gold, 1, 413
+called onItem: 415, 98, Gold, 1, 414
+called onItem: 416, 98, Gold, 1, 415
+called onItem: 417, 98, Gold, 1, 416
+called onItem: 418, 98, Gold, 1, 417
+called onItem: 419, 98, Gold, 1, 418
+called onItem: 420, 98, Gold, 1, 419
+called onItem: 421, 98, Gold, 1, 420
+called onItem: 422, 98, Gold, 1, 421
+called onItem: 423, 98, Gold, 1, 422
+called onItem: 424, 98, Gold, 1, 423
+called onItem: 425, 98, Gold, 1, 424
+called onItem: 426, 98, Gold, 1, 425
+called onItem: 427, 98, Gold, 1, 426
+called onItem: 428, 98, Gold, 1, 427
+called onItem: 429, 98, Gold, 1, 428
+called onItem: 430, 98, Gold, 1, 429
+called onItem: 431, 98, Gold, 1, 430
+called onItem: 432, 98, Gold, 1, 431
+called onItem: 433, 98, Gold, 1, 432
+called onItem: 434, 98, Gold, 1, 433
+called onItem: 435, 98, Gold, 1, 434
+called onItem: 436, 98, Gold, 1, 435
+called onItem: 437, 98, Gold, 1, 436
+called onItem: 438, 98, Gold, 1, 437
+called onItem: 439, 98, Gold, 1, 438
+called onItem: 440, 98, Gold, 1, 439
+called onItem: 441, 98, Gold, 1, 440
+called onItem: 442, 98, Gold, 1, 441
+called onItem: 443, 98, Gold, 1, 442
+called onItem: 444, 98, Gold, 1, 443
+called onItem: 445, 98, Gold, 1, 444
+called onItem: 446, 98, Gold, 1, 445
+called onItem: 447, 98, Gold, 1, 446
+called onItem: 448, 98, Gold, 1, 447
+called onItem: 449, 98, Gold, 1, 448
+called onItem: 450, 98, Gold, 1, 449
+called onItem: 451, 98, Gold, 1, 450
+called onItem: 452, 98, Gold, 1, 451
+called onItem: 453, 98, Gold, 1, 452
+called onItem: 454, 98, Gold, 1, 453
+called onItem: 455, 98, Gold, 1, 454
+called onItem: 456, 98, Gold, 1, 455
+called onItem: 457, 98, Gold, 1, 456
+called onItem: 458, 98, Gold, 1, 457
+called onItem: 459, 98, Gold, 1, 458
+called onItem: 460, 98, Gold, 1, 459
+called onItem: 461, 98, Gold, 1, 460
+called onItem: 462, 98, Gold, 1, 461
+called onItem: 463, 98, Gold, 1, 462
+called onItem: 464, 98, Gold, 1, 463
+called onItem: 465, 98, Gold, 1, 464
+called onItem: 466, 98, Gold, 1, 465
+called onItem: 467, 98, Gold, 1, 466
+called onItem: 468, 98, Gold, 1, 467
+called onItem: 469, 98, Gold, 1, 468
+called onItem: 470, 98, Gold, 1, 469
+called onItem: 471, 98, Gold, 1, 470
+called onItem: 472, 98, Gold, 1, 471
+called onItem: 473, 98, Gold, 1, 472
+called onItem: 474, 98, Gold, 1, 473
+called onItem: 475, 98, Gold, 1, 474
+called onItem: 476, 98, Gold, 1, 475
+called onItem: 477, 98, Gold, 1, 476
+called onItem: 478, 98, Gold, 1, 477
+called onItem: 479, 98, Gold, 1, 478
+called onLocation: 1, Starting Class
+called onLocation: 2, Kingdom Outskirts Battle 1
+called onLocation: 3, Kingdom Outskirts Chest 1
+called onLocation: 4, Kingdom Outskirts Battle 2
+called onLocation: 5, Kingdom Outskirts Chest 2
+called onLocation: 6, Kingdom Outskirts Battle 3
+called onLocation: 7, Scholar's Nest Battle 1
+called onLocation: 8, Scholar's Nest Battle 2
+called onLocation: 9, Scholar's Nest Battle 3
+called onLocation: 10, Scholar's Nest Chest
+called onLocation: 11, Scholar's Nest Boss
+called onLocation: 12, King's Arsenal Battle 1
+called onLocation: 13, King's Arsenal Battle 2
+called onLocation: 14, King's Arsenal Battle 3
+called onLocation: 15, King's Arsenal Chest
+called onLocation: 16, King's Arsenal Boss
+called onLocation: 17, Red Darkhouse Battle 1
+called onLocation: 18, Red Darkhouse Battle 2
+called onLocation: 19, Red Darkhouse Battle 3
+called onLocation: 20, Red Darkhouse Chest
+called onLocation: 21, Red Darkhouse Boss
+called onLocation: 22, Churchmouse Streets Battle 1
+called onLocation: 23, Churchmouse Streets Battle 2
+called onLocation: 24, Churchmouse Streets Battle 3
+called onLocation: 25, Churchmouse Streets Chest
+called onLocation: 26, Churchmouse Streets Boss
+called onLocation: 27, Emerald Lakeside Battle 1
+called onLocation: 28, Emerald Lakeside Battle 2
+called onLocation: 29, Emerald Lakeside Battle 3
+called onLocation: 30, Emerald Lakeside Chest
+called onLocation: 31, Emerald Lakeside Boss
+called onLocation: 32, The Pale Keep Battle 1
+called onLocation: 33, The Pale Keep Battle 2
+called onLocation: 34, The Pale Keep Battle 3
+called onLocation: 35, The Pale Keep Chest
+called onLocation: 36, Shira
+called onLocation: 37, Kingdom Outskirts Chest 1 Top Left
+called onLocation: 38, Kingdom Outskirts Chest 1 Bottom Left
+called onLocation: 39, Kingdom Outskirts Chest 1 Middle
+called onLocation: 40, Kingdom Outskirts Chest 1 Top Right
+called onLocation: 41, Kingdom Outskirts Chest 1 Bottom Right
+called onLocation: 42, Kingdom Outskirts Chest 2 Top Left
+called onLocation: 43, Kingdom Outskirts Chest 2 Bottom Left
+called onLocation: 44, Kingdom Outskirts Chest 2 Middle
+called onLocation: 45, Kingdom Outskirts Chest 2 Top Right
+called onLocation: 46, Kingdom Outskirts Chest 2 Bottom Right
+called onLocation: 47, Scholar's Nest Chest Top Left
+called onLocation: 48, Scholar's Nest Chest Bottom Left
+called onLocation: 49, Scholar's Nest Chest Middle
+called onLocation: 50, Scholar's Nest Chest Top Right
+called onLocation: 51, Scholar's Nest Chest Bottom Right
+called onLocation: 52, King's Arsenal Chest Top Left
+called onLocation: 53, King's Arsenal Chest Bottom Left
+called onLocation: 54, King's Arsenal Chest Middle
+called onLocation: 55, King's Arsenal Chest Top Right
+called onLocation: 56, King's Arsenal Chest Bottom Right
+called onLocation: 57, Red Darkhouse Chest Top Left
+called onLocation: 58, Red Darkhouse Chest Bottom Left
+called onLocation: 59, Red Darkhouse Chest Middle
+called onLocation: 60, Red Darkhouse Chest Top Right
+called onLocation: 61, Red Darkhouse Chest Bottom Right
+called onLocation: 62, Churchmouse Streets Chest Top Left
+called onLocation: 63, Churchmouse Streets Chest Bottom Left
+called onLocation: 64, Churchmouse Streets Chest Middle
+called onLocation: 65, Churchmouse Streets Chest Top Right
+called onLocation: 66, Churchmouse Streets Chest Bottom Right
+called onLocation: 67, Emerald Lakeside Chest Top Left
+called onLocation: 68, Emerald Lakeside Chest Bottom Left
+called onLocation: 69, Emerald Lakeside Chest Middle
+called onLocation: 70, Emerald Lakeside Chest Top Right
+called onLocation: 71, Emerald Lakeside Chest Bottom Right
+called onLocation: 72, The Pale Keep Chest Top Left
+called onLocation: 73, The Pale Keep Chest Bottom Left
+called onLocation: 74, The Pale Keep Chest Middle
+called onLocation: 75, The Pale Keep Chest Top Right
+called onLocation: 76, The Pale Keep Chest Bottom Right
+called onLocation: 77, Kingdom Outskirts Battle 1 - Wizard
+called onLocation: 78, Kingdom Outskirts Chest 1 - Wizard
+called onLocation: 79, Kingdom Outskirts Battle 2 - Wizard
+called onLocation: 80, Kingdom Outskirts Chest 2 - Wizard
+called onLocation: 81, Kingdom Outskirts Battle 3 - Wizard
+called onLocation: 82, Scholar's Nest Battle 1 - Wizard
+called onLocation: 83, Scholar's Nest Battle 2 - Wizard
+called onLocation: 84, Scholar's Nest Battle 3 - Wizard
+called onLocation: 85, Scholar's Nest Chest - Wizard
+called onLocation: 86, Scholar's Nest Boss - Wizard
+called onLocation: 87, King's Arsenal Battle 1 - Wizard
+called onLocation: 88, King's Arsenal Battle 2 - Wizard
+called onLocation: 89, King's Arsenal Battle 3 - Wizard
+called onLocation: 90, King's Arsenal Chest - Wizard
+called onLocation: 91, King's Arsenal Boss - Wizard
+called onLocation: 92, Red Darkhouse Battle 1 - Wizard
+called onLocation: 93, Red Darkhouse Battle 2 - Wizard
+called onLocation: 94, Red Darkhouse Battle 3 - Wizard
+called onLocation: 95, Red Darkhouse Chest - Wizard
+called onLocation: 96, Red Darkhouse Boss - Wizard
+called onLocation: 97, Churchmouse Streets Battle 1 - Wizard
+called onLocation: 98, Churchmouse Streets Battle 2 - Wizard
+called onLocation: 99, Churchmouse Streets Battle 3 - Wizard
+called onLocation: 100, Churchmouse Streets Chest - Wizard
+called onLocation: 101, Churchmouse Streets Boss - Wizard
+called onLocation: 102, Emerald Lakeside Battle 1 - Wizard
+called onLocation: 103, Emerald Lakeside Battle 2 - Wizard
+called onLocation: 104, Emerald Lakeside Battle 3 - Wizard
+called onLocation: 105, Emerald Lakeside Chest - Wizard
+called onLocation: 106, Emerald Lakeside Boss - Wizard
+called onLocation: 107, The Pale Keep Battle 1 - Wizard
+called onLocation: 108, The Pale Keep Battle 2 - Wizard
+called onLocation: 109, The Pale Keep Battle 3 - Wizard
+called onLocation: 110, The Pale Keep Chest - Wizard
+called onLocation: 111, Shira - Wizard
+called onLocation: 112, Kingdom Outskirts Battle 1 - Assassin
+called onLocation: 113, Kingdom Outskirts Chest 1 - Assassin
+called onLocation: 114, Kingdom Outskirts Battle 2 - Assassin
+called onLocation: 115, Kingdom Outskirts Chest 2 - Assassin
+called onLocation: 116, Kingdom Outskirts Battle 3 - Assassin
+called onLocation: 117, Scholar's Nest Battle 1 - Assassin
+called onLocation: 118, Scholar's Nest Battle 2 - Assassin
+called onLocation: 119, Scholar's Nest Battle 3 - Assassin
+called onLocation: 120, Scholar's Nest Chest - Assassin
+called onLocation: 121, Scholar's Nest Boss - Assassin
+called onLocation: 122, King's Arsenal Battle 1 - Assassin
+called onLocation: 123, King's Arsenal Battle 2 - Assassin
+called onLocation: 124, King's Arsenal Battle 3 - Assassin
+called onLocation: 125, King's Arsenal Chest - Assassin
+called onLocation: 126, King's Arsenal Boss - Assassin
+called onLocation: 127, Red Darkhouse Battle 1 - Assassin
+called onLocation: 128, Red Darkhouse Battle 2 - Assassin
+called onLocation: 129, Red Darkhouse Battle 3 - Assassin
+called onLocation: 130, Red Darkhouse Chest - Assassin
+called onLocation: 131, Red Darkhouse Boss - Assassin
+called onLocation: 132, Churchmouse Streets Battle 1 - Assassin
+called onLocation: 133, Churchmouse Streets Battle 2 - Assassin
+called onLocation: 134, Churchmouse Streets Battle 3 - Assassin
+called onLocation: 135, Churchmouse Streets Chest - Assassin
+called onLocation: 136, Churchmouse Streets Boss - Assassin
+called onLocation: 137, Emerald Lakeside Battle 1 - Assassin
+called onLocation: 138, Emerald Lakeside Battle 2 - Assassin
+called onLocation: 139, Emerald Lakeside Battle 3 - Assassin
+called onLocation: 140, Emerald Lakeside Chest - Assassin
+called onLocation: 141, Emerald Lakeside Boss - Assassin
+called onLocation: 142, The Pale Keep Battle 1 - Assassin
+called onLocation: 143, The Pale Keep Battle 2 - Assassin
+called onLocation: 144, The Pale Keep Battle 3 - Assassin
+called onLocation: 145, The Pale Keep Chest - Assassin
+called onLocation: 146, Shira - Assassin
+called onLocation: 147, Kingdom Outskirts Battle 1 - Heavyblade
+called onLocation: 148, Kingdom Outskirts Chest 1 - Heavyblade
+called onLocation: 149, Kingdom Outskirts Battle 2 - Heavyblade
+called onLocation: 150, Kingdom Outskirts Chest 2 - Heavyblade
+called onLocation: 151, Kingdom Outskirts Battle 3 - Heavyblade
+called onLocation: 152, Scholar's Nest Battle 1 - Heavyblade
+called onLocation: 153, Scholar's Nest Battle 2 - Heavyblade
+called onLocation: 154, Scholar's Nest Battle 3 - Heavyblade
+called onLocation: 155, Scholar's Nest Chest - Heavyblade
+called onLocation: 156, Scholar's Nest Boss - Heavyblade
+called onLocation: 157, King's Arsenal Battle 1 - Heavyblade
+called onLocation: 158, King's Arsenal Battle 2 - Heavyblade
+called onLocation: 159, King's Arsenal Battle 3 - Heavyblade
+called onLocation: 160, King's Arsenal Chest - Heavyblade
+called onLocation: 161, King's Arsenal Boss - Heavyblade
+called onLocation: 162, Red Darkhouse Battle 1 - Heavyblade
+called onLocation: 163, Red Darkhouse Battle 2 - Heavyblade
+called onLocation: 164, Red Darkhouse Battle 3 - Heavyblade
+called onLocation: 165, Red Darkhouse Chest - Heavyblade
+called onLocation: 166, Red Darkhouse Boss - Heavyblade
+called onLocation: 167, Churchmouse Streets Battle 1 - Heavyblade
+called onLocation: 168, Churchmouse Streets Battle 2 - Heavyblade
+called onLocation: 169, Churchmouse Streets Battle 3 - Heavyblade
+called onLocation: 170, Churchmouse Streets Chest - Heavyblade
+called onLocation: 171, Churchmouse Streets Boss - Heavyblade
+called onLocation: 172, Emerald Lakeside Battle 1 - Heavyblade
+called onLocation: 173, Emerald Lakeside Battle 2 - Heavyblade
+called onLocation: 174, Emerald Lakeside Battle 3 - Heavyblade
+called onLocation: 175, Emerald Lakeside Chest - Heavyblade
+called onLocation: 176, Emerald Lakeside Boss - Heavyblade
+called onLocation: 177, The Pale Keep Battle 1 - Heavyblade
+called onLocation: 178, The Pale Keep Battle 2 - Heavyblade
+called onLocation: 179, The Pale Keep Battle 3 - Heavyblade
+called onLocation: 180, The Pale Keep Chest - Heavyblade
+called onLocation: 181, Shira - Heavyblade
+called onLocation: 182, Kingdom Outskirts Battle 1 - Dancer
+called onLocation: 183, Kingdom Outskirts Chest 1 - Dancer
+called onLocation: 184, Kingdom Outskirts Battle 2 - Dancer
+called onLocation: 185, Kingdom Outskirts Chest 2 - Dancer
+called onLocation: 186, Kingdom Outskirts Battle 3 - Dancer
+called onLocation: 187, Scholar's Nest Battle 1 - Dancer
+called onLocation: 188, Scholar's Nest Battle 2 - Dancer
+called onLocation: 189, Scholar's Nest Battle 3 - Dancer
+called onLocation: 190, Scholar's Nest Chest - Dancer
+called onLocation: 191, Scholar's Nest Boss - Dancer
+called onLocation: 192, King's Arsenal Battle 1 - Dancer
+called onLocation: 193, King's Arsenal Battle 2 - Dancer
+called onLocation: 194, King's Arsenal Battle 3 - Dancer
+called onLocation: 195, King's Arsenal Chest - Dancer
+called onLocation: 196, King's Arsenal Boss - Dancer
+called onLocation: 197, Red Darkhouse Battle 1 - Dancer
+called onLocation: 198, Red Darkhouse Battle 2 - Dancer
+called onLocation: 199, Red Darkhouse Battle 3 - Dancer
+called onLocation: 200, Red Darkhouse Chest - Dancer
+called onLocation: 201, Red Darkhouse Boss - Dancer
+called onLocation: 202, Churchmouse Streets Battle 1 - Dancer
+called onLocation: 203, Churchmouse Streets Battle 2 - Dancer
+called onLocation: 204, Churchmouse Streets Battle 3 - Dancer
+called onLocation: 205, Churchmouse Streets Chest - Dancer
+called onLocation: 206, Churchmouse Streets Boss - Dancer
+called onLocation: 207, Emerald Lakeside Battle 1 - Dancer
+called onLocation: 208, Emerald Lakeside Battle 2 - Dancer
+called onLocation: 209, Emerald Lakeside Battle 3 - Dancer
+called onLocation: 210, Emerald Lakeside Chest - Dancer
+called onLocation: 211, Emerald Lakeside Boss - Dancer
+called onLocation: 212, The Pale Keep Battle 1 - Dancer
+called onLocation: 213, The Pale Keep Battle 2 - Dancer
+called onLocation: 214, The Pale Keep Battle 3 - Dancer
+called onLocation: 215, The Pale Keep Chest - Dancer
+called onLocation: 216, Shira - Dancer
+called onLocation: 217, Kingdom Outskirts Battle 1 - Druid
+called onLocation: 218, Kingdom Outskirts Chest 1 - Druid
+called onLocation: 219, Kingdom Outskirts Battle 2 - Druid
+called onLocation: 220, Kingdom Outskirts Chest 2 - Druid
+called onLocation: 221, Kingdom Outskirts Battle 3 - Druid
+called onLocation: 222, Scholar's Nest Battle 1 - Druid
+called onLocation: 223, Scholar's Nest Battle 2 - Druid
+called onLocation: 224, Scholar's Nest Battle 3 - Druid
+called onLocation: 225, Scholar's Nest Chest - Druid
+called onLocation: 226, Scholar's Nest Boss - Druid
+called onLocation: 227, King's Arsenal Battle 1 - Druid
+called onLocation: 228, King's Arsenal Battle 2 - Druid
+called onLocation: 229, King's Arsenal Battle 3 - Druid
+called onLocation: 230, King's Arsenal Chest - Druid
+called onLocation: 231, King's Arsenal Boss - Druid
+called onLocation: 232, Red Darkhouse Battle 1 - Druid
+called onLocation: 233, Red Darkhouse Battle 2 - Druid
+called onLocation: 234, Red Darkhouse Battle 3 - Druid
+called onLocation: 235, Red Darkhouse Chest - Druid
+called onLocation: 236, Red Darkhouse Boss - Druid
+called onLocation: 237, Churchmouse Streets Battle 1 - Druid
+called onLocation: 238, Churchmouse Streets Battle 2 - Druid
+called onLocation: 239, Churchmouse Streets Battle 3 - Druid
+called onLocation: 240, Churchmouse Streets Chest - Druid
+called onLocation: 241, Churchmouse Streets Boss - Druid
+called onLocation: 242, Emerald Lakeside Battle 1 - Druid
+called onLocation: 243, Emerald Lakeside Battle 2 - Druid
+called onLocation: 244, Emerald Lakeside Battle 3 - Druid
+called onLocation: 245, Emerald Lakeside Chest - Druid
+called onLocation: 246, Emerald Lakeside Boss - Druid
+called onLocation: 247, The Pale Keep Battle 1 - Druid
+called onLocation: 248, The Pale Keep Battle 2 - Druid
+called onLocation: 249, The Pale Keep Battle 3 - Druid
+called onLocation: 250, The Pale Keep Chest - Druid
+called onLocation: 251, Shira - Druid
+called onLocation: 252, Kingdom Outskirts Battle 1 - Spellsword
+called onLocation: 253, Kingdom Outskirts Chest 1 - Spellsword
+called onLocation: 254, Kingdom Outskirts Battle 2 - Spellsword
+called onLocation: 255, Kingdom Outskirts Chest 2 - Spellsword
+called onLocation: 256, Kingdom Outskirts Battle 3 - Spellsword
+called onLocation: 257, Scholar's Nest Battle 1 - Spellsword
+called onLocation: 258, Scholar's Nest Battle 2 - Spellsword
+called onLocation: 259, Scholar's Nest Battle 3 - Spellsword
+called onLocation: 260, Scholar's Nest Chest - Spellsword
+called onLocation: 261, Scholar's Nest Boss - Spellsword
+called onLocation: 262, King's Arsenal Battle 1 - Spellsword
+called onLocation: 263, King's Arsenal Battle 2 - Spellsword
+called onLocation: 264, King's Arsenal Battle 3 - Spellsword
+called onLocation: 265, King's Arsenal Chest - Spellsword
+called onLocation: 266, King's Arsenal Boss - Spellsword
+called onLocation: 267, Red Darkhouse Battle 1 - Spellsword
+called onLocation: 268, Red Darkhouse Battle 2 - Spellsword
+called onLocation: 269, Red Darkhouse Battle 3 - Spellsword
+called onLocation: 270, Red Darkhouse Chest - Spellsword
+called onLocation: 271, Red Darkhouse Boss - Spellsword
+called onLocation: 272, Churchmouse Streets Battle 1 - Spellsword
+called onLocation: 273, Churchmouse Streets Battle 2 - Spellsword
+called onLocation: 274, Churchmouse Streets Battle 3 - Spellsword
+called onLocation: 275, Churchmouse Streets Chest - Spellsword
+called onLocation: 276, Churchmouse Streets Boss - Spellsword
+called onLocation: 277, Emerald Lakeside Battle 1 - Spellsword
+called onLocation: 278, Emerald Lakeside Battle 2 - Spellsword
+called onLocation: 279, Emerald Lakeside Battle 3 - Spellsword
+called onLocation: 280, Emerald Lakeside Chest - Spellsword
+called onLocation: 281, Emerald Lakeside Boss - Spellsword
+called onLocation: 282, The Pale Keep Battle 1 - Spellsword
+called onLocation: 283, The Pale Keep Battle 2 - Spellsword
+called onLocation: 284, The Pale Keep Battle 3 - Spellsword
+called onLocation: 285, The Pale Keep Chest - Spellsword
+called onLocation: 286, Shira - Spellsword
+called onLocation: 287, Kingdom Outskirts Battle 1 - Sniper
+called onLocation: 288, Kingdom Outskirts Chest 1 - Sniper
+called onLocation: 289, Kingdom Outskirts Battle 2 - Sniper
+called onLocation: 290, Kingdom Outskirts Chest 2 - Sniper
+called onLocation: 291, Kingdom Outskirts Battle 3 - Sniper
+called onLocation: 292, Scholar's Nest Battle 1 - Sniper
+called onLocation: 293, Scholar's Nest Battle 2 - Sniper
+called onLocation: 294, Scholar's Nest Battle 3 - Sniper
+called onLocation: 295, Scholar's Nest Chest - Sniper
+called onLocation: 296, Scholar's Nest Boss - Sniper
+called onLocation: 297, King's Arsenal Battle 1 - Sniper
+called onLocation: 298, King's Arsenal Battle 2 - Sniper
+called onLocation: 299, King's Arsenal Battle 3 - Sniper
+called onLocation: 300, King's Arsenal Chest - Sniper
+called onLocation: 301, King's Arsenal Boss - Sniper
+called onLocation: 302, Red Darkhouse Battle 1 - Sniper
+called onLocation: 303, Red Darkhouse Battle 2 - Sniper
+called onLocation: 304, Red Darkhouse Battle 3 - Sniper
+called onLocation: 305, Red Darkhouse Chest - Sniper
+called onLocation: 306, Red Darkhouse Boss - Sniper
+called onLocation: 307, Churchmouse Streets Battle 1 - Sniper
+called onLocation: 308, Churchmouse Streets Battle 2 - Sniper
+called onLocation: 309, Churchmouse Streets Battle 3 - Sniper
+called onLocation: 310, Churchmouse Streets Chest - Sniper
+called onLocation: 311, Churchmouse Streets Boss - Sniper
+called onLocation: 312, Emerald Lakeside Battle 1 - Sniper
+called onLocation: 313, Emerald Lakeside Battle 2 - Sniper
+called onLocation: 314, Emerald Lakeside Battle 3 - Sniper
+called onLocation: 315, Emerald Lakeside Chest - Sniper
+called onLocation: 316, Emerald Lakeside Boss - Sniper
+called onLocation: 317, The Pale Keep Battle 1 - Sniper
+called onLocation: 318, The Pale Keep Battle 2 - Sniper
+called onLocation: 319, The Pale Keep Battle 3 - Sniper
+called onLocation: 320, The Pale Keep Chest - Sniper
+called onLocation: 321, Shira - Sniper
+called onLocation: 322, Kingdom Outskirts Battle 1 - Bruiser
+called onLocation: 323, Kingdom Outskirts Chest 1 - Bruiser
+called onLocation: 324, Kingdom Outskirts Battle 2 - Bruiser
+called onLocation: 325, Kingdom Outskirts Chest 2 - Bruiser
+called onLocation: 326, Kingdom Outskirts Battle 3 - Bruiser
+called onLocation: 327, Scholar's Nest Battle 1 - Bruiser
+called onLocation: 328, Scholar's Nest Battle 2 - Bruiser
+called onLocation: 329, Scholar's Nest Battle 3 - Bruiser
+called onLocation: 330, Scholar's Nest Chest - Bruiser
+called onLocation: 331, Scholar's Nest Boss - Bruiser
+called onLocation: 332, King's Arsenal Battle 1 - Bruiser
+called onLocation: 333, King's Arsenal Battle 2 - Bruiser
+called onLocation: 334, King's Arsenal Battle 3 - Bruiser
+called onLocation: 335, King's Arsenal Chest - Bruiser
+called onLocation: 336, King's Arsenal Boss - Bruiser
+called onLocation: 337, Red Darkhouse Battle 1 - Bruiser
+called onLocation: 338, Red Darkhouse Battle 2 - Bruiser
+called onLocation: 339, Red Darkhouse Battle 3 - Bruiser
+called onLocation: 340, Red Darkhouse Chest - Bruiser
+called onLocation: 341, Red Darkhouse Boss - Bruiser
+called onLocation: 342, Churchmouse Streets Battle 1 - Bruiser
+called onLocation: 343, Churchmouse Streets Battle 2 - Bruiser
+called onLocation: 344, Churchmouse Streets Battle 3 - Bruiser
+called onLocation: 345, Churchmouse Streets Chest - Bruiser
+called onLocation: 346, Churchmouse Streets Boss - Bruiser
+called onLocation: 347, Emerald Lakeside Battle 1 - Bruiser
+called onLocation: 348, Emerald Lakeside Battle 2 - Bruiser
+called onLocation: 349, Emerald Lakeside Battle 3 - Bruiser
+called onLocation: 350, Emerald Lakeside Chest - Bruiser
+called onLocation: 351, Emerald Lakeside Boss - Bruiser
+called onLocation: 352, The Pale Keep Battle 1 - Bruiser
+called onLocation: 353, The Pale Keep Battle 2 - Bruiser
+called onLocation: 354, The Pale Keep Battle 3 - Bruiser
+called onLocation: 355, The Pale Keep Chest - Bruiser
+called onLocation: 356, Shira - Bruiser
+called onLocation: 357, Kingdom Outskirts Battle 1 - Defender
+called onLocation: 358, Kingdom Outskirts Chest 1 - Defender
+called onLocation: 359, Kingdom Outskirts Battle 2 - Defender
+called onLocation: 360, Kingdom Outskirts Chest 2 - Defender
+called onLocation: 361, Kingdom Outskirts Battle 3 - Defender
+called onLocation: 362, Scholar's Nest Battle 1 - Defender
+called onLocation: 363, Scholar's Nest Battle 2 - Defender
+called onLocation: 364, Scholar's Nest Battle 3 - Defender
+called onLocation: 365, Scholar's Nest Chest - Defender
+called onLocation: 366, Scholar's Nest Boss - Defender
+called onLocation: 367, King's Arsenal Battle 1 - Defender
+called onLocation: 368, King's Arsenal Battle 2 - Defender
+called onLocation: 369, King's Arsenal Battle 3 - Defender
+called onLocation: 370, King's Arsenal Chest - Defender
+called onLocation: 371, King's Arsenal Boss - Defender
+called onLocation: 372, Red Darkhouse Battle 1 - Defender
+called onLocation: 373, Red Darkhouse Battle 2 - Defender
+called onLocation: 374, Red Darkhouse Battle 3 - Defender
+called onLocation: 375, Red Darkhouse Chest - Defender
+called onLocation: 376, Red Darkhouse Boss - Defender
+called onLocation: 377, Churchmouse Streets Battle 1 - Defender
+called onLocation: 378, Churchmouse Streets Battle 2 - Defender
+called onLocation: 379, Churchmouse Streets Battle 3 - Defender
+called onLocation: 380, Churchmouse Streets Chest - Defender
+called onLocation: 381, Churchmouse Streets Boss - Defender
+called onLocation: 382, Emerald Lakeside Battle 1 - Defender
+called onLocation: 383, Emerald Lakeside Battle 2 - Defender
+called onLocation: 384, Emerald Lakeside Battle 3 - Defender
+called onLocation: 385, Emerald Lakeside Chest - Defender
+called onLocation: 386, Emerald Lakeside Boss - Defender
+called onLocation: 387, The Pale Keep Battle 1 - Defender
+called onLocation: 388, The Pale Keep Battle 2 - Defender
+called onLocation: 389, The Pale Keep Battle 3 - Defender
+called onLocation: 390, The Pale Keep Chest - Defender
+called onLocation: 391, Shira - Defender
+called onLocation: 392, Kingdom Outskirts Battle 1 - Ancient
+called onLocation: 393, Kingdom Outskirts Chest 1 - Ancient
+called onLocation: 394, Kingdom Outskirts Battle 2 - Ancient
+called onLocation: 395, Kingdom Outskirts Chest 2 - Ancient
+called onLocation: 396, Kingdom Outskirts Battle 3 - Ancient
+called onLocation: 397, Scholar's Nest Battle 1 - Ancient
+called onLocation: 398, Scholar's Nest Battle 2 - Ancient
+called onLocation: 399, Scholar's Nest Battle 3 - Ancient
+called onLocation: 400, Scholar's Nest Chest - Ancient
+called onLocation: 401, Scholar's Nest Boss - Ancient
+called onLocation: 402, King's Arsenal Battle 1 - Ancient
+called onLocation: 403, King's Arsenal Battle 2 - Ancient
+called onLocation: 404, King's Arsenal Battle 3 - Ancient
+called onLocation: 405, King's Arsenal Chest - Ancient
+called onLocation: 406, King's Arsenal Boss - Ancient
+called onLocation: 407, Red Darkhouse Battle 1 - Ancient
+called onLocation: 408, Red Darkhouse Battle 2 - Ancient
+called onLocation: 409, Red Darkhouse Battle 3 - Ancient
+called onLocation: 410, Red Darkhouse Chest - Ancient
+called onLocation: 411, Red Darkhouse Boss - Ancient
+called onLocation: 412, Churchmouse Streets Battle 1 - Ancient
+called onLocation: 413, Churchmouse Streets Battle 2 - Ancient
+called onLocation: 414, Churchmouse Streets Battle 3 - Ancient
+called onLocation: 415, Churchmouse Streets Chest - Ancient
+called onLocation: 416, Churchmouse Streets Boss - Ancient
+called onLocation: 417, Emerald Lakeside Battle 1 - Ancient
+called onLocation: 418, Emerald Lakeside Battle 2 - Ancient
+called onLocation: 419, Emerald Lakeside Battle 3 - Ancient
+called onLocation: 420, Emerald Lakeside Chest - Ancient
+called onLocation: 421, Emerald Lakeside Boss - Ancient
+called onLocation: 422, The Pale Keep Battle 1 - Ancient
+called onLocation: 423, The Pale Keep Battle 2 - Ancient
+called onLocation: 424, The Pale Keep Battle 3 - Ancient
+called onLocation: 425, The Pale Keep Chest - Ancient
+called onLocation: 426, Shira - Ancient
+called onLocation: 436, Scholar's Nest Shop Full Heal Potion Slot
+called onLocation: 437, Scholar's Nest Shop Level Up Slot
+called onLocation: 438, Scholar's Nest Shop Potion 1 Slot
+called onLocation: 439, Scholar's Nest Shop Potion 2 Slot
+called onLocation: 440, Scholar's Nest Shop Potion 3 Slot
+called onLocation: 441, Scholar's Nest Shop Primary Upgrade Slot
+called onLocation: 442, Scholar's Nest Shop Secondary Upgrade Slot
+called onLocation: 443, Scholar's Nest Shop Special Upgrade Slot
+called onLocation: 444, Scholar's Nest Shop Defensive Upgrade Slot
+called onLocation: 445, King's Arsenal Shop Full Heal Potion Slot
+called onLocation: 446, King's Arsenal Shop Level Up Slot
+called onLocation: 447, King's Arsenal Shop Potion 1 Slot
+called onLocation: 448, King's Arsenal Shop Potion 2 Slot
+called onLocation: 449, King's Arsenal Shop Potion 3 Slot
+called onLocation: 450, King's Arsenal Shop Primary Upgrade Slot
+called onLocation: 451, King's Arsenal Shop Secondary Upgrade Slot
+called onLocation: 452, King's Arsenal Shop Special Upgrade Slot
+called onLocation: 453, King's Arsenal Shop Defensive Upgrade Slot
+called onLocation: 454, Red Darkhouse Shop Full Heal Potion Slot
+called onLocation: 455, Red Darkhouse Shop Level Up Slot
+called onLocation: 456, Red Darkhouse Shop Potion 1 Slot
+called onLocation: 457, Red Darkhouse Shop Potion 2 Slot
+called onLocation: 458, Red Darkhouse Shop Potion 3 Slot
+called onLocation: 459, Red Darkhouse Shop Primary Upgrade Slot
+called onLocation: 460, Red Darkhouse Shop Secondary Upgrade Slot
+called onLocation: 461, Red Darkhouse Shop Special Upgrade Slot
+called onLocation: 462, Red Darkhouse Shop Defensive Upgrade Slot
+called onLocation: 463, Churchmouse Streets Shop Full Heal Potion Slot
+called onLocation: 464, Churchmouse Streets Shop Level Up Slot
+called onLocation: 465, Churchmouse Streets Shop Potion 1 Slot
+called onLocation: 466, Churchmouse Streets Shop Potion 2 Slot
+called onLocation: 467, Churchmouse Streets Shop Potion 3 Slot
+called onLocation: 468, Churchmouse Streets Shop Primary Upgrade Slot
+called onLocation: 469, Churchmouse Streets Shop Secondary Upgrade Slot
+called onLocation: 470, Churchmouse Streets Shop Special Upgrade Slot
+called onLocation: 471, Churchmouse Streets Shop Defensive Upgrade Slot
+called onLocation: 472, Emerald Lakeside Shop Full Heal Potion Slot
+called onLocation: 473, Emerald Lakeside Shop Level Up Slot
+called onLocation: 474, Emerald Lakeside Shop Potion 1 Slot
+called onLocation: 475, Emerald Lakeside Shop Potion 2 Slot
+called onLocation: 476, Emerald Lakeside Shop Potion 3 Slot
+called onLocation: 477, Emerald Lakeside Shop Primary Upgrade Slot
+called onLocation: 478, Emerald Lakeside Shop Secondary Upgrade Slot
+called onLocation: 479, Emerald Lakeside Shop Special Upgrade Slot
+called onLocation: 480, Emerald Lakeside Shop Defensive Upgrade Slot
+called onLocation: 481, The Pale Keep Shop Full Heal Potion Slot
+called onLocation: 482, The Pale Keep Shop Level Up Slot
+called onLocation: 483, The Pale Keep Shop Potion 1 Slot
+called onLocation: 484, The Pale Keep Shop Potion 2 Slot
+called onLocation: 485, The Pale Keep Shop Potion 3 Slot
+called onLocation: 486, The Pale Keep Shop Primary Upgrade Slot
+called onLocation: 487, The Pale Keep Shop Secondary Upgrade Slot
+called onLocation: 488, The Pale Keep Shop Special Upgrade Slot
+called onLocation: 489, The Pale Keep Shop Defensive Upgrade Slot

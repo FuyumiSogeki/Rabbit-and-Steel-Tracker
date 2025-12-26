@@ -1,0 +1,171 @@
+{
+    "tracker_horizontal": 
+    {
+        "type": "container",
+        "background": "#000000",
+        "content": 
+        {
+            "type": "dock",
+            "dropshadow": true,
+            "content": 
+            [
+                {
+                    "type": "tabbed",
+                    "tabs": 
+                    [
+                        {
+                            "title": "Kingdom",
+                            "content":
+                            [
+                                {
+                                    "type": "tabbed",
+                                    "tabs": 
+                                    [
+                                        {
+                                            "title": "The Kingdom",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Kingdom"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Kingdom Outskirts",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Outskirts"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Scholar's Nest",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Scholar"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "King's Arsenal",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Arsenal"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "The Red Darkhouse",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Darkhouse"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Churchmouse Streets",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Churchmouse"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Emerald Lakeside",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Lakeside"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "The Pale Keep",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Pale"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Moonlit Pinnacle",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Pinnacle"
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Characters",
+                            "content":
+                            [
+                                {
+                                    "type": "map",
+                                    "maps": 
+                                    [
+                                        "Characters"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Shop",
+                            "content":
+                            [
+                                {
+                                    "type": "map",
+                                    "maps": 
+                                    [
+                                        "Shop"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Treasuresphere",
+                            "content":
+                            [
+                                {
+                                    "type": "map",
+                                    "maps": 
+                                    [
+                                        "Treasuresphere"
+                                    ]
+                                }
+                            ]
+                        }
+                    ] 
+                }
+            ]
+        }
+    }
+}

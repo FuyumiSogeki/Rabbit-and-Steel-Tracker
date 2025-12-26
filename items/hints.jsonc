@@ -1,0 +1,846 @@
+[
+    {
+        "name": "Gold Moonlit Dust Hint",
+        "type": "toggle",
+        "codes": "gold_moonlit_dust_hint"
+    },
+    {
+        "name": "Silver Moonlit Dust Hint",
+        "type": "toggle",
+        "codes": "silver_moonlit_dust_hint"
+    },
+    {
+        "name": "Wooden Box Hint",
+        "type": "toggle",
+        "codes": "wooden_box_hint"
+    },
+    {
+        "name": "Windmill Key Hint",
+        "type": "toggle",
+        "codes": "windmill_key_hint"
+    },
+    {
+        "name": "Sacred Anemone Hint",
+        "type": "toggle",
+        "codes": "sacred_anemone_hint"
+    },
+    {
+        "name": "Crescent Moonflower Hint",
+        "type": "toggle",
+        "codes": "crescent_moonflower_hint"
+    },
+    {
+        "name": "Awakened Sacred Leaf Hint",
+        "type": "toggle",
+        "codes": "awakened_sacred_leaf_hint"
+    },
+    {
+        "name": "Lunar Attunement Hint",
+        "type": "toggle",
+        "codes": "lunar_attunement_hint"
+    },
+    {
+        "name": "Spiral Shell Hint",
+        "type": "toggle",
+        "codes": "spiral_shell_hint"
+    },
+    {
+        "name": "Mitchi Fast Travel Hint",
+        "type": "toggle",
+        "codes": "mitchi_fast_travel_hint"
+    },
+    {
+        "name": "Grimoire Hint",
+        "type": "toggle",
+        "codes": "grimoire_hint"
+    },
+    {
+        "name": "Tattered Grimoire Hint",
+        "type": "toggle",
+        "codes": "tattered_grimoire_hint"
+    },
+    {
+        "name": "Dusty Grimoire Hint",
+        "type": "toggle",
+        "codes": "dusty_grimoire_hint"
+    },
+    {
+        "name": "Last Wish Hint",
+        "type": "toggle",
+        "codes": "last_wish_hint"
+    },
+    {
+        "name": "Cloudy Blood Hint",
+        "type": "toggle",
+        "codes": "cloudy_blood_hint"
+    },
+    {
+        "name": "The Profiteer Hint",
+        "type": "toggle",
+        "codes": "the_profiteer_hint"
+    },
+    {
+        "name": "Dark Healer Hint",
+        "type": "toggle",
+        "codes": "dark_healer_hint"
+    },
+    {
+        "name": "Demilune Whisper Hint",
+        "type": "toggle",
+        "codes": "demilune_whisper_hint"
+    },
+    {
+        "name": "Magic Blade Hint",
+        "type": "toggle",
+        "codes": "magic_blade_hint"
+    },
+    {
+        "name": "Perfect Chime Hint",
+        "type": "toggle",
+        "codes": "perfect_chime_hint"
+    },
+    {
+        "name": "Queen of Light Hint",
+        "type": "toggle",
+        "codes": "queen_of_light_hint"
+    },
+    {
+        "name": "Strongfist Hint",
+        "type": "toggle",
+        "codes": "strongfist_hint"
+    },
+    {
+        "name": "Living Edge Hint",
+        "type": "toggle",
+        "codes": "living_edge_hint"
+    },
+    {
+        "name": "The Fool Hint",
+        "type": "toggle",
+        "codes": "the_fool_hint"
+    },
+    {
+        "name": "Living Blood Hint",
+        "type": "toggle",
+        "codes": "living_blood_hint"
+    },
+    {
+        "name": "Fallen Hero Hint",
+        "type": "toggle",
+        "codes": "fallen_hero_hint"
+    },
+    {
+        "name": "Resonance of Ifriya Hint",
+        "type": "toggle",
+        "codes": "resonance_of_ifriya_hint"
+    },
+    {
+        "name": "The Collector Hint",
+        "type": "toggle",
+        "codes": "the_collector_hint"
+    },
+    {
+        "name": "The Hunter Hint",
+        "type": "toggle",
+        "codes": "the_hunter_hint"
+    },
+    {
+        "name": "The Arsonist Hint",
+        "type": "toggle",
+        "codes": "the_arsonist_hint"
+    },
+    {
+        "name": "Chrysanth Hint",
+        "type": "toggle",
+        "codes": "chrysanth_hint"
+    },
+    {
+        "name": "The Fortunate Hint",
+        "type": "toggle",
+        "codes": "the_fortunate_hint"
+    },
+    {
+        "name": "Glazed Aegis Hint",
+        "type": "toggle",
+        "codes": "glazed_aegis_hint"
+    },
+    {
+        "name": "Mending Resonance Hint",
+        "type": "toggle",
+        "codes": "mending_resonance_hint"
+    },
+    {
+        "name": "The Blessed Hint",
+        "type": "toggle",
+        "codes": "the_blessed_hint"
+    },
+    {
+        "name": "Companionship Pact Hint",
+        "type": "toggle",
+        "codes": "companionship_pact_hint"
+    },
+    {
+        "name": "Queen of Dusk Hint",
+        "type": "toggle",
+        "codes": "queen_of_dusk_hint"
+    },
+    {
+        "name": "The Sharpshooter Hint",
+        "type": "toggle",
+        "codes": "the_sharpshooter_hint"
+    },
+    {
+        "name": "Phantasm Blade Hint",
+        "type": "toggle",
+        "codes": "phantasm_blade_hint"
+    },
+    {
+        "name": "Pawn Hint",
+        "type": "toggle",
+        "codes": "pawn_hint"
+    },
+    {
+        "name": "Oracle Hint",
+        "type": "toggle",
+        "codes": "oracle_hint"
+    },
+    {
+        "name": "Ascended Slash Hint",
+        "type": "toggle",
+        "codes": "ascended_slash_hint"
+    },
+    {
+        "name": "Quintessence Hint",
+        "type": "toggle",
+        "codes": "quintessence_hint"
+    },
+    {
+        "name": "Resolve Hint",
+        "type": "toggle",
+        "codes": "resolve_hint"
+    },
+    {
+        "name": "Serval Hint",
+        "type": "toggle",
+        "codes": "serval_hint"
+    },
+    {
+        "name": "Welkin Leaf Hint",
+        "type": "toggle",
+        "codes": "welkin_leaf_hint"
+    },
+    {
+        "name": "Mudwalker Hint",
+        "type": "toggle",
+        "codes": "mudwalker_hint"
+    },
+    {
+        "name": "Hare Hint",
+        "type": "toggle",
+        "codes": "hare_hint"
+    },
+    {
+        "name": "Trinary Hint",
+        "type": "toggle",
+        "codes": "trinary_hint"
+    },
+    {
+        "name": "Grimalkin Spirit Hint",
+        "type": "toggle",
+        "codes": "grimalking_spirit_hint"
+    },
+    {
+        "name": "Lawa Hint",
+        "type": "toggle",
+        "codes": "lawa_hint"
+    },
+    {
+        "name": "Floating Skull Hint",
+        "type": "toggle",
+        "codes": "floating_skull_hint"
+    },
+    {
+        "name": "Bakman Hint",
+        "type": "toggle",
+        "codes": "bakman_hint"
+    },
+    {
+        "name": "Simple Cube Hint",
+        "type": "toggle",
+        "codes": "simple_cube_hint"
+    },
+    {
+        "name": "Kaho Hint",
+        "type": "toggle",
+        "codes": "kaho_hint"
+    },
+    {
+        "name": "Vampire Bat Hint",
+        "type": "toggle",
+        "codes": "vampire_bat_hint"
+    },
+    {
+        "name": "Ducky Hint",
+        "type": "toggle",
+        "codes": "ducky_hint"
+    },
+    {
+        "name": "Cactus Hint",
+        "type": "toggle",
+        "codes": "cactus_hint"
+    },
+    {
+        "name": "Dora Hint",
+        "type": "toggle",
+        "codes": "dora_hint"
+    },
+    {
+        "name": "Nun Hint",
+        "type": "toggle",
+        "codes": "nun_hint"
+    },
+    {
+        "name": "Lineth Hint",
+        "type": "toggle",
+        "codes": "lineth_hint"
+    },    
+    {
+        "name": "Gariser Demon Hint",
+        "type": "toggle",
+        "codes": "gariser_demon_hint"
+    },    
+    {
+        "name": "Raging Demon Hint",
+        "type": "toggle",
+        "codes": "raging_demon_hint"
+    },    
+    {
+        "name": "Harpy Archdemon Hint",
+        "type": "toggle",
+        "codes": "harpy_archdemon_hint"
+    },    
+    {
+        "name": "Black Cat Hint",
+        "type": "toggle",
+        "codes": "black_cat_hint"
+    },    
+    {
+        "name": "Very Big Spider Hint",
+        "type": "toggle",
+        "codes": "very_big_spider_hint"
+    },    
+    {
+        "name": "Viper Archdemon Sorrellia Hint",
+        "type": "toggle",
+        "codes": "viper_archdemon_sorrellia_hint"
+    },    
+    {
+        "name": "Tainted Serpent Hint",
+        "type": "toggle",
+        "codes": "tainted_serpent_hint"
+    },    
+    {
+        "name": "Remnant of an Unknown Phantasm Hint",
+        "type": "toggle",
+        "codes": "remnant_of_an_unknown_phantasm_hint"
+    },    
+    {
+        "name": "Accursed Autarch Hint",
+        "type": "toggle",
+        "codes": "accursed_autarch_hint"
+    },    
+    {
+        "name": "Bloodthristy Siblings Hint",
+        "type": "toggle",
+        "codes": "bloodthirsty_siblings_hint"
+    },    
+    {
+        "name": "Moon Goddess Lineth Hint",
+        "type": "toggle",
+        "codes": "moon_goddess_lineth_hint"
+    },    
+    {
+        "name": "Selin's Fear Hint",
+        "type": "toggle",
+        "codes": "selin_fear_hint"
+    },    
+    {
+        "name": "Selin's Mendacity Hint",
+        "type": "toggle",
+        "codes": "selin_mendacity_hint"
+    },    
+    {
+        "name": "Selin's Envy Hint",
+        "type": "toggle",
+        "codes": "selin_envy_hint"
+    },    
+    {
+        "name": "Selin's Sorrow Hint",
+        "type": "toggle",
+        "codes": "selin_sorrow_hint"
+    },    
+    {
+        "name": "Moon God Selin Hint",
+        "type": "toggle",
+        "codes": "moon_god_selin_hint"
+    },
+    {
+        "name": "Heavenly Lily Koho Village Hint",
+        "type": "toggle",
+        "codes": "lily_koho_village_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Old Sanctuary Hint",
+        "type": "toggle",
+        "codes": "lily_1_old_sanctuary_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Old Sanctuary Hint",
+        "type": "toggle",
+        "codes": "lily_2_old_sanctuary_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "lily_1_springleaf_path_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "lily_2_springleaf_path_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "lily_2_lun_tree_roots_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "lily_1_lun_tree_roots_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "lily_1_fairy_spring_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Fairy Village Hint",
+        "type": "toggle",
+        "codes": "lily_2_fairy_village_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Fairy Village Hint",
+        "type": "toggle",
+        "codes": "lily_1_fairy_village_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "lily_1_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Heavenly Lily 3 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "lily_3_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "lily_2_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Moonlight Repose Hint",
+        "type": "toggle",
+        "codes": "lily_2_moonlight_repose_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Moonlight Repose Hint",
+        "type": "toggle",
+        "codes": "lily_1_moonlight_repose_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "lily_1_demon_frontier_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "lily_2_demon_frontier_hint"
+    },
+    {
+        "name": "Heavenly Lily 3 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "lily_3_demon_frontier_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Meikan Village Hint",
+        "type": "toggle",
+        "codes": "lily_1_meikan_village_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Meikan Village Hint",
+        "type": "toggle",
+        "codes": "lily_2_meikan_village_hint"
+    },
+    {
+        "name": "Heavenly Lily 3 Meikan Village Hint",
+        "type": "toggle",
+        "codes": "lily_3_meikan_village_hint"
+    },
+    {
+        "name": "Heavenly Lily 2 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "lily_2_fount_of_rebirth_hint"
+    },
+    {
+        "name": "Heavenly Lily 1 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "lily_1_fount_of_rebirth_hint"
+    },
+    {
+        "name": "Heavenly Lily 4 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "lily_4_fount_of_rebirth_hint"
+    },
+    {
+        "name": "Heavenly Lily 3 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "lily_3_fount_of_rebirth_hint"
+    },
+
+    {
+        "name": "Dotted Berry 1 Koho Village Hint",
+        "type": "toggle",
+        "codes": "dotted_1_koho_village_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Koho Village Hint",
+        "type": "toggle",
+        "codes": "dotted_2_koho_village_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "dotted_2_springleaf_path_hint"
+    },
+    {
+        "name": "Dotted Berry 1 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "dotted_1_springleaf_path_hint"
+    },
+    {
+        "name": "Dotted Berry 4 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "dotted_4_springleaf_path_hint"
+    },
+    {
+        "name": "Dotted Berry 3 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "dotted_3_springleaf_path_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "dotted_2_lun_tree_roots_hint"
+    },
+    {
+        "name": "Dotted Berry 1 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "dotted_1_lun_tree_roots_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "dotted_2_fairy_spring_hint"
+    },
+    {
+        "name": "Dotted Berry 3 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "dotted_3_fairy_spring_hint"
+    },
+    {
+        "name": "Dotted Berry 1 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "dotted_1_fairy_spring_hint"
+    },
+    {
+        "name": "Dotted Berry Fairy Village Hint",
+        "type": "toggle",
+        "codes": "dotted_fairy_village_hint"
+    },
+    {
+        "name": "Dotted Berry 1 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "dotted_1_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Dotted Berry 4 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "dotted_4_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "dotted_2_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Dotted Berry 3 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "dotted_3_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Dotted Berry Moonlight Repose Hint",
+        "type": "toggle",
+        "codes": "dotted_moonlight_repose_hint"
+    },
+    {
+        "name": "Dotted Berry 1 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "dotted_1_demon_frontier_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "dotted_2_demon_frontier_hint"
+    },
+    {
+        "name": "Dotted Berry 1 Meikan Village Hint",
+        "type": "toggle",
+        "codes": "dotted_1_meikan_village_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Meikan Village Windmill Hint",
+        "type": "toggle",
+        "codes": "dotted_2_meikan_village_windmill_hint"
+    },
+    {
+        "name": "Dotted Berry 3 Meikan Village Windmill Hint",
+        "type": "toggle",
+        "codes": "dotted_3_meikan_village_windmill_hint"
+    },
+    {
+        "name": "Dotted Berry 1 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "dotted_1_fount_of_rebirth_hint"
+    },
+    {
+        "name": "Dotted Berry 2 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "dotted_2_fount_of_rebirth_hint"
+    },
+
+    {
+        "name": "Peach Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "peach_springleaf_path_hint"
+    },
+    {
+        "name": "Peach Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "peach_fairy_springs_hint"
+    },
+    {
+        "name": "Peach Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "peach_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Peach Moonlight Repose Hint",
+        "type": "toggle",
+        "codes": "peach_moonlight_repose_hint"
+    },
+    {
+        "name": "Peach Meikan Village Hint",
+        "type": "toggle",
+        "codes": "peach_meikan_village_hint"
+    },
+
+    {
+        "name": "Lun Berry Koho Village Hint",
+        "type": "toggle",
+        "codes": "lun_koho_village_hint"
+    },
+    {
+        "name": "Lun Berry Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "lun_springleaf_path_hint"
+    },
+    {
+        "name": "Lun Berry Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "lun_lun_tree_roots_hint"
+    },
+    {
+        "name": "Lun Berry Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "lun_fairy_spring_hint"
+    },
+    {
+        "name": "Lun Berry Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "lun_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Lun Berry Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "lun_demon_frontier_hint"
+    },
+    {
+        "name": "Lun Berry Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "lun_fount_of_rebirth_hint"
+    },
+
+    {
+        "name": "Lumen Fairy Old Sanctuary Hint",
+        "type": "toggle",
+        "codes": "fairy_old_sanctuary_hint"
+    },
+    {
+        "name": "Lumen Fairy 3 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "fairy_3_springleaf_path_hint"
+    },
+    {
+        "name": "Lumen Fairy 2 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "fairy_2_springleaf_path_hint"
+    },
+    {
+        "name": "Lumen Fairy 1 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "fairy_1_springleaf_path_hint"
+    },
+    {
+        "name": "Lumen Fairy 4 Springleaf Path Hint",
+        "type": "toggle",
+        "codes": "fairy_4_springleaf_path_hint"
+    },
+    {
+        "name": "Lumen Fairy 2 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "fairy_2_lun_tree_roots_hint"
+    },
+    {
+        "name": "Lumen Fairy 4 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "fairy_4_lun_tree_roots_hint"
+    },
+    {
+        "name": "Lumen Fairy 5 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "fairy_5_lun_tree_roots_hint"
+    },
+    {
+        "name": "Lumen Fairy 1 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "fairy_1_lun_tree_roots_hint"
+    },
+    {
+        "name": "Lumen Fairy 3 Lun Tree Roots Hint",
+        "type": "toggle",
+        "codes": "fairy_3_lun_tree_roots_hint"
+    },
+    {
+        "name": "Lumen Fairy 1 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "fairy_1_fairy_spring_hint"
+    },
+    {
+        "name": "Lumen Fairy 4 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "fairy_4_fairy_spring_hint"
+    },
+    {
+        "name": "Lumen Fairy 2 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "fairy_2_fairy_spring_hint"
+    },
+    {
+        "name": "Lumen Fairy 3 Fairy Springs Hint",
+        "type": "toggle",
+        "codes": "fairy_3_fairy_spring_hint"
+    },
+    {
+        "name": "Lumen Fairy Fairy Village Hint",
+        "type": "toggle",
+        "codes": "fairy_fairy_village_hint"
+    },
+    {
+        "name": "Lumen Fairy 1 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "fairy_1_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Lumen Fairy 2 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "fairy_2_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Lumen Fairy 3 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "fairy_3_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Lumen Fairy 4 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "fairy_4_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Lumen Fairy 5 Ashen Hinterlands Hint",
+        "type": "toggle",
+        "codes": "fairy_5_ashen_hinterlands_hint"
+    },
+    {
+        "name": "Lumen Fairy Moonlight Repose Hint",
+        "type": "toggle",
+        "codes": "fairy_moonlight_repose_hint"
+    },
+    {
+        "name": "Lumen Fairy 3 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "fairy_3_demon_frontier_hint"
+    },
+    {
+        "name": "Lumen Fairy 2 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "fairy_2_demon_frontier_hint"
+    },
+    {
+        "name": "Lumen Fairy 1 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "fairy_1_demon_frontier_hint"
+    },
+    {
+        "name": "Lumen Fairy 4 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "fairy_4_demon_frontier_hint"
+    },
+    {
+        "name": "Lumen Fairy 5 Demon Frontier Hint",
+        "type": "toggle",
+        "codes": "fairy_5_demon_frontier_hint"
+    },
+    {
+        "name": "Lumen Fairy Meikan Village Hint",
+        "type": "toggle",
+        "codes": "fairy_meikan_village_hint"
+    },
+    {
+        "name": "Lumen Fairy Meikan Village Windmill Hint",
+        "type": "toggle",
+        "codes": "fairy_meikan_village_windmill_hint"
+    },
+    {
+        "name": "Lumen Fairy 2 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "fairy_2_fount_of_rebirth_hint"
+    },
+    {
+        "name": "Lumen Fairy 1 Fount of Rebirth Hint",
+        "type": "toggle",
+        "codes": "fairy_1_fount_of_rebirth_hint"
+    }
+]
