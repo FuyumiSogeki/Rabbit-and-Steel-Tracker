@@ -2,7 +2,7 @@
 
 This a poptracker package for Rabbit And Steel Randomizer.
 
-This package was designed around full utilization of AP autotracking and provides quick updates to all unlocked areas, poitions, item sets and reachable locations.
+This package was designed around full utilization of AP autotracking and provides quick updates to all unlocked areas, potions, upgrades, item sets and reachable locations.
 
 ## Installation
 
