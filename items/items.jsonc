@@ -13,7 +13,7 @@
         "disabled_img_mods":"none"
     },
     {
-        "name": "Progressive Area",
+        "name": "Area Unlocked",
         "type": "consumable",
         "loop": "false",
         "img": "images/items/Area_Kingdom_Outskirts.png",
@@ -1665,23 +1665,148 @@
 
     //Settings
     {
-        "name": "Bell Hover",
+        "name": "Shuffle Item Set",
         "type": "progressive",
         "initial_stage_idx": 0,
         "allow_disabled": false,
         "loop": false,
         "stages": 
         [
-          {
-            "img": "images/settings/disabled/Bell Hover.png",
-            "codes": "op_BH,bell_hover_off"
-          },
-          {
-            
-            "img": "images/settings/Bell Hover.png",
-            "codes": "op_BH,bell_hover_on",
-            "inherit_codes": false
-          }
+            {
+                "img": "images/settings/no_item_set.png",
+                "codes": "op_IS,item_set_off"
+            },
+            {
+                
+                "img": "images/settings/item_set.png",
+                "codes": "op_IS,item_set_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Checks per Item Chest",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/no_item_chest.png",
+                "codes": "op_IC,item_chest_off"
+            },
+            {
+                
+                "img": "images/settings/item_chest.png",
+                "codes": "op_IC,item_chest_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Potion Sanity",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/normal_potion.png",
+                "codes": "op_PS,potion_sanity_off"
+            },
+            {
+                "img": "images/settings/locked_potion.png",
+                "codes": "op_PS,potion_sanity_locked",
+                "inherit_codes": false
+            },
+            {            
+                "img": "images/settings/roultte_potion.png",
+                "codes": "op_PS,potion_sanity_roulette",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Shop Sanity",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/no_shop_sanity.png",
+                "codes": "op_SS,shop_sanity_off"
+            },
+            {
+                "img": "images/settings/shop_global.png",
+                "codes": "op_SS,shop_sanity_global",
+                "inherit_codes": false
+            },
+            {            
+                "img": "images/settings/shop_region.png",
+                "codes": "op_SS,shop_sanity_region",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Class Sanity",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/no_class_sanity.png",
+                "codes": "op_CS,class_sanity_off"
+            },
+            {
+                "img": "images/settings/class_sanity.png",
+                "codes": "op_CS,class_sanity_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Progressive Region",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/no_progressive_region.png",
+                "codes": "op_PR,progressive_region_off"
+            },
+            {
+                "img": "images/settings/progressive_region.png",
+                "codes": "op_PR,progressive_region_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Kingdom Sanity",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/no_kingdom_sanity.png",
+                "codes": "op_KS,kingdom_sanity_off"
+            },
+            {
+                "img": "images/settings/kingdom_sanity.png",
+                "codes": "op_KS,kingdom_sanity_on",
+                "inherit_codes": false
+            }
         ]
     }
 ]
