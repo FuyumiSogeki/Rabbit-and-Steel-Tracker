@@ -141,11 +141,11 @@ function onClear(slot_data)
         Tracker:FindObjectForCode("op_IS").CurrentStage = 0
     end
 
-    Tracker:FindObjectForCode("op_OKA").CurrentStage = slot_data['kingdom_order']['King\'s Arsenal']
-    Tracker:FindObjectForCode("op_OSN").CurrentStage = slot_data['kingdom_order']['Scholar\'s Nest']
-    Tracker:FindObjectForCode("op_ORD").CurrentStage = slot_data['kingdom_order']['Red Darkhouse']
-    Tracker:FindObjectForCode("op_OEL").CurrentStage = slot_data['kingdom_order']['Emerald Lakeside']
-    Tracker:FindObjectForCode("op_OCS").CurrentStage = slot_data['kingdom_order']['Churchmouse Streets']
+    Tracker:FindObjectForCode("op_OKA").AcquiredCount = slot_data['kingdom_order']['King\'s Arsenal']
+    Tracker:FindObjectForCode("op_OSN").AcquiredCount = slot_data['kingdom_order']['Scholar\'s Nest']
+    Tracker:FindObjectForCode("op_ORD").AcquiredCount = slot_data['kingdom_order']['Red Darkhouse']
+    Tracker:FindObjectForCode("op_OEL").AcquiredCount = slot_data['kingdom_order']['Emerald Lakeside']
+    Tracker:FindObjectForCode("op_OCS").AcquiredCount = slot_data['kingdom_order']['Churchmouse Streets']
 
     -- get hints
     if Archipelago.PlayerNumber > -1 then
