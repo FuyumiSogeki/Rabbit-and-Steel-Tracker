@@ -408,49 +408,49 @@
         "codes": "night_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Sleeping Greatbow",
         "type": "toggle",
         "img": "images/items/Spr_item_night_0.png",
         "codes": "night1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Crescentmoon Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_night_1.png",
         "codes": "night2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Lullaby Harp",
         "type": "toggle",
         "img": "images/items/Spr_item_night_2.png",
         "codes": "night3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Nightstar Grimoire",
         "type": "toggle",
         "img": "images/items/Spr_item_night_3.png",
         "codes": "night4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Moon Pendant",
         "type": "toggle",
         "img": "images/items/Spr_item_night_4.png",
         "codes": "night5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Pajama Hat",
         "type": "toggle",
         "img": "images/items/Spr_item_night_5.png",
         "codes": "night6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Stuffed Rabbit",
         "type": "toggle",
         "img": "images/items/Spr_item_night_6.png",
         "codes": "night7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Nightingale Gown",
         "type": "toggle",
         "img": "images/items/Spr_item_night_7.png",
         "codes": "night8"
@@ -461,49 +461,49 @@
         "codes": "timespace_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Eternity Flute",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_0.png",
         "codes": "timespace1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Timewarp Wand",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_1.png",
         "codes": "timespace2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Chrome Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_2.png",
         "codes": "timespace3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Clockwork Tome",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_3.png",
         "codes": "timespace4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Metronome Boots",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_4.png",
         "codes": "timespace5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Timemage Cap",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_5.png",
         "codes": "timespace6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Starry Cloak",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_6.png",
         "codes": "timespace7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Gemini Necklace",
         "type": "toggle",
         "img": "images/items/Spr_item_timespace_7.png",
         "codes": "timespace8"
@@ -514,49 +514,49 @@
         "codes": "wind_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Hawkfeather Fan",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_0.png",
         "codes": "wind1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Windbite Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_1.png",
         "codes": "wind2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Pidgeon Bow",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_2.png",
         "codes": "wind3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Shinsoku Katana",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_3.png",
         "codes": "wind4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Eaglewing Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_4.png",
         "codes": "wind5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Sparrow Feather",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_5.png",
         "codes": "wind6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Winged Cap",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_6.png",
         "codes": "wind7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Thief's Coat",
         "type": "toggle",
         "img": "images/items/Spr_item_wind_7.png",
         "codes": "wind8"
@@ -567,49 +567,49 @@
         "codes": "bloodwolf_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Vampiric Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_0.png",
         "codes": "bloodwolf1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Bloody Bandage",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_1.png",
         "codes": "bloodwolf2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Leech Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_2.png",
         "codes": "bloodwolf3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Bloodhound Greatsword",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_3.png",
         "codes": "bloodwolf4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Reaper Cloak",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_4.png",
         "codes": "bloodwolf5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Bloodflower Brooch",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_5.png",
         "codes": "bloodwolf6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Wolf Hood",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_6.png",
         "codes": "bloodwolf7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Blood Vial",
         "type": "toggle",
         "img": "images/items/Spr_item_bloodwolf_7.png",
         "codes": "bloodwolf8"
@@ -673,49 +673,49 @@
         "codes": "rockdragon_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Dragonhead Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_0.png",
         "codes": "rockdragon1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Granite Greatsword",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_1.png",
         "codes": "rockdragon2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Greysteel Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_2.png",
         "codes": "rockdragon3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Stonebreaker Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_3.png",
         "codes": "rockdragon4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Tough Gauntlet",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_4.png",
         "codes": "rockdragon5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Rockdragon Mail",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_5.png",
         "codes": "rockdragon6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Obsidian Hairpin",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_6.png",
         "codes": "rockdragon7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Iron Greaves",
         "type": "toggle",
         "img": "images/items/Spr_item_rockdragon_7.png",
         "codes": "rockdragon8"
@@ -726,49 +726,49 @@
         "codes": "flame_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Volcano Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_0.png",
         "codes": "flame1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Reddragon Blade",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_1.png",
         "codes": "flame2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Flame Bow",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_2.png",
         "codes": "flame3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Meteor Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_3.png",
         "codes": "flame4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Phoenix Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_4.png",
         "codes": "flame5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Firescale Corset",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_5.png",
         "codes": "flame6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Demon Horns",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_6.png",
         "codes": "flame7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Flamewalker Boots",
         "type": "toggle",
         "img": "images/items/Spr_item_flame_7.png",
         "codes": "flame8"
@@ -779,49 +779,49 @@
         "codes": "gem_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Diamond Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_0.png",
         "codes": "gem1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Peridot Rapier",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_1.png",
         "codes": "gem2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Garnet Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_2.png",
         "codes": "gem3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Sapphire Violin",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_3.png",
         "codes": "gem4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Emerald Chestplate",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_4.png",
         "codes": "gem5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Amethyst Bracelet",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_5.png",
         "codes": "gem6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Topaz Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_6.png",
         "codes": "gem7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Ruby Circlet",
         "type": "toggle",
         "img": "images/items/Spr_item_gem_7.png",
         "codes": "gem8"
@@ -832,49 +832,49 @@
         "codes": "lightning_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Brightstorm Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_0.png",
         "codes": "lightning1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Bolt Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_1.png",
         "codes": "lightning2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Lightning Bow",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_2.png",
         "codes": "lightning3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Darkstorm Knife",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_3.png",
         "codes": "lightning4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Darkcloud Necklace",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_4.png",
         "codes": "lightning5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Crown of Storms",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_5.png",
         "codes": "lightning6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Thunderclap Gloves",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_6.png",
         "codes": "lightning7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Storm Petticoat",
         "type": "toggle",
         "img": "images/items/Spr_item_lightning_7.png",
         "codes": "lightning8"
@@ -885,49 +885,49 @@
         "codes": "shrine_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Holy Greatsword",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_0.png",
         "codes": "shrine1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Sacred Bow",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_1.png",
         "codes": "shrine2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Purification Rod",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_2.png",
         "codes": "shrine3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Ornamental Bell",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_3.png",
         "codes": "shrine4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Shrinemaiden's Kosode",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_4.png",
         "codes": "shrine5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Redwhite Ribbon",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_5.png",
         "codes": "shrine6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Divine Mirror",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_6.png",
         "codes": "shrine7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Golden Chime",
         "type": "toggle",
         "img": "images/items/Spr_item_shrine_7.png",
         "codes": "shrine8"
@@ -938,49 +938,49 @@
         "codes": "lucky_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Book of Cheats",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_0.png",
         "codes": "lucky1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Golden Katana",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_1.png",
         "codes": "lucky2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Glittering Trumpet",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_2.png",
         "codes": "lucky3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Royal Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_3.png",
         "codes": "lucky4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Ballroom Gown",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_4.png",
         "codes": "lucky5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Silver Coin",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_5.png",
         "codes": "lucky6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Queen's Crown",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_6.png",
         "codes": "lucky7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Mimick Rabbitfoot",
         "type": "toggle",
         "img": "images/items/Spr_item_lucky_7.png",
         "codes": "lucky8"
@@ -991,49 +991,49 @@
         "codes": "life_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Butterfly Ocarina",
         "type": "toggle",
         "img": "images/items/Spr_item_life_0.png",
         "codes": "life1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Fairy Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_life_1.png",
         "codes": "life2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Moss Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_life_2.png",
         "codes": "life3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Floral Bow",
         "type": "toggle",
         "img": "images/items/Spr_item_life_3.png",
         "codes": "life4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Blue Rose",
         "type": "toggle",
         "img": "images/items/Spr_item_life_4.png",
         "codes": "life5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Sunflower Crown",
         "type": "toggle",
         "img": "images/items/Spr_item_life_5.png",
         "codes": "life6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Midsummer Dress",
         "type": "toggle",
         "img": "images/items/Spr_item_life_6.png",
         "codes": "life7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Grasswoven Bracelet",
         "type": "toggle",
         "img": "images/items/Spr_item_life_7.png",
         "codes": "life8"
@@ -1044,49 +1044,49 @@
         "codes": "poison_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Snakefang Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_0.png",
         "codes": "poison1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Ivy Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_1.png",
         "codes": "poison2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Deathcap Tome",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_2.png",
         "codes": "poison3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Spiderbite Bow",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_3.png",
         "codes": "poison4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Compound Gloves",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_4.png",
         "codes": "poison5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Poisonfrog Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_5.png",
         "codes": "poison6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Venom Hood",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_6.png",
         "codes": "poison7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Chemist's Coat",
         "type": "toggle",
         "img": "images/items/Spr_item_poison_7.png",
         "codes": "poison8"
@@ -1097,49 +1097,49 @@
         "codes": "depth_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Seashell Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_0.png",
         "codes": "depth1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Necronomicon",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_1.png",
         "codes": "depth2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Tidal Greatsword",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_2.png",
         "codes": "depth3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Occult Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_3.png",
         "codes": "depth4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Mermaid Scalemail",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_4.png",
         "codes": "depth5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Hydrous Blob",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_5.png",
         "codes": "depth6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Abyss Artifact",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_6.png",
         "codes": "depth7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Lost Pendant",
         "type": "toggle",
         "img": "images/items/Spr_item_depth_7.png",
         "codes": "depth8"
@@ -1150,49 +1150,49 @@
         "codes": "darkbite_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Sawtooth Cleaver",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_0.png",
         "codes": "darkbite1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Raven's Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_1.png",
         "codes": "darkbite2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Killing Note",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_2.png",
         "codes": "darkbite3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Blacksteel Buckler",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_3.png",
         "codes": "darkbite4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Nightguard Gloves",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_4.png",
         "codes": "darkbite5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Sniper's Eyeglasses",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_5.png",
         "codes": "darkbite6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Darkmage Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_6.png",
         "codes": "darkbite7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Firststrike Bracelet",
         "type": "toggle",
         "img": "images/items/Spr_item_darkbite_7.png",
         "codes": "darkbite8"
@@ -1203,49 +1203,49 @@
         "codes": "timegem_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Obsidian Rod",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_0.png",
         "codes": "timegem1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Darkglass Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_1.png",
         "codes": "timegem2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Timespace Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_2.png",
         "codes": "timegem3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Quartz Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_3.png",
         "codes": "timegem4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Pocketwatch",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_4.png",
         "codes": "timegem5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Nova Crown",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_5.png",
         "codes": "timegem6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Blackhole Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_6.png",
         "codes": "timegem7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Twinstar Earrings",
         "type": "toggle",
         "img": "images/items/Spr_item_timegem_7.png",
         "codes": "timegem8"
@@ -1256,49 +1256,49 @@
         "codes": "youkai_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Kyou No Omikuji",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_0.png",
         "codes": "youkai1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Youkai Bracelet",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_1.png",
         "codes": "youkai2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Oni Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_2.png",
         "codes": "youkai3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Kappa Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_3.png",
         "codes": "youkai4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Usagi Kamen",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_4.png",
         "codes": "youkai5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Red Tanzaku",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_5.png",
         "codes": "youkai6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Vega Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_6.png",
         "codes": "youkai7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Altair Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_youkai_7.png",
         "codes": "youkai8"
@@ -1309,49 +1309,49 @@
         "codes": "haunted_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Ghost Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_0.png",
         "codes": "haunted1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Phantom Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_1.png",
         "codes": "haunted2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Cursed Candlestaff",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_2.png",
         "codes": "haunted3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Haunted Gloves",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_3.png",
         "codes": "haunted4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Old Bonnet",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_4.png",
         "codes": "haunted5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Maid Outfit",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_5.png",
         "codes": "haunted6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Calling Bell",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_6.png",
         "codes": "haunted7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Smoke Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_haunted_7.png",
         "codes": "haunted8"
@@ -1362,49 +1362,49 @@
         "codes": "gladiator_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Grandmaster Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_0.png",
         "codes": "gladiator1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Teacher Knife",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_1.png",
         "codes": "gladiator2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Tactician Rod",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_2.png",
         "codes": "gladiator3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Spiked Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_3.png",
         "codes": "gladiator4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Battlemaiden Armor",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_4.png",
         "codes": "gladiator5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Gladiator Helmet",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_5.png",
         "codes": "gladiator6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Lancer Gauntlets",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_6.png",
         "codes": "gladiator7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Lion Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_gladiator_7.png",
         "codes": "gladiator8"
@@ -1415,49 +1415,49 @@
         "codes": "sparkblade_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Bluebolt Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_0.png",
         "codes": "sparkblade1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Lapis Sword",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_1.png",
         "codes": "sparkblade2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Shockwave Tome",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_2.png",
         "codes": "sparkblade3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Battery Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_3.png",
         "codes": "sparkblade4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Raiju Crown",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_4.png",
         "codes": "sparkblade5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Staticshock Earrings",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_5.png",
         "codes": "sparkblade6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Stormdance Gown",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_6.png",
         "codes": "sparkblade7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Blackbolt Ribbon",
         "type": "toggle",
         "img": "images/items/Spr_item_sparkblade_7.png",
         "codes": "sparkblade8"
@@ -1468,49 +1468,49 @@
         "codes": "swiftflight_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Crane Katana",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_0.png",
         "codes": "swiftflight1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Falconfeather Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_1.png",
         "codes": "swiftflight2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Tornado Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_2.png",
         "codes": "swiftflight3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Cloud Guard",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_3.png",
         "codes": "swiftflight4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Hermes Bow",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_4.png",
         "codes": "swiftflight5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Talon Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_5.png",
         "codes": "swiftflight6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Tiny Wings",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_6.png",
         "codes": "swiftflight7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Feathered Overcoat",
         "type": "toggle",
         "img": "images/items/Spr_item_swiftflight_7.png",
         "codes": "swiftflight8"
@@ -1521,49 +1521,49 @@
         "codes": "sacredflame_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Sandpriestess Spear",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_0.png",
         "codes": "sacredflame1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Flamedancer Dagger",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_1.png",
         "codes": "sacredflame2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Whiteflame Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_2.png",
         "codes": "sacredflame3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Sacred Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_3.png",
         "codes": "sacredflame4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Marble Clasp",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_4.png",
         "codes": "sacredflame5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Sun Pendant",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_5.png",
         "codes": "sacredflame6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Tiny Hourglass",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_6.png",
         "codes": "sacredflame7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Desert Earrings",
         "type": "toggle",
         "img": "images/items/Spr_item_sacredflame_7.png",
         "codes": "sacredflame8"
@@ -1574,49 +1574,49 @@
         "codes": "ruins_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Giant Stone Club",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_0.png",
         "codes": "ruins1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Ruins Sword",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_1.png",
         "codes": "ruins2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Mountain Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_2.png",
         "codes": "ruins3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Boulder Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_3.png",
         "codes": "ruins4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Golem's Claymore",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_4.png",
         "codes": "ruins5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Stoneplate Armor",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_5.png",
         "codes": "ruins6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Sacredstone Charm",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_6.png",
         "codes": "ruins7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Clay Rabbit",
         "type": "toggle",
         "img": "images/items/Spr_item_ruins_7.png",
         "codes": "ruins8"
@@ -1627,49 +1627,49 @@
         "codes": "lakeshrine_set"
     },
     {
-        "name": "Raven Grimoire",
+        "name": "Waterfall Polearm",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_0.png",
         "codes": "lakeshrine1"
     },
     {
-        "name": "Blackwing Staff",
+        "name": "Vorpal Dao",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_1.png",
         "codes": "lakeshrine2"
     },
     {
-        "name": "Curse Talon",
+        "name": "Jade Staff",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_2.png",
         "codes": "lakeshrine3"
     },
     {
-        "name": "Darkmagic Blade",
+        "name": "Reflection Shield",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_3.png",
         "codes": "lakeshrine4"
     },
     {
-        "name": "Witch's Cloak",
+        "name": "Butterfly Hairpin",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_4.png",
         "codes": "lakeshrine5"
     },
     {
-        "name": "Crowfeather Hairpin",
+        "name": "Watermage Pendant",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_5.png",
         "codes": "lakeshrine6"
     },
     {
-        "name": "Redblack Ribbon",
+        "name": "Raindrop Earrings",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_6.png",
         "codes": "lakeshrine7"
     },
     {
-        "name": "Opal Necklace",
+        "name": "Aquamarine Bracelet",
         "type": "toggle",
         "img": "images/items/Spr_item_lakeshrine_7.png",
         "codes": "lakeshrine8"
