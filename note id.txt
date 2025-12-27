@@ -958,3 +958,39 @@ called onLocation: 486, The Pale Keep Shop Primary Upgrade Slot
 called onLocation: 487, The Pale Keep Shop Secondary Upgrade Slot
 called onLocation: 488, The Pale Keep Shop Special Upgrade Slot
 called onLocation: 489, The Pale Keep Shop Defensive Upgrade Slot
+
+
+
+	["kingdom_order"] = {
+		["Churchmouse Streets"] = 3,
+		["Emerald Lakeside"] = 2,
+		["Red Darkhouse"] = 3,
+		["Scholar's Nest"] = 2,
+		["King's Arsenal"] = 1,
+	},
+	["kingdom_sanity_kingdom_order"] = 1,
+	["kingdom_sanity"] = 1,
+	["excluded_kingdoms"] = {
+	},
+	["upgrade_sanity"] = 2,
+	["shira_defeats"] = 10,
+	["potion_sanity"] = 2,
+	["checks_per_item_in_chest"] = 1,
+	["shop_sanity"] = 2,
+	["goal_condition"] = 1,
+	["class_sanity"] = 1,
+	["progressive_regions"] = 1,
+	["max_kingdoms_per_run"] = 3,
+	["checks_per_class"] = {
+		[1] = Ancient,
+		[2] = Assassin,
+		[3] = Bruiser,
+		[4] = Dancer,
+		[5] = Defender,
+		[6] = Druid,
+		[7] = Heavyblade,
+		[8] = Sniper,
+		[9] = Spellsword,
+		[10] = Wizard,
+	},
+	["shuffle_item_sets"] = 1,

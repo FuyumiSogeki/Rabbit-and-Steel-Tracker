@@ -86,7 +86,60 @@ function onClear(slot_data)
         end
     end
 
-    -- set settings
+    -- set settings    
+    if slot_data['kingdom_sanity'] == 1 then
+        Tracker:FindObjectForCode("op_KS").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_KS").CurrentStage = 0
+    end
+
+    if slot_data['upgrade_sanity'] == 2 then
+        Tracker:FindObjectForCode("op_US").CurrentStage = 2
+    elseif slot_data['upgrade_sanity'] == 1 then
+        Tracker:FindObjectForCode("op_US").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_US").CurrentStage = 0
+    end
+
+    if slot_data['potion_sanity'] == 2 then
+        Tracker:FindObjectForCode("op_PS").CurrentStage = 2
+    elseif slot_data['potion_sanity'] == 1 then
+        Tracker:FindObjectForCode("op_PS").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_PS").CurrentStage = 0
+    end
+
+    if slot_data['checks_per_item_in_chest'] == 1 then
+        Tracker:FindObjectForCode("op_IC").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_IC").CurrentStage = 0
+    end
+
+    if slot_data['shop_sanity'] == 2 then
+        Tracker:FindObjectForCode("op_SS").CurrentStage = 2
+    elseif slot_data['shop_sanity'] == 1 then
+        Tracker:FindObjectForCode("op_SS").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_SS").CurrentStage = 0
+    end
+
+    if slot_data['class_sanity'] == 1 then
+        Tracker:FindObjectForCode("op_CS").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_CS").CurrentStage = 0
+    end
+
+    if slot_data['progressive_regions'] == 1 then
+        Tracker:FindObjectForCode("op_PR").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_PR").CurrentStage = 0
+    end
+
+    if slot_data['shuffle_item_sets'] == 1 then
+        Tracker:FindObjectForCode("op_IS").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_IS").CurrentStage = 0
+    end
 
     -- get hints
     if Archipelago.PlayerNumber > -1 then
