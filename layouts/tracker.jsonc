@@ -28,128 +28,28 @@
             ["golden_potion","fire_potion","darkness_potion"]
         ]
     },
-    "loot_item_grid_1": 
+    "arcane_item_grid": 
     {
         "type": "itemgrid",
         "h_alignment": "center",
-        "margin": "70,3,30,-10",
         "item_margin": "2,3,-10,-10",
         "item_size": "50,50",
         "rows": 
         [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
+            ["arcane1","arcane2","arcane3","arcane4"],
+            ["arcane5","arcane6","arcane7","arcane8"]
         ]
     },
-    "loot_item_grid_2": 
+    "assassin_item_grid": 
     {
         "type": "itemgrid",
         "h_alignment": "center",
-        "margin": "2,3,30,-10",
         "item_margin": "2,3,-10,-10",
         "item_size": "50,50",
         "rows": 
         [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
-        ]
-    },
-    "loot_item_grid_3": 
-    {
-        "type": "itemgrid",
-        "h_alignment": "center",
-        "margin": "2,3,30,-10",
-        "item_margin": "2,3,-10,-10",
-        "item_size": "50,50",
-        "rows": 
-        [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
-        ]
-    },
-    "loot_item_grid_4": 
-    {
-        "type": "itemgrid",
-        "h_alignment": "center",
-        "margin": "70,3,30,-10",
-        "item_margin": "2,3,-10,-10",
-        "item_size": "50,50",
-        "rows": 
-        [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
-        ]
-    },
-    "loot_item_grid_5": 
-    {
-        "type": "itemgrid",
-        "h_alignment": "center",
-        "margin": "2,3,30,-10",
-        "item_margin": "2,3,-10,-10",
-        "item_size": "50,50",
-        "rows": 
-        [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
-        ]
-    },
-    "loot_item_grid_6": 
-    {
-        "type": "itemgrid",
-        "h_alignment": "center",
-        "margin": "2,3,30,-10",
-        "item_margin": "2,3,-10,-10",
-        "item_size": "50,50",
-        "rows": 
-        [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
-        ]
-    },
-    "loot_item_grid_7": 
-    {
-        "type": "itemgrid",
-        "h_alignment": "center",
-        "margin": "70,3,30,-10",
-        "item_margin": "2,3,-10,-10",
-        "item_size": "50,50",
-        "rows": 
-        [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
-        ]
-    },
-    "loot_item_grid_8": 
-    {
-        "type": "itemgrid",
-        "h_alignment": "center",
-        "margin": "2,3,30,-10",
-        "item_margin": "2,3,-10,-10",
-        "item_size": "50,50",
-        "rows": 
-        [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"],
-            ["assassin1","assassin2","assassin3","assassin4","assassin5","assassin6","assassin7","assassin8"],
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
-        ]
-    },
-    "loot_item_grid_9": 
-    {
-        "type": "itemgrid",
-        "h_alignment": "center",
-        "margin": "2,3,30,-10",
-        "item_margin": "2,3,-10,-10",
-        "item_size": "50,50",
-        "rows": 
-        [
-            ["arcane1","arcane2","arcane3","arcane4","arcane5","arcane6","arcane7","arcane8"]
+            ["assassin1","assassin2","assassin3","assassin4"],
+            ["assassin5","assassin6","assassin7","assassin8"]
         ]
     },
     "area_item_grid": 
@@ -276,7 +176,7 @@
                         },
                         {
                             "type": "group",
-                            "header": "Potions",
+                            "header": "Potion",
                             "content": 
                             {
                                 "type": "array",
@@ -291,14 +191,7 @@
                                     }
                                 ]
                             }
-                        }
-                    ]
-                },
-                {
-                    "type": "dock",
-                    "dock": "bottom",
-                    "content":
-                    [
+                        },
                         {
                             "type": "group",
                             "header": "Loot",
@@ -309,78 +202,282 @@
                                 [
                                     {
                                         
-                                        "title": "Page 1",
+                                        "title": "1",
                                         "content": 
                                         {    
                                             "type": "array",
-                                            "orientation": "horizontal",
-                                            "margin": "0,0,0,10",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
                                             "dock": "center",
                                             "content": 
                                             [
                                                 {
                                                     "type": "layout",
-                                                    "key": "loot_item_grid_1"
+                                                    "key": "arcane_item_grid"
                                                 },
                                                 {
                                                     "type": "layout",
-                                                    "key": "loot_item_grid_2"
-                                                },                                                
-                                                {
-                                                    "type": "layout",
-                                                    "key": "loot_item_grid_3"
+                                                    "key": "night_item_grid"
                                                 }
                                             ]
                                         }
                                     },
                                     {
                                         
-                                        "title": "Page 2",
+                                        "title": "2",
                                         "content": 
                                         {    
                                             "type": "array",
-                                            "orientation": "horizontal",
-                                            "margin": "0,0,0,10",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
                                             "dock": "center",
                                             "content": 
                                             [
                                                 {
                                                     "type": "layout",
-                                                    "key": "loot_item_grid_4"
+                                                    "key": "timespace_item_grid"
                                                 },
                                                 {
                                                     "type": "layout",
-                                                    "key": "loot_item_grid_5"
-                                                },                                                
-                                                {
-                                                    "type": "layout",
-                                                    "key": "loot_item_grid_6"
+                                                    "key": "wind_item_grid"
                                                 }
                                             ]
                                         }
                                     },
                                     {
                                         
-                                        "title": "Page 3",
+                                        "title": "3",
                                         "content": 
                                         {    
                                             "type": "array",
-                                            "orientation": "horizontal",
-                                            "margin": "0,0,0,10",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
                                             "dock": "center",
                                             "content": 
                                             [
                                                 {
                                                     "type": "layout",
-                                                    "key": "loot_item_grid_7"
+                                                    "key": "bloodwolf_item_grid"
                                                 },
                                                 {
                                                     "type": "layout",
-                                                    "key": "loot_item_grid_8"
-                                                },                                                
+                                                    "key": "assassin_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "4",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
                                                 {
                                                     "type": "layout",
-                                                    "key": "loot_item_grid_9"
+                                                    "key": "rockdragon_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "flame_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "5",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "gem_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "lightning_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "6",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "shrine_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "lucky_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "7",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "life_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "poison_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "8",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "depth_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "darkbite_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "9",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "timegem_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "youkai_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "10",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "haunted_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "gladiator_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "11",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "sparkblade_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "swiftlight_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "12",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "sacredflame_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "ruins_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "13",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "lakeshrine_item_grid"
                                                 }
                                             ]
                                         }
