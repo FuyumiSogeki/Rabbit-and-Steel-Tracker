@@ -28,28 +28,304 @@
             ["golden_potion","fire_potion","darkness_potion"]
         ]
     },
-    "arcane_item_grid": 
-    {
+    "arcane_item_grid":
+     {
         "type": "itemgrid",
         "h_alignment": "center",
         "item_margin": "2,3,-10,-10",
         "item_size": "50,50",
-        "rows": 
+        "rows":
         [
             ["arcane1","arcane2","arcane3","arcane4"],
             ["arcane5","arcane6","arcane7","arcane8"]
         ]
     },
-    "assassin_item_grid": 
-    {
+    "night_item_grid":
+     {
         "type": "itemgrid",
         "h_alignment": "center",
         "item_margin": "2,3,-10,-10",
         "item_size": "50,50",
-        "rows": 
+        "rows":
+        [
+            ["night1","night2","night3","night4"],
+            ["night5","night6","night7","night8"]
+        ]
+    },
+    "timespace_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["timespace1","timespace2","timespace3","timespace4"],
+            ["timespace5","timespace6","timespace7","timespace8"]
+        ]
+    },
+    "wind_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["wind1","wind2","wind3","wind4"],
+            ["wind5","wind6","wind7","wind8"]
+        ]
+    },
+    "bloodwolf_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["bloodwolf1","bloodwolf2","bloodwolf3","bloodwolf4"],
+            ["bloodwolf5","bloodwolf6","bloodwolf7","bloodwolf8"]
+        ]
+    },
+    "assassin_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
         [
             ["assassin1","assassin2","assassin3","assassin4"],
             ["assassin5","assassin6","assassin7","assassin8"]
+        ]
+    },
+    "rockdragon_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["rockdragon1","rockdragon2","rockdragon3","rockdragon4"],
+            ["rockdragon5","rockdragon6","rockdragon7","rockdragon8"]
+        ]
+    },
+    "flame_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["flame1","flame2","flame3","flame4"],
+            ["flame5","flame6","flame7","flame8"]
+        ]
+    },
+    "gem_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["gem1","gem2","gem3","gem4"],
+            ["gem5","gem6","gem7","gem8"]
+        ]
+    },
+    "lightning_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["lightning1","lightning2","lightning3","lightning4"],
+            ["lightning5","lightning6","lightning7","lightning8"]
+        ]
+    },
+    "shrine_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["shrine1","shrine2","shrine3","shrine4"],
+            ["shrine5","shrine6","shrine7","shrine8"]
+        ]
+    },
+    "lucky_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["lucky1","lucky2","lucky3","lucky4"],
+            ["lucky5","lucky6","lucky7","lucky8"]
+        ]
+    },
+    "life_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["life1","life2","life3","life4"],
+            ["life5","life6","life7","life8"]
+        ]
+    },
+    "poison_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["poison1","poison2","poison3","poison4"],
+            ["poison5","poison6","poison7","poison8"]
+        ]
+    },
+    "depth_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["depth1","depth2","depth3","depth4"],
+            ["depth5","depth6","depth7","depth8"]
+        ]
+    },
+    "darkbite_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["darkbite1","darkbite2","darkbite3","darkbite4"],
+            ["darkbite5","darkbite6","darkbite7","darkbite8"]
+        ]
+    },
+    "timegem_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["timegem1","timegem2","timegem3","timegem4"],
+            ["timegem5","timegem6","timegem7","timegem8"]
+        ]
+    },
+    "youkai_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["youkai1","youkai2","youkai3","youkai4"],
+            ["youkai5","youkai6","youkai7","youkai8"]
+        ]
+    },
+    "haunted_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["haunted1","haunted2","haunted3","haunted4"],
+            ["haunted5","haunted6","haunted7","haunted8"]
+        ]
+    },
+    "gladiator_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["gladiator1","gladiator2","gladiator3","gladiator4"],
+            ["gladiator5","gladiator6","gladiator7","gladiator8"]
+        ]
+    },
+    "sparkblade_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["sparkblade1","sparkblade2","sparkblade3","sparkblade4"],
+            ["sparkblade5","sparkblade6","sparkblade7","sparkblade8"]
+        ]
+    },
+    "swiftlight_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["swiftlight1","swiftlight2","swiftlight3","swiftlight4"],
+            ["swiftlight5","swiftlight6","swiftlight7","swiftlight8"]
+        ]
+    },
+    "sacredflame_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["sacredflame1","sacredflame2","sacredflame3","sacredflame4"],
+            ["sacredflame5","sacredflame6","sacredflame7","sacredflame8"]
+        ]
+    },
+    "ruins_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["ruins1","ruins2","ruins3","ruins4"],
+            ["ruins5","ruins6","ruins7","ruins8"]
+        ]
+    },
+    "lakeshrine_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["lakeshrine1","lakeshrine2","lakeshrine3","lakeshrine4"],
+            ["lakeshrine5","lakeshrine6","lakeshrine7","lakeshrine8"]
         ]
     },
     "area_item_grid": 
