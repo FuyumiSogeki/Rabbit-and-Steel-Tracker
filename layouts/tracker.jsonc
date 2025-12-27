@@ -280,7 +280,7 @@
             ["sparkblade5","sparkblade6","sparkblade7","sparkblade8"]
         ]
     },
-    "swiftlight_item_grid":
+    "swiftflight_item_grid":
      {
         "type": "itemgrid",
         "h_alignment": "center",
@@ -288,8 +288,8 @@
         "item_size": "50,50",
         "rows":
         [
-            ["swiftlight1","swiftlight2","swiftlight3","swiftlight4"],
-            ["swiftlight5","swiftlight6","swiftlight7","swiftlight8"]
+            ["swiftflight1","swiftflight2","swiftflight3","swiftflight4"],
+            ["swiftflight5","swiftflight6","swiftflight7","swiftflight8"]
         ]
     },
     "sacredflame_item_grid":
@@ -713,7 +713,7 @@
                                                 },
                                                 {
                                                     "type": "layout",
-                                                    "key": "swiftlight_item_grid"
+                                                    "key": "swiftflight_item_grid"
                                                 }
                                             ]
                                         }
