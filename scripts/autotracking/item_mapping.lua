@@ -111,5 +111,5 @@ ITEM_MAPPING = {
     [97] = {"treasuresphere", "consumable"},
 
     -- Fillers
-    [98] = {"gold", "progressive"},
+    [98] = {"gold", "consumable"},
 }

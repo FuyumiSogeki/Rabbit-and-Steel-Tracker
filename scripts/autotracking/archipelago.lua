@@ -141,6 +141,12 @@ function onClear(slot_data)
         Tracker:FindObjectForCode("op_IS").CurrentStage = 0
     end
 
+    Tracker:FindObjectForCode("op_OKA").CurrentStage = slot_data['kingdom_order']['King\'s Arsenal']
+    Tracker:FindObjectForCode("op_OSN").CurrentStage = slot_data['kingdom_order']['Scholar\'s Nest']
+    Tracker:FindObjectForCode("op_ORD").CurrentStage = slot_data['kingdom_order']['Red Darkhouse']
+    Tracker:FindObjectForCode("op_OEL").CurrentStage = slot_data['kingdom_order']['Emerald Lakeside']
+    Tracker:FindObjectForCode("op_OCS").CurrentStage = slot_data['kingdom_order']['Churchmouse Streets']
+
     -- get hints
     if Archipelago.PlayerNumber > -1 then
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_NUMBER
@@ -348,15 +354,9 @@ function onItem(index, item_id, item_name, player_number)
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_special")).Active = true
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_defensive")).Active = true
         elseif v[1]:match("^victory_") then
-            print("bite")
             local victoryName = v[1]:gsub("victory_", "")
-            print(victoryName)
-            local objVictory = Tracker:FindObjectForCode(victoryName)
-
-            if objVictory then
-                objVictory.Active = true
-                objVictory.CurrentStage = 2
-            end
+            Tracker:FindObjectForCode(victoryName).Active = true
+            Tracker:FindObjectForCode(victoryName).CurrentStage = 2
         end
 
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then

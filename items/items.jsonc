@@ -1,5 +1,17 @@
 [
     {
+        "name": "Gpmd",
+        "type": "consumable",
+        "loop": "true",
+        "img": "images/items/coin.png",
+        "overlay_background": "#000",
+        "codes": "gold",
+        "max_quantity": 999,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
         "name": "Treasurespheres",
         "type": "consumable",
         "loop": "false",
@@ -2052,6 +2064,146 @@
                 "img": "images/settings/kingdom_sanity.png",
                 "codes": "op_KS,kingdom_sanity_on",
                 "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "King's Arsenal Order",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "codes": "op_OKA"
+            },
+            {
+                "codes": "op_OKA"
+            },
+            {
+                "codes": "op_OKA"
+            },
+            {
+                "codes": "op_OKA"
+            },
+            {
+                "codes": "op_OKA"
+            },
+            {
+                "codes": "op_OKA"
+            }
+        ]
+    },
+    {
+        "name": "Scholar's Nest Order",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "codes": "op_OSN"
+            },
+            {
+                "codes": "op_OSN"
+            },
+            {
+                "codes": "op_OSN"
+            },
+            {
+                "codes": "op_OSN"
+            },
+            {
+                "codes": "op_OSN"
+            },
+            {
+                "codes": "op_OSN"
+            }
+        ]
+    },
+    {
+        "name": "Red Darkhouse Order",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "codes": "op_ORD"
+            },
+            {
+                "codes": "op_ORD"
+            },
+            {
+                "codes": "op_ORD"
+            },
+            {
+                "codes": "op_ORD"
+            },
+            {
+                "codes": "op_ORD"
+            },
+            {
+                "codes": "op_ORD"
+            }
+        ]
+    },
+    {
+        "name": "Emerald Lakeside Order",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "codes": "op_OEL"
+            },
+            {
+                "codes": "op_OEL"
+            },
+            {
+                "codes": "op_OEL"
+            },
+            {
+                "codes": "op_OEL"
+            },
+            {
+                "codes": "op_OEL"
+            },
+            {
+                "codes": "op_OEL"
+            }
+        ]
+    },
+    {
+        "name": "Churchmouse Streets Order",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "codes": "op_OCS"
+            },
+            {
+                "codes": "op_OCS"
+            },
+            {
+                "codes": "op_OCS"
+            },
+            {
+                "codes": "op_OCS"
+            },
+            {
+                "codes": "op_OCS"
+            },
+            {
+                "codes": "op_OCS"
             }
         ]
     }
