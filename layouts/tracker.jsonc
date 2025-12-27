@@ -22,6 +22,7 @@
         "item_size": "50,50",
         "rows": 
         [
+            ["full_heal_potion", "level_up_potion"],
             ["regen_potion","vitality_potion","essence_of_strength", "essence_of_wit"],
             ["essence_of_spell","essence_of_steel","longarm_potion", "swifthand_potion"],
             ["quickening_potion","winged_potion","evasion_potion", "luck_potion"],

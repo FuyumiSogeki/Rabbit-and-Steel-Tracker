@@ -338,6 +338,18 @@
         "codes": "darkness_potion"
     },
     {
+        "name": "Full Heal Potion",
+        "type": "toggle",
+        "img": "images/items/Full_heal_square.png",
+        "codes": "full_heal_potion"
+    },
+    {
+        "name": "Level Up Potion",
+        "type": "toggle",
+        "img": "images/items/Level_up_orb.png",
+        "codes": "level_up_potion"
+    },
+    {
         "name": "Arcane Set",
         "type": "toggle",
         "codes": "arcane_set"
