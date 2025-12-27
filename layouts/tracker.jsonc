@@ -7,11 +7,11 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["sapphire_primary","sapphire_secondary","sapphire_special", "sapphire_defender"],
-            ["opal_primary","opal_secondary","opal_special", "opal_defender"],
-            ["emerald_primary","emerald_secondary","emerald_special", "emerald_defender"],
-            ["ruby_primary","ruby_secondary","ruby_special", "ruby_defender"],
-            ["garnet_primary","garnet_secondary","garnet_special", "garnet_defender"]
+            ["sapphire_primary","sapphire_secondary","sapphire_special", "sapphire_defensive"],
+            ["opal_primary","opal_secondary","opal_special", "opal_defensive"],
+            ["emerald_primary","emerald_secondary","emerald_special", "emerald_defensive"],
+            ["ruby_primary","ruby_secondary","ruby_special", "ruby_defensive"],
+            ["garnet_primary","garnet_secondary","garnet_special", "garnet_defensive"]
         ]
     },
     "potion_item_grid": 
@@ -23,9 +23,9 @@
         "rows": 
         [
             ["full_heal_potion", "level_up_potion"],
-            ["regen_potion","vitality_potion","essence_of_strength", "essence_of_wit"],
-            ["essence_of_spell","essence_of_steel","longarm_potion", "swifthand_potion"],
-            ["quickening_potion","winged_potion","evasion_potion", "luck_potion"],
+            ["regen_potion","vitality_potion","essence_of_strength","essence_of_wit"],
+            ["essence_of_spell","essence_of_steel","longarm_potion","swifthand_potion"],
+            ["quickening_potion","winged_potion","evasion_potion","luck_potion"],
             ["golden_potion","fire_potion","darkness_potion"]
         ]
     },
@@ -337,7 +337,7 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["prog_area","treasuresphere"],
+            ["progressive_area","treasuresphere"],
             ["scholar","arsenal","darkhouse"],
             ["churchmouse","lakeside","pale_keep"],
             ["moonlit"]
@@ -352,7 +352,7 @@
         "rows": 
         [
             ["wizard","assassin","heavyblade"],
-            ["dancer","druid","Spellword"],
+            ["dancer","druid","spellsword"],
             ["sniper","bruiser","defender"],
             ["ancient"]
         ]
@@ -366,8 +366,8 @@
         "rows": 
         [
             ["op_KS","op_PR"],
-            ["op_CS","op_SS","op_PS"],
-            ["op_IC","op_IS"]
+            ["op_US","op_SS","op_PS"],
+            ["op_CS","op_IC","op_IS"]
         ]
     },
     "tracker_horizontal": 

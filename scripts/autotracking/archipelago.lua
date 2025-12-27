@@ -282,6 +282,30 @@ function onItem(index, item_id, item_name, player_number)
         elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
             print(string.format("onItem: unknown item type %s for code %s", v[2], v[1]))
         end
+
+        if v[1]:match("_set$") then
+            local lootSet = v[1]:gsub("%_set", "")
+            for i = 1, 8 do
+                Tracker:FindObjectForCode(string.format("%s%s", lootSet, i)).Active = true
+            end
+        elseif v[1]:match("_upgrade$") then
+            local upgradeSet = v[1]:gsub("%_upgrade", "")
+            Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_primary")).Active = true
+            Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_secondary")).Active = true
+            Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_special")).Active = true
+            Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_defensive")).Active = true
+        elseif v[1]:match("^victory_") then
+            print("bite")
+            local victoryName = v[1]:gsub("victory_", "")
+            print(victoryName)
+            local objVictory = Tracker:FindObjectForCode(victoryName)
+
+            if objVictory then
+                objVictory.Active = true
+                objVictory.CurrentStage = 2
+            end
+        end
+
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onItem: could not find object for code %s", v[1]))
     end

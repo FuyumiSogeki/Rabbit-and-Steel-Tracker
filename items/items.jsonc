@@ -18,7 +18,7 @@
         "loop": "false",
         "img": "images/items/Area_Kingdom_Outskirts.png",
         "overlay_background": "#000",
-        "codes": "prog_area",
+        "codes": "progressive_area",
         "max_quantity": 7,
         "initial_quantity": 0,
         "increment": 1,
@@ -69,63 +69,199 @@
     },
     {
         "name": "Class Wizard",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Wizard.png",
-        "codes": "wizard"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Wizard.png",
+                "codes": "wizard"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Wizard_V.png",
+                "codes": "wizard",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Assassin",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Assassin.png",
-        "codes": "assassin"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Assassin.png",
+                "codes": "assassin"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Assassin_V.png",
+                "codes": "assassin",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Heavyblade",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Heavyblade.png",
-        "codes": "heavyblade"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Heavyblade.png",
+                "codes": "heavyblade"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Heavyblade_V.png",
+                "codes": "heavyblade",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Dancer",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Dancer.png",
-        "codes": "dancer"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Dancer.png",
+                "codes": "dancer"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Dancer_V.png",
+                "codes": "dancer",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Druid",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Druid.png",
-        "codes": "druid"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Druid.png",
+                "codes": "druid"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Druid_V.png",
+                "codes": "druid",
+                "inherit_codes": false
+            }
+        ]
     },
     {
-        "name": "Class Spellword",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Spellsword.png",
-        "codes": "Spellword"
+        "name": "Class Spellsword",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Spellsword.png",
+                "codes": "spellsword"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Spellsword_V.png",
+                "codes": "spellsword",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Sniper",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Sniper.png",
-        "codes": "sniper"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Sniper.png",
+                "codes": "sniper"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Sniper_V.png",
+                "codes": "sniper",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Bruiser",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Bruiser.png",
-        "codes": "bruiser"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Bruiser.png",
+                "codes": "bruiser"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Bruiser_V.png",
+                "codes": "bruiser",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Defender",
-        "type": "toggle",
-        "img": "images/items/ClassIcon_Defender.png",
-        "codes": "defender"
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Defender.png",
+                "codes": "defender"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Defender_V.png",
+                "codes": "defender",
+                "inherit_codes": false
+            }
+        ]
     },
     {
         "name": "Class Ancient",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Ancient.png",
+                "codes": "ancient"
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Ancient_V.png",
+                "codes": "ancient",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Sapphire Upgrade",
         "type": "toggle",
-        "img": "images/items/ClassIcon_Ancient.png",
-        "codes": "ancient"
+        "img": "images/items/Spr_upgrade_yellow_0.png",
+        "codes": "sapphire_upgrade"
     },
     {
         "name": "Sapphire Primary",
@@ -146,10 +282,16 @@
         "codes": "sapphire_special"
     },
     {
-        "name": "Sapphire Defender",
+        "name": "Sapphire Denfesive",
         "type": "toggle",
         "img": "images/items/Spr_upgrade_blue_3.png",
-        "codes": "sapphire_defender"
+        "codes": "sapphire_defensive"
+    },
+    {
+        "name": "Opal Upgrade",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_0.png",
+        "codes": "opal_upgrade"
     },
     {
         "name": "Opal Primary",
@@ -170,10 +312,16 @@
         "codes": "opal_special"
     },
     {
-        "name": "Opal Defender",
+        "name": "Opal Denfesive",
         "type": "toggle",
         "img": "images/items/Spr_upgrade_purple_3.png",
-        "codes": "opal_defender"
+        "codes": "opal_defensive"
+    },
+    {
+        "name": "Emerald Upgrade",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_0.png",
+        "codes": "emerald_upgrade"
     },
     {
         "name": "Emerald Primary",
@@ -194,10 +342,16 @@
         "codes": "emerald_special"
     },
     {
-        "name": "Emerald Defender",
+        "name": "Emerald Denfesive",
         "type": "toggle",
         "img": "images/items/Spr_upgrade_green_3.png",
-        "codes": "emerald_defender"
+        "codes": "emerald_defensive"
+    },
+    {
+        "name": "Ruby Upgrade",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_0.png",
+        "codes": "ruby_upgrade"
     },
     {
         "name": "Ruby Primary",
@@ -218,10 +372,16 @@
         "codes": "ruby_special"
     },
     {
-        "name": "Ruby Defender",
+        "name": "Ruby Denfesive",
         "type": "toggle",
         "img": "images/items/Spr_upgrade_red_3.png",
-        "codes": "ruby_defender"
+        "codes": "ruby_defensive"
+    },
+    {
+        "name": "Garnet Upgrade",
+        "type": "toggle",
+        "img": "images/items/Spr_upgrade_yellow_0.png",
+        "codes": "garnet_upgrade"
     },
     {
         "name": "Garnet Primary",
@@ -242,10 +402,10 @@
         "codes": "garnet_special"
     },
     {
-        "name": "Garnet Defender",
+        "name": "Garnet Denfesive",
         "type": "toggle",
         "img": "images/items/Spr_upgrade_yellow_3.png",
-        "codes": "garnet_defender"
+        "codes": "garnet_defensive"
     },
     {
         "name": "Regen Potion",
@@ -1674,6 +1834,56 @@
         "img": "images/items/Spr_item_lakeshrine_7.png",
         "codes": "lakeshrine8"
     },
+    {
+        "name": "Victory - Wizard",
+        "type": "toggle",
+        "codes": "victory_wizard"
+    },
+    {
+        "name": "Victory - Assassin",
+        "type": "toggle",
+        "codes": "victory_assassin"
+    },
+    {
+        "name": "Victory - Heavyblade",
+        "type": "toggle",
+        "codes": "victory_heavyblade"
+    },
+    {
+        "name": "Victory - Dancer",
+        "type": "toggle",
+        "codes": "victory_dancer"
+    },
+    {
+        "name": "Victory - Druid",
+        "type": "toggle",
+        "codes": "victory_druid"
+    },
+    {
+        "name": "Victory - Spellsword",
+        "type": "toggle",
+        "codes": "victory_spellsword"
+    },
+    {
+        "name": "Victory - Sniper",
+        "type": "toggle",
+        "codes": "victory_sniper"
+    },
+    {
+        "name": "Victory - Bruiser",
+        "type": "toggle",
+        "codes": "victory_bruiser"
+    },
+    {
+        "name": "Victory - Defender",
+        "type": "toggle",
+        "codes": "victory_defender"
+    },
+    {
+        "name": "Victory - Ancient",
+        "type": "toggle",
+        "codes": "victory_ancient"
+    },
 
     //Settings
     {
@@ -1736,6 +1946,30 @@
             {            
                 "img": "images/settings/roulette_potion.png",
                 "codes": "op_PS,potion_sanity_roulette",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Upgrade Sanity",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/normal_upgrade.png",
+                "codes": "op_US,upgrade_sanity_off"
+            },
+            {
+                "img": "images/settings/simple_upgrade.png",
+                "codes": "op_US,upgrade_sanity_simple",
+                "inherit_codes": false
+            },
+            {            
+                "img": "images/settings/full_upgrade.png",
+                "codes": "op_US,upgrade_sanity_full",
                 "inherit_codes": false
             }
         ]
