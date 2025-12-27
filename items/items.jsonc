@@ -26,43 +26,43 @@
         "disabled_img_mods":"none"
     },
     {
-        "name": "Area Scholar",
+        "name": "Scholar's Nest",
         "type": "toggle",
         "img": "images/items/Area_Scholar's_Nest.png",
         "codes": "scholar"
     },
     {
-        "name": "Area Arsenal",
+        "name": "King's Arsenal",
         "type": "toggle",
         "img": "images/items/Area_King's_Arsenal.png",
         "codes": "arsenal"
     },
     {
-        "name": "Area Darkhouse",
+        "name": "Red Darkhouse",
         "type": "toggle",
         "img": "images/items/Area_Red_Darkhouse.png",
         "codes": "darkhouse"
     },
     {
-        "name": "Area Churchmouse",
+        "name": "Churchmouse Streets",
         "type": "toggle",
         "img": "images/items/Area_Churchmouse_Streets.png",
         "codes": "churchmouse"
     },
     {
-        "name": "Area Lakeside",
+        "name": "Emerald Lakeside",
         "type": "toggle",
         "img": "images/items/Area_Emerald_Lakeside.png",
         "codes": "lakeside"
     },
     {
-        "name": "Area Pale Keep",
+        "name": "The Pale Keep",
         "type": "toggle",
         "img": "images/items/Area_The_Pale_Keep.png",
         "codes": "pale_keep"
     },
     {
-        "name": "Area Moonlit",
+        "name": "Moonlit Pinnacle",
         "type": "toggle",
         "img": "images/items/Area_Moonlit_Pinnacle.png",
         "codes": "moonlit"

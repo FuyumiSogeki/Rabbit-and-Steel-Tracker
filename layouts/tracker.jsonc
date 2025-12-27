@@ -336,7 +336,7 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["prog_area","","treasuresphere"],
+            ["prog_area","treasuresphere"],
             ["scholar","arsenal","darkhouse"],
             ["churchmouse","lakeside","pale_keep"],
             ["moonlit"]
@@ -354,6 +354,19 @@
             ["dancer","druid","Spellword"],
             ["sniper","bruiser","defender"],
             ["ancient"]
+        ]
+    },
+    "settings_item_grid": 
+    {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows": 
+        [
+            ["op_KS","op_PR"],
+            ["op_CS","op_SS","op_PS"],
+            ["op_IC","op_IS"]
         ]
     },
     "tracker_horizontal": 
@@ -420,7 +433,7 @@
                                 [
                                     {
                                         "type": "layout",
-                                        "key": ""
+                                        "key": "settings_item_grid"
                                     }
                                 ]
                             }
