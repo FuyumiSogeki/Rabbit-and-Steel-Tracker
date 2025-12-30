@@ -1,0 +1,990 @@
+[
+    {
+        "name": "Emerald Lakeside",
+        "color": "#FFFFFF",
+        "children" :
+        [
+            {
+                "name": "Emerald Lakeside Battle 1",
+                "map_locations": 
+				[
+                    {
+                        "map": "Lakeside",
+                        "x": 150,
+                        "y": 378
+                    }
+                ],
+                "visibility_rules": 
+                [
+                    "$isEmeraldLakeside"
+                ],
+                "access_rules": 
+                [
+                    "$canEmeraldLakeside"
+                ],
+                "sections":
+				[
+                    {
+                        "name": "Any Class",
+                        "chest_unopened_img": "images/items/Area_Emerald_Lakeside.png",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wizard",
+                        "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "visibility_rules": 
+                        [
+                            "$isWizard"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canWizard"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Assassin",
+                        "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "visibility_rules": 
+                        [
+                            "$isAssassin"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAssassin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavyblade",
+                        "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "visibility_rules": 
+                        [
+                            "$isHeavyblade"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canHeavyblade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "visibility_rules": 
+                        [
+                            "$isDancer"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Druid",
+                        "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "visibility_rules": 
+                        [
+                            "$isDruid"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDruid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spellsword",
+                        "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "visibility_rules": 
+                        [
+                            "$isSpellsword"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSpellsword"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sniper",
+                        "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "visibility_rules": 
+                        [
+                            "$isSniper"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSniper"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bruiser",
+                        "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "visibility_rules": 
+                        [
+                            "$isBruiser"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canBruiser"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defender",
+                        "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "visibility_rules": 
+                        [
+                            "$isDefender"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDefender"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ancient",
+                        "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "visibility_rules": 
+                        [
+                            "$isAncient"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAncient"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Emerald Lakeside Battle 2",
+                "map_locations": 
+				[
+                    {
+                        "map": "Lakeside",
+                        "x": 525,
+                        "y": 378
+                    }
+                ],
+                "visibility_rules": 
+                [
+                    "$isEmeraldLakeside"
+                ],
+                "access_rules": 
+                [
+                    "$canEmeraldLakeside"
+                ],
+                "sections":
+				[
+                    {
+                        "name": "Any Class",
+                        "chest_unopened_img": "images/items/Area_Emerald_Lakeside.png",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wizard",
+                        "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "visibility_rules": 
+                        [
+                            "$isWizard"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canWizard"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Assassin",
+                        "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "visibility_rules": 
+                        [
+                            "$isAssassin"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAssassin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavyblade",
+                        "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "visibility_rules": 
+                        [
+                            "$isHeavyblade"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canHeavyblade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "visibility_rules": 
+                        [
+                            "$isDancer"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Druid",
+                        "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "visibility_rules": 
+                        [
+                            "$isDruid"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDruid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spellsword",
+                        "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "visibility_rules": 
+                        [
+                            "$isSpellsword"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSpellsword"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sniper",
+                        "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "visibility_rules": 
+                        [
+                            "$isSniper"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSniper"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bruiser",
+                        "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "visibility_rules": 
+                        [
+                            "$isBruiser"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canBruiser"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defender",
+                        "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "visibility_rules": 
+                        [
+                            "$isDefender"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDefender"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ancient",
+                        "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "visibility_rules": 
+                        [
+                            "$isAncient"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAncient"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Emerald Lakeside Battle 3",
+                "map_locations": 
+				[
+                    {
+                        "map": "Lakeside",
+                        "x": 938,
+                        "y": 378
+                    }
+                ],
+                "visibility_rules": 
+                [
+                    "$isEmeraldLakeside"
+                ],
+                "access_rules": 
+                [
+                    "$canEmeraldLakeside"
+                ],
+                "sections":
+				[
+                    {
+                        "name": "Any Class",
+                        "chest_unopened_img": "images/items/Area_Emerald_Lakeside.png",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wizard",
+                        "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "visibility_rules": 
+                        [
+                            "$isWizard"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canWizard"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Assassin",
+                        "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "visibility_rules": 
+                        [
+                            "$isAssassin"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAssassin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavyblade",
+                        "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "visibility_rules": 
+                        [
+                            "$isHeavyblade"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canHeavyblade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "visibility_rules": 
+                        [
+                            "$isDancer"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Druid",
+                        "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "visibility_rules": 
+                        [
+                            "$isDruid"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDruid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spellsword",
+                        "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "visibility_rules": 
+                        [
+                            "$isSpellsword"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSpellsword"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sniper",
+                        "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "visibility_rules": 
+                        [
+                            "$isSniper"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSniper"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bruiser",
+                        "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "visibility_rules": 
+                        [
+                            "$isBruiser"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canBruiser"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defender",
+                        "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "visibility_rules": 
+                        [
+                            "$isDefender"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDefender"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ancient",
+                        "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "visibility_rules": 
+                        [
+                            "$isAncient"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAncient"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Emerald Lakeside Chest",
+                "map_locations": 
+				[
+                    {
+                        "map": "Lakeside",
+                        "x": 1316,
+                        "y": 378
+                    }
+                ],
+                "visibility_rules": 
+                [
+                    "$isEmeraldLakeside"
+                ],
+                "access_rules": 
+                [
+                    "$canEmeraldLakeside"
+                ],
+                "sections":
+				[
+                    {
+                        "name": "Any Class",
+                        "chest_unopened_img": "images/items/Area_Emerald_Lakeside.png",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top Left",
+                        "chest_unopened_img": "images/items/treasure.png",
+                        "visibility_rules": 
+                        [
+                            "$isCheckChest"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canTreasureEmeraldLakeside"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom Left",
+                        "chest_unopened_img": "images/items/treasure.png",
+                        "visibility_rules": 
+                        [
+                            "$isCheckChest"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canTreasureEmeraldLakeside"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Middle",
+                        "chest_unopened_img": "images/items/treasure.png",
+                        "visibility_rules": 
+                        [
+                            "$isCheckChest"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canTreasureEmeraldLakeside"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Top Right",
+                        "chest_unopened_img": "images/items/treasure.png",
+                        "visibility_rules": 
+                        [
+                            "$isCheckChest"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canTreasureEmeraldLakeside"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bottom Right",
+                        "chest_unopened_img": "images/items/treasure.png",
+                        "visibility_rules": 
+                        [
+                            "$isCheckChest"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canTreasureEmeraldLakeside"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wizard",
+                        "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "visibility_rules": 
+                        [
+                            "$isWizard"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canWizard"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Assassin",
+                        "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "visibility_rules": 
+                        [
+                            "$isAssassin"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAssassin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavyblade",
+                        "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "visibility_rules": 
+                        [
+                            "$isHeavyblade"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canHeavyblade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "visibility_rules": 
+                        [
+                            "$isDancer"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Druid",
+                        "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "visibility_rules": 
+                        [
+                            "$isDruid"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDruid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spellsword",
+                        "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "visibility_rules": 
+                        [
+                            "$isSpellsword"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSpellsword"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sniper",
+                        "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "visibility_rules": 
+                        [
+                            "$isSniper"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSniper"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bruiser",
+                        "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "visibility_rules": 
+                        [
+                            "$isBruiser"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canBruiser"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defender",
+                        "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "visibility_rules": 
+                        [
+                            "$isDefender"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDefender"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ancient",
+                        "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "visibility_rules": 
+                        [
+                            "$isAncient"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAncient"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Emerald Lakeside Boss",
+                "map_locations": 
+				[
+                    {
+                        "map": "Lakeside",
+                        "x": 1711,
+                        "y": 378
+                    }
+                ],
+                "visibility_rules": 
+                [
+                    "$isEmeraldLakeside"
+                ],
+                "access_rules": 
+                [
+                    "$canEmeraldLakeside"
+                ],
+                "sections":
+				[
+                    {
+                        "name": "Any Class",
+                        "chest_unopened_img": "images/items/Area_Emerald_Lakeside.png",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wizard",
+                        "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "visibility_rules": 
+                        [
+                            "$isWizard"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canWizard"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Assassin",
+                        "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "visibility_rules": 
+                        [
+                            "$isAssassin"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAssassin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavyblade",
+                        "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "visibility_rules": 
+                        [
+                            "$isHeavyblade"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canHeavyblade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "visibility_rules": 
+                        [
+                            "$isDancer"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Druid",
+                        "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "visibility_rules": 
+                        [
+                            "$isDruid"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDruid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spellsword",
+                        "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "visibility_rules": 
+                        [
+                            "$isSpellsword"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSpellsword"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sniper",
+                        "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "visibility_rules": 
+                        [
+                            "$isSniper"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSniper"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bruiser",
+                        "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "visibility_rules": 
+                        [
+                            "$isBruiser"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canBruiser"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defender",
+                        "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "visibility_rules": 
+                        [
+                            "$isDefender"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDefender"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ancient",
+                        "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "visibility_rules": 
+                        [
+                            "$isAncient"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAncient"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Lakeside",
+                        "x": 485,
+                        "y": 100
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Full Heal Potion Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Defensive Upgrade Slot"
+                    }
+                ]
+            }
+        ]
+    }
+]

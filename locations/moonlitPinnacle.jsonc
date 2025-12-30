@@ -1,0 +1,174 @@
+[
+    {
+        "name": "Moonlit Pinnacle",
+        "color": "#FFFFFF",
+        "children" :
+        [
+            {
+                "name": "Shira",
+                "map_locations": 
+				[
+                    {
+                        "map": "Pinnacle",
+                        "x": 960,
+                        "y": 360
+                    }
+                ],
+                "visibility_rules": 
+                [
+                    "$isMoonlitPinnacle"
+                ],
+                "access_rules": 
+                [
+                    "$canMoonlitPinnacle"
+                ],
+                "sections":
+				[
+                    {
+                        "name": "Any Class",
+                        "chest_unopened_img": "images/items/Area_Moonlit_Pinnacle.png",
+                        "visibility_rules": 
+                        [
+                            ""
+                        ],
+                        "access_rules": 
+                        [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wizard",
+                        "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "visibility_rules": 
+                        [
+                            "$isWizard"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canWizard"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Assassin",
+                        "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "visibility_rules": 
+                        [
+                            "$isAssassin"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAssassin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavyblade",
+                        "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "visibility_rules": 
+                        [
+                            "$isHeavyblade"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canHeavyblade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "visibility_rules": 
+                        [
+                            "$isDancer"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Druid",
+                        "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "visibility_rules": 
+                        [
+                            "$isDruid"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDruid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spellsword",
+                        "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "visibility_rules": 
+                        [
+                            "$isSpellsword"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSpellsword"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sniper",
+                        "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "visibility_rules": 
+                        [
+                            "$isSniper"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canSniper"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bruiser",
+                        "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "visibility_rules": 
+                        [
+                            "$isBruiser"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canBruiser"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defender",
+                        "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "visibility_rules": 
+                        [
+                            "$isDefender"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canDefender"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ancient",
+                        "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "visibility_rules": 
+                        [
+                            "$isAncient"
+                        ],
+                        "access_rules": 
+                        [
+                            "$canAncient"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

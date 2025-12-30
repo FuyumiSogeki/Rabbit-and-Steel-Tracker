@@ -1,0 +1,2265 @@
+
+[
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Kingdom",
+                        "x": 473,
+                        "y": 607
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Any Class",
+                        "name": "Kingdom Outskirts Battle 1 - Any Class"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Wizard",
+                        "name": "Kingdom Outskirts Battle 1 - Wizard"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Assassin",
+                        "name": "Kingdom Outskirts Battle 1 - Assassin"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Heavyblade",
+                        "name": "Kingdom Outskirts Battle 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Dancer",
+                        "name": "Kingdom Outskirts Battle 1 - Dancer"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Druid",
+                        "name": "Kingdom Outskirts Battle 1 - Druid"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Spellsword",
+                        "name": "Kingdom Outskirts Battle 1 - Spellword"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Sniper",
+                        "name": "Kingdom Outskirts Battle 1 - Sniper"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Bruiser",
+                        "name": "Kingdom Outskirts Battle 1 - Bruiser"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Defender",
+                        "name": "Kingdom Outskirts Battle 1 - Defender"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 1/Ancient",
+                        "name": "Kingdom Outskirts Battle 1 - Ancient"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Top Left",
+                        "name": "Kingdom Outskirts Chest 1 - Top Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Bottom Left",
+                        "name": "Kingdom Outskirts Chest 1 - Bottom Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Middle",
+                        "name": "Kingdom Outskirts Chest 1 - Middle"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Top Right",
+                        "name": "Kingdom Outskirts Chest 1 - Top Right"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Bottom Right",
+                        "name": "Kingdom Outskirts Chest 1 - Bottom Right"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Wizard",
+                        "name": "Kingdom Outskirts Chest 1 - Wizard"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Assassin",
+                        "name": "Kingdom Outskirts Chest 1 - Assassin"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Heavyblade",
+                        "name": "Kingdom Outskirts Chest 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Dancer",
+                        "name": "Kingdom Outskirts Chest 1 - Dancer"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Druid",
+                        "name": "Kingdom Outskirts Chest 1 - Druid"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Spellsword",
+                        "name": "Kingdom Outskirts Chest 1 - Spellword"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Sniper",
+                        "name": "Kingdom Outskirts Chest 1 - Sniper"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Bruiser",
+                        "name": "Kingdom Outskirts Chest 1 - Bruiser"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Defender",
+                        "name": "Kingdom Outskirts Chest 1 - Defender"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Ancient",
+                        "name": "Kingdom Outskirts Chest 1 - Ancient"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Any Class",
+                        "name": "Kingdom Outskirts Battle 2 - Any Class"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Wizard",
+                        "name": "Kingdom Outskirts Battle 2 - Wizard"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Assassin",
+                        "name": "Kingdom Outskirts Battle 2 - Assassin"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Heavyblade",
+                        "name": "Kingdom Outskirts Battle 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Dancer",
+                        "name": "Kingdom Outskirts Battle 2 - Dancer"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Druid",
+                        "name": "Kingdom Outskirts Battle 2 - Druid"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Spellsword",
+                        "name": "Kingdom Outskirts Battle 2 - Spellword"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Sniper",
+                        "name": "Kingdom Outskirts Battle 2 - Sniper"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Bruiser",
+                        "name": "Kingdom Outskirts Battle 2 - Bruiser"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Defender",
+                        "name": "Kingdom Outskirts Battle 2 - Defender"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 2/Ancient",
+                        "name": "Kingdom Outskirts Battle 2 - Ancient"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Any Class",
+                        "name": "Kingdom Outskirts Chest 2 - Any Class"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Top Left",
+                        "name": "Kingdom Outskirts Chest 2 - Top Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Bottom Left",
+                        "name": "Kingdom Outskirts Chest 2 - Bottom Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Middle",
+                        "name": "Kingdom Outskirts Chest 2 - Middle"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Top Right",
+                        "name": "Kingdom Outskirts Chest 2 - Top Right"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Bottom Right",
+                        "name": "Kingdom Outskirts Chest 2 - Bottom Right"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Wizard",
+                        "name": "Kingdom Outskirts Chest 2 - Wizard"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Assassin",
+                        "name": "Kingdom Outskirts Chest 2 - Assassin"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Heavyblade",
+                        "name": "Kingdom Outskirts Chest 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Dancer",
+                        "name": "Kingdom Outskirts Chest 2 - Dancer"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Druid",
+                        "name": "Kingdom Outskirts Chest 2 - Druid"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Spellsword",
+                        "name": "Kingdom Outskirts Chest 2 - Spellword"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Sniper",
+                        "name": "Kingdom Outskirts Chest 2 - Sniper"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Bruiser",
+                        "name": "Kingdom Outskirts Chest 2 - Bruiser"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Defender",
+                        "name": "Kingdom Outskirts Chest 2 - Defender"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Ancient",
+                        "name": "Kingdom Outskirts Chest 2 - Ancient"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Any Class",
+                        "name": "Kingdom Outskirts Battle 3 - Any Class"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Wizard",
+                        "name": "Kingdom Outskirts Battle 3 - Wizard"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Assassin",
+                        "name": "Kingdom Outskirts Battle 3 - Assassin"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Heavyblade",
+                        "name": "Kingdom Outskirts Battle 3 - Heavyblade"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Dancer",
+                        "name": "Kingdom Outskirts Battle 3 - Dancer"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Druid",
+                        "name": "Kingdom Outskirts Battle 3 - Druid"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Spellsword",
+                        "name": "Kingdom Outskirts Battle 3 - Spellword"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Sniper",
+                        "name": "Kingdom Outskirts Battle 3 - Sniper"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Bruiser",
+                        "name": "Kingdom Outskirts Battle 3 - Bruiser"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Defender",
+                        "name": "Kingdom Outskirts Battle 3 - Defender"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Battle 3/Ancient",
+                        "name": "Kingdom Outskirts Battle 3 - Ancient"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Kingdom",
+                        "x": 711,
+                        "y": 580
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Full Heal Potion Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Scholar's Nest Shop",
+                        "name": "Scholar's Nest Shop - Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Any Class",
+                        "name": "Scholar's Nest Battle 1 - Any Class"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Wizard",
+                        "name": "Scholar's Nest Battle 1 - Wizard"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Assassin",
+                        "name": "Scholar's Nest Battle 1 - Assassin"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Heavyblade",
+                        "name": "Scholar's Nest Battle 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Dancer",
+                        "name": "Scholar's Nest Battle 1 - Dancer"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Druid",
+                        "name": "Scholar's Nest Battle 1 - Druid"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Spellsword",
+                        "name": "Scholar's Nest Battle 1 - Spellword"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Sniper",
+                        "name": "Scholar's Nest Battle 1 - Sniper"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Bruiser",
+                        "name": "Scholar's Nest Battle 1 - Bruiser"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Defender",
+                        "name": "Scholar's Nest Battle 1 - Defender"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 1/Ancient",
+                        "name": "Scholar's Nest Battle 1 - Ancient"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Any Class",
+                        "name": "Scholar's Nest Battle 2 - Any Class"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Wizard",
+                        "name": "Scholar's Nest Battle 2 - Wizard"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Assassin",
+                        "name": "Scholar's Nest Battle 2 - Assassin"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Heavyblade",
+                        "name": "Scholar's Nest Battle 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Dancer",
+                        "name": "Scholar's Nest Battle 2 - Dancer"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Druid",
+                        "name": "Scholar's Nest Battle 2 - Druid"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Spellsword",
+                        "name": "Scholar's Nest Battle 2 - Spellword"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Sniper",
+                        "name": "Scholar's Nest Battle 2 - Sniper"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Bruiser",
+                        "name": "Scholar's Nest Battle 2 - Bruiser"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Defender",
+                        "name": "Scholar's Nest Battle 2 - Defender"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 2/Ancient",
+                        "name": "Scholar's Nest Battle 2 - Ancient"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Any Class",
+                        "name": "Scholar's Nest Battle 3 - Any Class"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Wizard",
+                        "name": "Scholar's Nest Battle 3 - Wizard"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Assassin",
+                        "name": "Scholar's Nest Battle 3 - Assassin"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Heavyblade",
+                        "name": "Scholar's Nest Battle 3 - Heavyblade"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Dancer",
+                        "name": "Scholar's Nest Battle 3 - Dancer"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Druid",
+                        "name": "Scholar's Nest Battle 3 - Druid"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Spellsword",
+                        "name": "Scholar's Nest Battle 3 - Spellword"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Sniper",
+                        "name": "Scholar's Nest Battle 3 - Sniper"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Bruiser",
+                        "name": "Scholar's Nest Battle 3 - Bruiser"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Defender",
+                        "name": "Scholar's Nest Battle 3 - Defender"
+                    },
+                    {
+                        "ref": "Scholar's Nest Battle 3/Ancient",
+                        "name": "Scholar's Nest Battle 3 - Ancient"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Any Class",
+                        "name": "Scholar's Nest Chest - Any Class"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Top Left",
+                        "name": "Scholar's Nest Chest - Top Left"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Bottom Left",
+                        "name": "Scholar's Nest Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Middle",
+                        "name": "Scholar's Nest Chest - Middle"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Top Right",
+                        "name": "Scholar's Nest Chest - Top Right"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Bottom Right",
+                        "name": "Scholar's Nest Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Wizard",
+                        "name": "Scholar's Nest Chest - Wizard"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Assassin",
+                        "name": "Scholar's Nest Chest - Assassin"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Heavyblade",
+                        "name": "Scholar's Nest Chest - Heavyblade"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Dancer",
+                        "name": "Scholar's Nest Chest - Dancer"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Druid",
+                        "name": "Scholar's Nest Chest - Druid"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Spellsword",
+                        "name": "Scholar's Nest Chest - Spellword"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Sniper",
+                        "name": "Scholar's Nest Chest - Sniper"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Bruiser",
+                        "name": "Scholar's Nest Chest - Bruiser"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Defender",
+                        "name": "Scholar's Nest Chest - Defender"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Ancient",
+                        "name": "Scholar's Nest Chest - Ancient"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Any Class",
+                        "name": "Scholar's Nest Boss - Any Class"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Wizard",
+                        "name": "Scholar's Nest Boss - Wizard"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Assassin",
+                        "name": "Scholar's Nest Boss - Assassin"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Heavyblade",
+                        "name": "Scholar's Nest Boss - Heavyblade"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Dancer",
+                        "name": "Scholar's Nest Boss - Dancer"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Druid",
+                        "name": "Scholar's Nest Boss - Druid"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Spellsword",
+                        "name": "Scholar's Nest Boss - Spellword"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Sniper",
+                        "name": "Scholar's Nest Boss - Sniper"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Bruiser",
+                        "name": "Scholar's Nest Boss - Bruiser"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Defender",
+                        "name": "Scholar's Nest Boss - Defender"
+                    },
+                    {
+                        "ref": "Scholar's Nest Boss/Ancient",
+                        "name": "Scholar's Nest Boss - Ancient"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Kingdom",
+                        "x": 1456,
+                        "y": 241
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Full Heal Potion Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/King's Arsenal Shop",
+                        "name": "King's Arsenal Shop - Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Any Class",
+                        "name": "King's Arsenal Battle 1 - Any Class"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Wizard",
+                        "name": "King's Arsenal Battle 1 - Wizard"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Assassin",
+                        "name": "King's Arsenal Battle 1 - Assassin"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Heavyblade",
+                        "name": "King's Arsenal Battle 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Dancer",
+                        "name": "King's Arsenal Battle 1 - Dancer"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Druid",
+                        "name": "King's Arsenal Battle 1 - Druid"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Spellsword",
+                        "name": "King's Arsenal Battle 1 - Spellword"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Sniper",
+                        "name": "King's Arsenal Battle 1 - Sniper"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Bruiser",
+                        "name": "King's Arsenal Battle 1 - Bruiser"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Defender",
+                        "name": "King's Arsenal Battle 1 - Defender"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 1/Ancient",
+                        "name": "King's Arsenal Battle 1 - Ancient"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Any Class",
+                        "name": "King's Arsenal Battle 2 - Any Class"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Wizard",
+                        "name": "King's Arsenal Battle 2 - Wizard"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Assassin",
+                        "name": "King's Arsenal Battle 2 - Assassin"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Heavyblade",
+                        "name": "King's Arsenal Battle 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Dancer",
+                        "name": "King's Arsenal Battle 2 - Dancer"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Druid",
+                        "name": "King's Arsenal Battle 2 - Druid"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Spellsword",
+                        "name": "King's Arsenal Battle 2 - Spellword"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Sniper",
+                        "name": "King's Arsenal Battle 2 - Sniper"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Bruiser",
+                        "name": "King's Arsenal Battle 2 - Bruiser"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Defender",
+                        "name": "King's Arsenal Battle 2 - Defender"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 2/Ancient",
+                        "name": "King's Arsenal Battle 2 - Ancient"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Any Class",
+                        "name": "King's Arsenal Battle 3 - Any Class"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Wizard",
+                        "name": "King's Arsenal Battle 3 - Wizard"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Assassin",
+                        "name": "King's Arsenal Battle 3 - Assassin"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Heavyblade",
+                        "name": "King's Arsenal Battle 3 - Heavyblade"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Dancer",
+                        "name": "King's Arsenal Battle 3 - Dancer"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Druid",
+                        "name": "King's Arsenal Battle 3 - Druid"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Spellsword",
+                        "name": "King's Arsenal Battle 3 - Spellword"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Sniper",
+                        "name": "King's Arsenal Battle 3 - Sniper"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Bruiser",
+                        "name": "King's Arsenal Battle 3 - Bruiser"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Defender",
+                        "name": "King's Arsenal Battle 3 - Defender"
+                    },
+                    {
+                        "ref": "King's Arsenal Battle 3/Ancient",
+                        "name": "King's Arsenal Battle 3 - Ancient"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Any Class",
+                        "name": "King's Arsenal Chest - Any Class"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Top Left",
+                        "name": "King's Arsenal Chest - Top Left"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Bottom Left",
+                        "name": "King's Arsenal Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Middle",
+                        "name": "King's Arsenal Chest - Middle"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Top Right",
+                        "name": "King's Arsenal Chest - Top Right"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Bottom Right",
+                        "name": "King's Arsenal Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Wizard",
+                        "name": "King's Arsenal Chest - Wizard"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Assassin",
+                        "name": "King's Arsenal Chest - Assassin"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Heavyblade",
+                        "name": "King's Arsenal Chest - Heavyblade"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Dancer",
+                        "name": "King's Arsenal Chest - Dancer"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Druid",
+                        "name": "King's Arsenal Chest - Druid"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Spellsword",
+                        "name": "King's Arsenal Chest - Spellword"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Sniper",
+                        "name": "King's Arsenal Chest - Sniper"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Bruiser",
+                        "name": "King's Arsenal Chest - Bruiser"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Defender",
+                        "name": "King's Arsenal Chest - Defender"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Ancient",
+                        "name": "King's Arsenal Chest - Ancient"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Any Class",
+                        "name": "King's Arsenal Boss - Any Class"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Wizard",
+                        "name": "King's Arsenal Boss - Wizard"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Assassin",
+                        "name": "King's Arsenal Boss - Assassin"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Heavyblade",
+                        "name": "King's Arsenal Boss - Heavyblade"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Dancer",
+                        "name": "King's Arsenal Boss - Dancer"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Druid",
+                        "name": "King's Arsenal Boss - Druid"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Spellsword",
+                        "name": "King's Arsenal Boss - Spellword"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Sniper",
+                        "name": "King's Arsenal Boss - Sniper"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Bruiser",
+                        "name": "King's Arsenal Boss - Bruiser"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Defender",
+                        "name": "King's Arsenal Boss - Defender"
+                    },
+                    {
+                        "ref": "King's Arsenal Boss/Ancient",
+                        "name": "King's Arsenal Boss - Ancient"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Kingdom",
+                        "x": 442,
+                        "y": 424
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Full Heal Potion Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Red Darkhouse Shop",
+                        "name": "Red Darkhouse Shop - Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Any Class",
+                        "name": "Red Darkhouse Battle 1 - Any Class"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Wizard",
+                        "name": "Red Darkhouse Battle 1 - Wizard"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Assassin",
+                        "name": "Red Darkhouse Battle 1 - Assassin"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Heavyblade",
+                        "name": "Red Darkhouse Battle 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Dancer",
+                        "name": "Red Darkhouse Battle 1 - Dancer"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Druid",
+                        "name": "Red Darkhouse Battle 1 - Druid"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Spellsword",
+                        "name": "Red Darkhouse Battle 1 - Spellword"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Sniper",
+                        "name": "Red Darkhouse Battle 1 - Sniper"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Bruiser",
+                        "name": "Red Darkhouse Battle 1 - Bruiser"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Defender",
+                        "name": "Red Darkhouse Battle 1 - Defender"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 1/Ancient",
+                        "name": "Red Darkhouse Battle 1 - Ancient"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Any Class",
+                        "name": "Red Darkhouse Battle 2 - Any Class"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Wizard",
+                        "name": "Red Darkhouse Battle 2 - Wizard"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Assassin",
+                        "name": "Red Darkhouse Battle 2 - Assassin"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Heavyblade",
+                        "name": "Red Darkhouse Battle 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Dancer",
+                        "name": "Red Darkhouse Battle 2 - Dancer"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Druid",
+                        "name": "Red Darkhouse Battle 2 - Druid"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Spellsword",
+                        "name": "Red Darkhouse Battle 2 - Spellword"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Sniper",
+                        "name": "Red Darkhouse Battle 2 - Sniper"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Bruiser",
+                        "name": "Red Darkhouse Battle 2 - Bruiser"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Defender",
+                        "name": "Red Darkhouse Battle 2 - Defender"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 2/Ancient",
+                        "name": "Red Darkhouse Battle 2 - Ancient"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Any Class",
+                        "name": "Red Darkhouse Battle 3 - Any Class"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Wizard",
+                        "name": "Red Darkhouse Battle 3 - Wizard"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Assassin",
+                        "name": "Red Darkhouse Battle 3 - Assassin"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Heavyblade",
+                        "name": "Red Darkhouse Battle 3 - Heavyblade"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Dancer",
+                        "name": "Red Darkhouse Battle 3 - Dancer"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Druid",
+                        "name": "Red Darkhouse Battle 3 - Druid"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Spellsword",
+                        "name": "Red Darkhouse Battle 3 - Spellword"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Sniper",
+                        "name": "Red Darkhouse Battle 3 - Sniper"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Bruiser",
+                        "name": "Red Darkhouse Battle 3 - Bruiser"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Defender",
+                        "name": "Red Darkhouse Battle 3 - Defender"
+                    },
+                    {
+                        "ref": "Red Darkhouse Battle 3/Ancient",
+                        "name": "Red Darkhouse Battle 3 - Ancient"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Any Class",
+                        "name": "Red Darkhouse Chest - Any Class"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Top Left",
+                        "name": "Red Darkhouse Chest - Top Left"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Bottom Left",
+                        "name": "Red Darkhouse Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Middle",
+                        "name": "Red Darkhouse Chest - Middle"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Top Right",
+                        "name": "Red Darkhouse Chest - Top Right"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Bottom Right",
+                        "name": "Red Darkhouse Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Wizard",
+                        "name": "Red Darkhouse Chest - Wizard"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Assassin",
+                        "name": "Red Darkhouse Chest - Assassin"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Heavyblade",
+                        "name": "Red Darkhouse Chest - Heavyblade"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Dancer",
+                        "name": "Red Darkhouse Chest - Dancer"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Druid",
+                        "name": "Red Darkhouse Chest - Druid"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Spellsword",
+                        "name": "Red Darkhouse Chest - Spellword"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Sniper",
+                        "name": "Red Darkhouse Chest - Sniper"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Bruiser",
+                        "name": "Red Darkhouse Chest - Bruiser"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Defender",
+                        "name": "Red Darkhouse Chest - Defender"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Ancient",
+                        "name": "Red Darkhouse Chest - Ancient"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Any Class",
+                        "name": "Red Darkhouse Boss - Any Class"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Wizard",
+                        "name": "Red Darkhouse Boss - Wizard"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Assassin",
+                        "name": "Red Darkhouse Boss - Assassin"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Heavyblade",
+                        "name": "Red Darkhouse Boss - Heavyblade"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Dancer",
+                        "name": "Red Darkhouse Boss - Dancer"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Druid",
+                        "name": "Red Darkhouse Boss - Druid"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Spellsword",
+                        "name": "Red Darkhouse Boss - Spellword"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Sniper",
+                        "name": "Red Darkhouse Boss - Sniper"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Bruiser",
+                        "name": "Red Darkhouse Boss - Bruiser"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Defender",
+                        "name": "Red Darkhouse Boss - Defender"
+                    },
+                    {
+                        "ref": "Red Darkhouse Boss/Ancient",
+                        "name": "Red Darkhouse Boss - Ancient"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Kingdom",
+                        "x": 1079,
+                        "y": 460
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Full Heal Potion Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Churchmouse Streets Shop",
+                        "name": "Churchmouse Streets Shop - Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Any Class",
+                        "name": "Churchmouse Streets Battle 1 - Any Class"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Wizard",
+                        "name": "Churchmouse Streets Battle 1 - Wizard"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Assassin",
+                        "name": "Churchmouse Streets Battle 1 - Assassin"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Heavyblade",
+                        "name": "Churchmouse Streets Battle 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Dancer",
+                        "name": "Churchmouse Streets Battle 1 - Dancer"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Druid",
+                        "name": "Churchmouse Streets Battle 1 - Druid"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Spellsword",
+                        "name": "Churchmouse Streets Battle 1 - Spellword"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Sniper",
+                        "name": "Churchmouse Streets Battle 1 - Sniper"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Bruiser",
+                        "name": "Churchmouse Streets Battle 1 - Bruiser"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Defender",
+                        "name": "Churchmouse Streets Battle 1 - Defender"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 1/Ancient",
+                        "name": "Churchmouse Streets Battle 1 - Ancient"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Any Class",
+                        "name": "Churchmouse Streets Battle 2 - Any Class"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Wizard",
+                        "name": "Churchmouse Streets Battle 2 - Wizard"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Assassin",
+                        "name": "Churchmouse Streets Battle 2 - Assassin"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Heavyblade",
+                        "name": "Churchmouse Streets Battle 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Dancer",
+                        "name": "Churchmouse Streets Battle 2 - Dancer"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Druid",
+                        "name": "Churchmouse Streets Battle 2 - Druid"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Spellsword",
+                        "name": "Churchmouse Streets Battle 2 - Spellword"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Sniper",
+                        "name": "Churchmouse Streets Battle 2 - Sniper"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Bruiser",
+                        "name": "Churchmouse Streets Battle 2 - Bruiser"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Defender",
+                        "name": "Churchmouse Streets Battle 2 - Defender"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 2/Ancient",
+                        "name": "Churchmouse Streets Battle 2 - Ancient"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Any Class",
+                        "name": "Churchmouse Streets Battle 3 - Any Class"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Wizard",
+                        "name": "Churchmouse Streets Battle 3 - Wizard"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Assassin",
+                        "name": "Churchmouse Streets Battle 3 - Assassin"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Heavyblade",
+                        "name": "Churchmouse Streets Battle 3 - Heavyblade"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Dancer",
+                        "name": "Churchmouse Streets Battle 3 - Dancer"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Druid",
+                        "name": "Churchmouse Streets Battle 3 - Druid"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Spellsword",
+                        "name": "Churchmouse Streets Battle 3 - Spellword"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Sniper",
+                        "name": "Churchmouse Streets Battle 3 - Sniper"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Bruiser",
+                        "name": "Churchmouse Streets Battle 3 - Bruiser"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Defender",
+                        "name": "Churchmouse Streets Battle 3 - Defender"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Battle 3/Ancient",
+                        "name": "Churchmouse Streets Battle 3 - Ancient"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Any Class",
+                        "name": "Churchmouse Streets Chest - Any Class"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Top Left",
+                        "name": "Churchmouse Streets Chest - Top Left"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Bottom Left",
+                        "name": "Churchmouse Streets Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Middle",
+                        "name": "Churchmouse Streets Chest - Middle"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Top Right",
+                        "name": "Churchmouse Streets Chest - Top Right"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Bottom Right",
+                        "name": "Churchmouse Streets Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Wizard",
+                        "name": "Churchmouse Streets Chest - Wizard"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Assassin",
+                        "name": "Churchmouse Streets Chest - Assassin"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Heavyblade",
+                        "name": "Churchmouse Streets Chest - Heavyblade"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Dancer",
+                        "name": "Churchmouse Streets Chest - Dancer"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Druid",
+                        "name": "Churchmouse Streets Chest - Druid"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Spellsword",
+                        "name": "Churchmouse Streets Chest - Spellword"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Sniper",
+                        "name": "Churchmouse Streets Chest - Sniper"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Bruiser",
+                        "name": "Churchmouse Streets Chest - Bruiser"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Defender",
+                        "name": "Churchmouse Streets Chest - Defender"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Ancient",
+                        "name": "Churchmouse Streets Chest - Ancient"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Any Class",
+                        "name": "Churchmouse Streets Boss - Any Class"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Wizard",
+                        "name": "Churchmouse Streets Boss - Wizard"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Assassin",
+                        "name": "Churchmouse Streets Boss - Assassin"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Heavyblade",
+                        "name": "Churchmouse Streets Boss - Heavyblade"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Dancer",
+                        "name": "Churchmouse Streets Boss - Dancer"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Druid",
+                        "name": "Churchmouse Streets Boss - Druid"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Spellsword",
+                        "name": "Churchmouse Streets Boss - Spellword"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Sniper",
+                        "name": "Churchmouse Streets Boss - Sniper"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Bruiser",
+                        "name": "Churchmouse Streets Boss - Bruiser"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Defender",
+                        "name": "Churchmouse Streets Boss - Defender"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Boss/Ancient",
+                        "name": "Churchmouse Streets Boss - Ancient"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Kingdom",
+                        "x": 1380,
+                        "y": 580
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Full Heal Potion Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Emerald Lakeside Shop",
+                        "name": "Emerald Lakeside Shop - Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Any Class",
+                        "name": "Emerald Lakeside Battle 1 - Any Class"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Wizard",
+                        "name": "Emerald Lakeside Battle 1 - Wizard"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Assassin",
+                        "name": "Emerald Lakeside Battle 1 - Assassin"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Heavyblade",
+                        "name": "Emerald Lakeside Battle 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Dancer",
+                        "name": "Emerald Lakeside Battle 1 - Dancer"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Druid",
+                        "name": "Emerald Lakeside Battle 1 - Druid"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Spellsword",
+                        "name": "Emerald Lakeside Battle 1 - Spellword"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Sniper",
+                        "name": "Emerald Lakeside Battle 1 - Sniper"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Bruiser",
+                        "name": "Emerald Lakeside Battle 1 - Bruiser"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Defender",
+                        "name": "Emerald Lakeside Battle 1 - Defender"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 1/Ancient",
+                        "name": "Emerald Lakeside Battle 1 - Ancient"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Any Class",
+                        "name": "Emerald Lakeside Battle 2 - Any Class"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Wizard",
+                        "name": "Emerald Lakeside Battle 2 - Wizard"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Assassin",
+                        "name": "Emerald Lakeside Battle 2 - Assassin"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Heavyblade",
+                        "name": "Emerald Lakeside Battle 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Dancer",
+                        "name": "Emerald Lakeside Battle 2 - Dancer"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Druid",
+                        "name": "Emerald Lakeside Battle 2 - Druid"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Spellsword",
+                        "name": "Emerald Lakeside Battle 2 - Spellword"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Sniper",
+                        "name": "Emerald Lakeside Battle 2 - Sniper"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Bruiser",
+                        "name": "Emerald Lakeside Battle 2 - Bruiser"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Defender",
+                        "name": "Emerald Lakeside Battle 2 - Defender"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 2/Ancient",
+                        "name": "Emerald Lakeside Battle 2 - Ancient"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Any Class",
+                        "name": "Emerald Lakeside Battle 3 - Any Class"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Wizard",
+                        "name": "Emerald Lakeside Battle 3 - Wizard"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Assassin",
+                        "name": "Emerald Lakeside Battle 3 - Assassin"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Heavyblade",
+                        "name": "Emerald Lakeside Battle 3 - Heavyblade"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Dancer",
+                        "name": "Emerald Lakeside Battle 3 - Dancer"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Druid",
+                        "name": "Emerald Lakeside Battle 3 - Druid"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Spellsword",
+                        "name": "Emerald Lakeside Battle 3 - Spellword"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Sniper",
+                        "name": "Emerald Lakeside Battle 3 - Sniper"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Bruiser",
+                        "name": "Emerald Lakeside Battle 3 - Bruiser"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Defender",
+                        "name": "Emerald Lakeside Battle 3 - Defender"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Battle 3/Ancient",
+                        "name": "Emerald Lakeside Battle 3 - Ancient"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Any Class",
+                        "name": "Emerald Lakeside Chest - Any Class"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Top Left",
+                        "name": "Emerald Lakeside Chest - Top Left"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Bottom Left",
+                        "name": "Emerald Lakeside Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Middle",
+                        "name": "Emerald Lakeside Chest - Middle"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Top Right",
+                        "name": "Emerald Lakeside Chest - Top Right"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Bottom Right",
+                        "name": "Emerald Lakeside Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Wizard",
+                        "name": "Emerald Lakeside Chest - Wizard"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Assassin",
+                        "name": "Emerald Lakeside Chest - Assassin"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Heavyblade",
+                        "name": "Emerald Lakeside Chest - Heavyblade"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Dancer",
+                        "name": "Emerald Lakeside Chest - Dancer"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Druid",
+                        "name": "Emerald Lakeside Chest - Druid"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Spellsword",
+                        "name": "Emerald Lakeside Chest - Spellword"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Sniper",
+                        "name": "Emerald Lakeside Chest - Sniper"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Bruiser",
+                        "name": "Emerald Lakeside Chest - Bruiser"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Defender",
+                        "name": "Emerald Lakeside Chest - Defender"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Ancient",
+                        "name": "Emerald Lakeside Chest - Ancient"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Any Class",
+                        "name": "Emerald Lakeside Boss - Any Class"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Wizard",
+                        "name": "Emerald Lakeside Boss - Wizard"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Assassin",
+                        "name": "Emerald Lakeside Boss - Assassin"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Heavyblade",
+                        "name": "Emerald Lakeside Boss - Heavyblade"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Dancer",
+                        "name": "Emerald Lakeside Boss - Dancer"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Druid",
+                        "name": "Emerald Lakeside Boss - Druid"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Spellsword",
+                        "name": "Emerald Lakeside Boss - Spellword"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Sniper",
+                        "name": "Emerald Lakeside Boss - Sniper"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Bruiser",
+                        "name": "Emerald Lakeside Boss - Bruiser"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Defender",
+                        "name": "Emerald Lakeside Boss - Defender"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Boss/Ancient",
+                        "name": "Emerald Lakeside Boss - Ancient"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "item_count": 1,
+        "children":
+        [
+            {
+                "map_locations": 
+                [
+                    {
+                        "map": "Kingdom",
+                        "x": 960,
+                        "y": 228
+                    }
+                ],
+                "sections":
+                [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Full Heal Potion Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/The Pale Keep Shop",
+                        "name": "The Pale Keep Shop - Defensive Upgrade Slot"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Any Class",
+                        "name": "The Pale Keep Battle 1 - Any Class"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Wizard",
+                        "name": "The Pale Keep Battle 1 - Wizard"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Assassin",
+                        "name": "The Pale Keep Battle 1 - Assassin"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Heavyblade",
+                        "name": "The Pale Keep Battle 1 - Heavyblade"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Dancer",
+                        "name": "The Pale Keep Battle 1 - Dancer"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Druid",
+                        "name": "The Pale Keep Battle 1 - Druid"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Spellsword",
+                        "name": "The Pale Keep Battle 1 - Spellword"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Sniper",
+                        "name": "The Pale Keep Battle 1 - Sniper"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Bruiser",
+                        "name": "The Pale Keep Battle 1 - Bruiser"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Defender",
+                        "name": "The Pale Keep Battle 1 - Defender"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 1/Ancient",
+                        "name": "The Pale Keep Battle 1 - Ancient"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Any Class",
+                        "name": "The Pale Keep Battle 2 - Any Class"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Wizard",
+                        "name": "The Pale Keep Battle 2 - Wizard"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Assassin",
+                        "name": "The Pale Keep Battle 2 - Assassin"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Heavyblade",
+                        "name": "The Pale Keep Battle 2 - Heavyblade"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Dancer",
+                        "name": "The Pale Keep Battle 2 - Dancer"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Druid",
+                        "name": "The Pale Keep Battle 2 - Druid"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Spellsword",
+                        "name": "The Pale Keep Battle 2 - Spellword"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Sniper",
+                        "name": "The Pale Keep Battle 2 - Sniper"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Bruiser",
+                        "name": "The Pale Keep Battle 2 - Bruiser"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Defender",
+                        "name": "The Pale Keep Battle 2 - Defender"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 2/Ancient",
+                        "name": "The Pale Keep Battle 2 - Ancient"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Any Class",
+                        "name": "The Pale Keep Battle 3 - Any Class"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Wizard",
+                        "name": "The Pale Keep Battle 3 - Wizard"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Assassin",
+                        "name": "The Pale Keep Battle 3 - Assassin"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Heavyblade",
+                        "name": "The Pale Keep Battle 3 - Heavyblade"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Dancer",
+                        "name": "The Pale Keep Battle 3 - Dancer"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Druid",
+                        "name": "The Pale Keep Battle 3 - Druid"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Spellsword",
+                        "name": "The Pale Keep Battle 3 - Spellword"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Sniper",
+                        "name": "The Pale Keep Battle 3 - Sniper"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Bruiser",
+                        "name": "The Pale Keep Battle 3 - Bruiser"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Defender",
+                        "name": "The Pale Keep Battle 3 - Defender"
+                    },
+                    {
+                        "ref": "The Pale Keep Battle 3/Ancient",
+                        "name": "The Pale Keep Battle 3 - Ancient"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Any Class",
+                        "name": "The Pale Keep Chest - Any Class"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Top Left",
+                        "name": "The Pale Keep Chest - Top Left"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Bottom Left",
+                        "name": "The Pale Keep Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Middle",
+                        "name": "The Pale Keep Chest - Middle"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Top Right",
+                        "name": "The Pale Keep Chest - Top Right"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Bottom Right",
+                        "name": "The Pale Keep Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Wizard",
+                        "name": "The Pale Keep Chest - Wizard"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Assassin",
+                        "name": "The Pale Keep Chest - Assassin"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Heavyblade",
+                        "name": "The Pale Keep Chest - Heavyblade"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Dancer",
+                        "name": "The Pale Keep Chest - Dancer"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Druid",
+                        "name": "The Pale Keep Chest - Druid"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Spellsword",
+                        "name": "The Pale Keep Chest - Spellword"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Sniper",
+                        "name": "The Pale Keep Chest - Sniper"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Bruiser",
+                        "name": "The Pale Keep Chest - Bruiser"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Defender",
+                        "name": "The Pale Keep Chest - Defender"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Ancient",
+                        "name": "The Pale Keep Chest - Ancient"
+                    },
+                    {
+                        "ref": "Shira/Any Class",
+                        "name": "Shira - Any Class"
+                    },
+                    {
+                        "ref": "Shira/Wizard",
+                        "name": "Shira - Wizard"
+                    },
+                    {
+                        "ref": "Shira/Assassin",
+                        "name": "Shira - Assassin"
+                    },
+                    {
+                        "ref": "Shira/Heavyblade",
+                        "name": "Shira - Heavyblade"
+                    },
+                    {
+                        "ref": "Shira/Dancer",
+                        "name": "Shira - Dancer"
+                    },
+                    {
+                        "ref": "Shira/Druid",
+                        "name": "Shira - Druid"
+                    },
+                    {
+                        "ref": "Shira/Spellsword",
+                        "name": "Shira - Spellword"
+                    },
+                    {
+                        "ref": "Shira/Sniper",
+                        "name": "Shira - Sniper"
+                    },
+                    {
+                        "ref": "Shira/Bruiser",
+                        "name": "Shira - Bruiser"
+                    },
+                    {
+                        "ref": "Shira/Defender",
+                        "name": "Shira - Defender"
+                    },
+                    {
+                        "ref": "Shira/Ancient",
+                        "name": "Shira - Ancient"
+                    }
+                ]
+            }
+        ]
+    }
+]

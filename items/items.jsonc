@@ -1899,6 +1899,33 @@
 
     //Settings
     {
+        "name": "Goal Condition",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": true,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/settings/Character_Shira.png",
+                "codes": "op_GC,shira_defeat_count"
+            }
+        ]
+    },
+    {
+        "name": "Shira Defeat",
+        "type": "consumable",
+        "loop": "false",
+        "img": "images/items/Spr_battle_flag_2.png",
+        "overlay_background": "#000",
+        "codes": "op_SD",
+        "max_quantity": 10,
+        "initial_quantity": 1,
+        "increment": 1,
+        "swap_actions": false,
+        "disabled_img_mods":"none"
+    },
+    {
         "name": "Shuffle Item Set",
         "type": "progressive",
         "initial_stage_idx": 0,
@@ -2068,6 +2095,23 @@
         ]
     },
     {
+        "name": "Kingdom Sanity Order",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages":
+        [
+            {
+                "codes": "op_KKO,kingdom_order_off"
+            },
+            {
+                "codes": "op_KKO,kingdom_order_on",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
         "name": "King's Arsenal Order",
         "loop": "true",
         "overlay_background": "#000",
@@ -2116,5 +2160,110 @@
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
+    },
+    {
+        "name": "Pale Keep Order",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_OPK",
+        "max_quantity": 6,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Moonlit Pinnacle Order",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_OMP",
+        "max_quantity": 7,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Checks For Ancient",
+        "type": "toggle",
+        "codes": "ancient_checks"
+    },
+    {
+        "name": "Checks For Assassin",
+        "type": "toggle",
+        "codes": "assassin_checks"
+    },
+    {
+        "name": "Checks For Bruiser",
+        "type": "toggle",
+        "codes": "bruiser_checks"
+    },
+    {
+        "name": "Checks For Dancer",
+        "type": "toggle",
+        "codes": "dancer_checks"
+    },
+    {
+        "name": "Checks For Defender",
+        "type": "toggle",
+        "codes": "defender_checks"
+    },
+    {
+        "name": "Checks For Druid",
+        "type": "toggle",
+        "codes": "druid_checks"
+    },
+    {
+        "name": "Checks For Heavyblade",
+        "type": "toggle",
+        "codes": "heavyblade_checks"
+    },
+    {
+        "name": "Checks For Sniper",
+        "type": "toggle",
+        "codes": "sniper_checks"
+    },
+    {
+        "name": "Checks For Spellsword",
+        "type": "toggle",
+        "codes": "spellsword_checks"
+    },
+    {
+        "name": "Checks For Wizard",
+        "type": "toggle",
+        "codes": "wizard_checks"
+    },
+    {
+        "name": "Excluded King's Arsenal",
+        "type": "toggle",
+        "codes": "KA_excluded"
+    },
+    {
+        "name": "Excluded Scholar's Nest",
+        "type": "toggle",
+        "codes": "SN_excluded"
+    },
+    {
+        "name": "Excluded Red Darkhouse",
+        "type": "toggle",
+        "codes": "RD_excluded"
+    },
+    {
+        "name": "Excluded Emerald Lakeside",
+        "type": "toggle",
+        "codes": "EL_excluded"
+    },
+    {
+        "name": "Excluded Churchmouse Streets",
+        "type": "toggle",
+        "codes": "CS_excluded"
+    },
+    {
+        "name": "Excluded Pale Keep",
+        "type": "toggle",
+        "codes": "PK_excluded"
+    },
+    {
+        "name": "Excluded Moonlit Pinnacle",
+        "type": "toggle",
+        "codes": "MP_excluded"
     }
 ]

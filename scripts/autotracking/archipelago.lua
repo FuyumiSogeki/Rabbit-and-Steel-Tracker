@@ -141,11 +141,54 @@ function onClear(slot_data)
         Tracker:FindObjectForCode("op_IS").CurrentStage = 0
     end
 
+    if slot_data['kingdom_sanity_kingdom_order'] == 1 then
+        Tracker:FindObjectForCode("op_KKO").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_KKO").CurrentStage = 0
+    end
+
+    if slot_data['goal_condition'] == 1 then
+        Tracker:FindObjectForCode("op_GC").CurrentStage = 1
+    else
+        Tracker:FindObjectForCode("op_GC").CurrentStage = 0
+    end
+
     Tracker:FindObjectForCode("op_OKA").AcquiredCount = slot_data['kingdom_order']['King\'s Arsenal']
     Tracker:FindObjectForCode("op_OSN").AcquiredCount = slot_data['kingdom_order']['Scholar\'s Nest']
     Tracker:FindObjectForCode("op_ORD").AcquiredCount = slot_data['kingdom_order']['Red Darkhouse']
     Tracker:FindObjectForCode("op_OEL").AcquiredCount = slot_data['kingdom_order']['Emerald Lakeside']
     Tracker:FindObjectForCode("op_OCS").AcquiredCount = slot_data['kingdom_order']['Churchmouse Streets']
+    Tracker:FindObjectForCode("op_OPK").AcquiredCount = slot_data['max_kingdoms_per_run'] + 1
+    Tracker:FindObjectForCode("op_OMP").AcquiredCount = slot_data['max_kingdoms_per_run'] + 2
+
+    local CheckClass = slot_data['checks_per_class']
+    for _, class in ipairs(CheckClass) do
+        if class == "Ancient" then Tracker:FindObjectForCode("ancient_checks").Active = true
+        elseif class == "Assassin" then Tracker:FindObjectForCode("assassin_checks").Active = true
+        elseif class == "Bruiser" then Tracker:FindObjectForCode("bruiser_checks").Active = true
+        elseif class == "Dancer" then Tracker:FindObjectForCode("dancer_checks").Active = true
+        elseif class == "Defender" then Tracker:FindObjectForCode("defender_checks").Active = true
+        elseif class == "Druid" then Tracker:FindObjectForCode("druid_checks").Active = true
+        elseif class == "Heavyblade" then Tracker:FindObjectForCode("heavyblade_checks").Active = true
+        elseif class == "Sniper" then Tracker:FindObjectForCode("sniper_checks").Active = true
+        elseif class == "Spellsword" then Tracker:FindObjectForCode("spellsword_checks").Active = true
+        elseif class == "Wizard" then Tracker:FindObjectForCode("wizard_checks").Active = true
+        end
+    end
+
+    local ExcludeRegion = slot_data['excluded_kingdoms']
+    for _, region in ipairs(ExcludeRegion) do
+        if region == "King\'s Arsenal" then Tracker:FindObjectForCode("KA_excluded").Active = true
+        elseif region == "Scholar\'s Nest" then Tracker:FindObjectForCode("SN_excluded").Active = true
+        elseif region == "Red Darkhouse" then Tracker:FindObjectForCode("RD_excluded").Active = true
+        elseif region == "Emerald Lakeside" then Tracker:FindObjectForCode("EL_excluded").Active = true
+        elseif region == "Churchmouse Streets" then Tracker:FindObjectForCode("CS_excluded").Active = true
+        elseif region == "The Pale Keep" then Tracker:FindObjectForCode("PK_excluded").Active = true
+        elseif region == "Moonlit Pinnacle" then Tracker:FindObjectForCode("MP_excluded").Active = true
+        end
+    end
+
+    Tracker:FindObjectForCode("op_SD").AcquiredCount = slot_data['shira_defeats']
 
     -- get hints
     if Archipelago.PlayerNumber > -1 then

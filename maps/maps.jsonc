@@ -7,67 +7,67 @@
     },
     {
         "name": "Outskirts",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/outskirts.png"
     },
     {
         "name": "Scholar",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/scholar.png"
     },
     {
         "name": "Arsenal",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/arsenal.png"
     },
     {
         "name": "Darkhouse",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/darkhouse.png"
     },
     {
         "name": "Churchmouse",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/churchmouse.png"
     },
     {
         "name": "Lakeside",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/lakeside.png"
     },
     {
         "name": "Pale",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/pale.png"
     },
     {
         "name": "Pinnacle",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/pinnacle.png"
     },
     {
         "name": "Characters",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/characters.png"
     },
     {
         "name": "Shop",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/shop.png"
     },
     {
         "name": "Treasuresphere",
-        "location_size": 24,
+        "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/treasuresphere.png"
     }

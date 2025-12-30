@@ -337,7 +337,7 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["progressive_area","treasuresphere"],
+            ["progressive_area","op_SD","treasuresphere"],
             ["scholar","arsenal","darkhouse"],
             ["churchmouse","lakeside","pale_keep"],
             ["moonlit"]
@@ -365,7 +365,7 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["op_KS","op_PR"],
+            ["op_KS","op_PR","op_GC"],
             ["op_US","op_SS","op_PS"],
             ["op_CS","op_IC","op_IS"]
         ]
