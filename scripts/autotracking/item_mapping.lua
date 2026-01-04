@@ -5,7 +5,7 @@ ITEM_MAPPING = {
     [3] = {"darkhouse", "toggle"},
     [4] = {"churchmouse", "toggle"},
     [5] = {"lakeside", "toggle"},
-    [6] = {"pale_keep", "toggle"},
+    [6] = {"palekeep", "toggle"},
     [7] = {"moonlit", "toggle"},
 
     -- Classes

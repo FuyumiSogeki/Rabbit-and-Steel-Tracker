@@ -2,37 +2,30 @@
     {
         "name": "Kingdom Outskirts",
         "color": "#FFFFFF",
-        "children" :
-        [
+        "children": [
             {
                 "name": "Kingdom Outskirts Battle 1",
-                "map_locations": 
-				[
+                "map_locations": [
                     {
                         "map": "Outskirts",
                         "x": 220,
                         "y": 378
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-				[
+                "sections": [
                     {
                         "name": "Any Class",
                         "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             ""
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -40,12 +33,10 @@
                     {
                         "name": "Wizard",
                         "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isWizard"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canWizard"
                         ],
                         "item_count": 1
@@ -53,12 +44,10 @@
                     {
                         "name": "Assassin",
                         "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAssassin"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAssassin"
                         ],
                         "item_count": 1
@@ -66,12 +55,10 @@
                     {
                         "name": "Heavyblade",
                         "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isHeavyblade"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canHeavyblade"
                         ],
                         "item_count": 1
@@ -79,12 +66,10 @@
                     {
                         "name": "Dancer",
                         "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDancer"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDancer"
                         ],
                         "item_count": 1
@@ -92,12 +77,10 @@
                     {
                         "name": "Druid",
                         "chest_unopened_img": "images/items/ClassIcon_Druid.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDruid"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDruid"
                         ],
                         "item_count": 1
@@ -105,12 +88,10 @@
                     {
                         "name": "Spellsword",
                         "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSpellsword"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSpellsword"
                         ],
                         "item_count": 1
@@ -118,12 +99,10 @@
                     {
                         "name": "Sniper",
                         "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSniper"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSniper"
                         ],
                         "item_count": 1
@@ -131,12 +110,10 @@
                     {
                         "name": "Bruiser",
                         "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isBruiser"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canBruiser"
                         ],
                         "item_count": 1
@@ -144,12 +121,10 @@
                     {
                         "name": "Defender",
                         "chest_unopened_img": "images/items/ClassIcon_Defender.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDefender"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDefender"
                         ],
                         "item_count": 1
@@ -157,12 +132,10 @@
                     {
                         "name": "Ancient",
                         "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAncient"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAncient"
                         ],
                         "item_count": 1
@@ -171,33 +144,27 @@
             },
             {
                 "name": "Kingdom Outskirts Chest 1",
-                "map_locations": 
-				[
+                "map_locations": [
                     {
                         "map": "Outskirts",
                         "x": 594,
                         "y": 378
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-				[
+                "sections": [
                     {
                         "name": "Any Class",
                         "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             ""
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -205,12 +172,10 @@
                     {
                         "name": "Top Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -218,12 +183,10 @@
                     {
                         "name": "Bottom Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -231,12 +194,10 @@
                     {
                         "name": "Middle",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -244,12 +205,10 @@
                     {
                         "name": "Top Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -257,12 +216,10 @@
                     {
                         "name": "Bottom Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -270,12 +227,10 @@
                     {
                         "name": "Wizard",
                         "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isWizard"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canWizard"
                         ],
                         "item_count": 1
@@ -283,12 +238,10 @@
                     {
                         "name": "Assassin",
                         "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAssassin"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAssassin"
                         ],
                         "item_count": 1
@@ -296,12 +249,10 @@
                     {
                         "name": "Heavyblade",
                         "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isHeavyblade"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canHeavyblade"
                         ],
                         "item_count": 1
@@ -309,12 +260,10 @@
                     {
                         "name": "Dancer",
                         "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDancer"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDancer"
                         ],
                         "item_count": 1
@@ -322,12 +271,10 @@
                     {
                         "name": "Druid",
                         "chest_unopened_img": "images/items/ClassIcon_Druid.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDruid"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDruid"
                         ],
                         "item_count": 1
@@ -335,12 +282,10 @@
                     {
                         "name": "Spellsword",
                         "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSpellsword"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSpellsword"
                         ],
                         "item_count": 1
@@ -348,12 +293,10 @@
                     {
                         "name": "Sniper",
                         "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSniper"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSniper"
                         ],
                         "item_count": 1
@@ -361,12 +304,10 @@
                     {
                         "name": "Bruiser",
                         "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isBruiser"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canBruiser"
                         ],
                         "item_count": 1
@@ -374,12 +315,10 @@
                     {
                         "name": "Defender",
                         "chest_unopened_img": "images/items/ClassIcon_Defender.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDefender"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDefender"
                         ],
                         "item_count": 1
@@ -387,12 +326,10 @@
                     {
                         "name": "Ancient",
                         "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAncient"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAncient"
                         ],
                         "item_count": 1
@@ -401,33 +338,27 @@
             },
             {
                 "name": "Kingdom Outskirts Battle 2",
-                "map_locations": 
-				[
+                "map_locations": [
                     {
                         "map": "Outskirts",
                         "x": 968,
                         "y": 378
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-				[
+                "sections": [
                     {
                         "name": "Any Class",
                         "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             ""
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -435,12 +366,10 @@
                     {
                         "name": "Wizard",
                         "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isWizard"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canWizard"
                         ],
                         "item_count": 1
@@ -448,12 +377,10 @@
                     {
                         "name": "Assassin",
                         "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAssassin"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAssassin"
                         ],
                         "item_count": 1
@@ -461,12 +388,10 @@
                     {
                         "name": "Heavyblade",
                         "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isHeavyblade"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canHeavyblade"
                         ],
                         "item_count": 1
@@ -474,12 +399,10 @@
                     {
                         "name": "Dancer",
                         "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDancer"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDancer"
                         ],
                         "item_count": 1
@@ -487,12 +410,10 @@
                     {
                         "name": "Druid",
                         "chest_unopened_img": "images/items/ClassIcon_Druid.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDruid"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDruid"
                         ],
                         "item_count": 1
@@ -500,12 +421,10 @@
                     {
                         "name": "Spellsword",
                         "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSpellsword"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSpellsword"
                         ],
                         "item_count": 1
@@ -513,12 +432,10 @@
                     {
                         "name": "Sniper",
                         "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSniper"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSniper"
                         ],
                         "item_count": 1
@@ -526,12 +443,10 @@
                     {
                         "name": "Bruiser",
                         "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isBruiser"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canBruiser"
                         ],
                         "item_count": 1
@@ -539,12 +454,10 @@
                     {
                         "name": "Defender",
                         "chest_unopened_img": "images/items/ClassIcon_Defender.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDefender"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDefender"
                         ],
                         "item_count": 1
@@ -552,12 +465,10 @@
                     {
                         "name": "Ancient",
                         "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAncient"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAncient"
                         ],
                         "item_count": 1
@@ -566,33 +477,27 @@
             },
             {
                 "name": "Kingdom Outskirts Chest 2",
-                "map_locations": 
-				[
+                "map_locations": [
                     {
                         "map": "Outskirts",
                         "x": 1422,
                         "y": 378
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-				[
+                "sections": [
                     {
                         "name": "Any Class",
                         "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             ""
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -600,12 +505,10 @@
                     {
                         "name": "Top Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -613,12 +516,10 @@
                     {
                         "name": "Bottom Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -626,12 +527,10 @@
                     {
                         "name": "Middle",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -639,12 +538,10 @@
                     {
                         "name": "Top Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -652,12 +549,10 @@
                     {
                         "name": "Bottom Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isCheckChest"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -665,12 +560,10 @@
                     {
                         "name": "Wizard",
                         "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isWizard"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canWizard"
                         ],
                         "item_count": 1
@@ -678,12 +571,10 @@
                     {
                         "name": "Assassin",
                         "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAssassin"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAssassin"
                         ],
                         "item_count": 1
@@ -691,12 +582,10 @@
                     {
                         "name": "Heavyblade",
                         "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isHeavyblade"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canHeavyblade"
                         ],
                         "item_count": 1
@@ -704,12 +593,10 @@
                     {
                         "name": "Dancer",
                         "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDancer"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDancer"
                         ],
                         "item_count": 1
@@ -717,12 +604,10 @@
                     {
                         "name": "Druid",
                         "chest_unopened_img": "images/items/ClassIcon_Druid.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDruid"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDruid"
                         ],
                         "item_count": 1
@@ -730,12 +615,10 @@
                     {
                         "name": "Spellsword",
                         "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSpellsword"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSpellsword"
                         ],
                         "item_count": 1
@@ -743,12 +626,10 @@
                     {
                         "name": "Sniper",
                         "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSniper"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSniper"
                         ],
                         "item_count": 1
@@ -756,12 +637,10 @@
                     {
                         "name": "Bruiser",
                         "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isBruiser"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canBruiser"
                         ],
                         "item_count": 1
@@ -769,12 +648,10 @@
                     {
                         "name": "Defender",
                         "chest_unopened_img": "images/items/ClassIcon_Defender.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDefender"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDefender"
                         ],
                         "item_count": 1
@@ -782,12 +659,10 @@
                     {
                         "name": "Ancient",
                         "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAncient"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAncient"
                         ],
                         "item_count": 1
@@ -796,33 +671,27 @@
             },
             {
                 "name": "Kingdom Outskirts Battle 3",
-                "map_locations": 
-				[
+                "map_locations": [
                     {
                         "map": "Outskirts",
                         "x": 1716,
                         "y": 378
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-				[
+                "sections": [
                     {
                         "name": "Any Class",
                         "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             ""
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             ""
                         ],
                         "item_count": 1
@@ -830,12 +699,10 @@
                     {
                         "name": "Wizard",
                         "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isWizard"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canWizard"
                         ],
                         "item_count": 1
@@ -843,12 +710,10 @@
                     {
                         "name": "Assassin",
                         "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAssassin"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAssassin"
                         ],
                         "item_count": 1
@@ -856,12 +721,10 @@
                     {
                         "name": "Heavyblade",
                         "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isHeavyblade"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canHeavyblade"
                         ],
                         "item_count": 1
@@ -869,12 +732,10 @@
                     {
                         "name": "Dancer",
                         "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDancer"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDancer"
                         ],
                         "item_count": 1
@@ -882,12 +743,10 @@
                     {
                         "name": "Druid",
                         "chest_unopened_img": "images/items/ClassIcon_Druid.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDruid"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDruid"
                         ],
                         "item_count": 1
@@ -895,12 +754,10 @@
                     {
                         "name": "Spellsword",
                         "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSpellsword"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSpellsword"
                         ],
                         "item_count": 1
@@ -908,12 +765,10 @@
                     {
                         "name": "Sniper",
                         "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isSniper"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canSniper"
                         ],
                         "item_count": 1
@@ -921,12 +776,10 @@
                     {
                         "name": "Bruiser",
                         "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isBruiser"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canBruiser"
                         ],
                         "item_count": 1
@@ -934,12 +787,10 @@
                     {
                         "name": "Defender",
                         "chest_unopened_img": "images/items/ClassIcon_Defender.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isDefender"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canDefender"
                         ],
                         "item_count": 1
@@ -947,12 +798,10 @@
                     {
                         "name": "Ancient",
                         "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isAncient"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canAncient"
                         ],
                         "item_count": 1

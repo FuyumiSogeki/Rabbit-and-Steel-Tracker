@@ -1,19 +1,16 @@
 [
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Treasuresphere",
                         "x": 360,
                         "y": 333
                     }
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "ref": "Kingdom Outskirts Chest 1/Top Left",
                         "name": "Kingdom Outskirts Chest 1 - Top Left"
@@ -56,19 +53,16 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Treasuresphere",
                         "x": 360,
                         "y": 734
                     }
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "ref": "Kingdom Outskirts Chest 1/Bottom Left",
                         "name": "Kingdom Outskirts Chest 1 - Bottom Left"
@@ -107,19 +101,16 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Treasuresphere",
                         "x": 959,
                         "y": 654
                     }
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "ref": "Kingdom Outskirts Chest 1/Middle",
                         "name": "Kingdom Outskirts Chest 1 - Middle"
@@ -158,19 +149,16 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Treasuresphere",
                         "x": 1559,
                         "y": 333
                     }
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "ref": "Kingdom Outskirts Chest 1/Top Right",
                         "name": "Kingdom Outskirts Chest 1 - Top Right"
@@ -209,19 +197,16 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Treasuresphere",
                         "x": 1559,
                         "y": 734
                     }
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "ref": "Kingdom Outskirts Chest 1/Bottom Right",
                         "name": "Kingdom Outskirts Chest 1 - Bottom Right"

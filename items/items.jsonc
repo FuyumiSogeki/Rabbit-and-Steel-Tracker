@@ -71,7 +71,7 @@
         "name": "The Pale Keep",
         "type": "toggle",
         "img": "images/items/Area_The_Pale_Keep.png",
-        "codes": "pale_keep"
+        "codes": "palekeep"
     },
     {
         "name": "Moonlit Pinnacle",
@@ -2113,6 +2113,7 @@
     },
     {
         "name": "King's Arsenal Order",
+        "type": "consumable",
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OKA",
@@ -2123,6 +2124,7 @@
     },
     {
         "name": "Scholar's Nest Order",
+        "type": "consumable",
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OSN",
@@ -2133,6 +2135,7 @@
     },
     {
         "name": "Red Darkhouse Order",
+        "type": "consumable",
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_ORD",
@@ -2143,6 +2146,7 @@
     },
     {
         "name": "Emerald Lakeside Order",
+        "type": "consumable",
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OEL",
@@ -2153,6 +2157,7 @@
     },
     {
         "name": "Churchmouse Streets Order",
+        "type": "consumable",
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OCS",
@@ -2163,6 +2168,7 @@
     },
     {
         "name": "Pale Keep Order",
+        "type": "consumable",
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OPK",
@@ -2173,6 +2179,7 @@
     },
     {
         "name": "Moonlit Pinnacle Order",
+        "type": "consumable",
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OMP",

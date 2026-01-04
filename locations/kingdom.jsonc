@@ -1,20 +1,16 @@
-
 [
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Kingdom",
                         "x": 473,
                         "y": 607
                     }
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "ref": "Kingdom Outskirts Battle 1/Any Class",
                         "name": "Kingdom Outskirts Battle 1 - Any Class"
@@ -275,89 +271,49 @@
             }
         ]
     },
-
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Kingdom",
                         "x": 711,
                         "y": 580
                     }
                 ],
-                "sections":
-                [
-                    {
-                        "ref": "Full Heal Potion Slot/Any Shop",
-                        "name": "Full Heal Potion Slot"
-                    },
+                "sections": [
                     {
                         "ref": "Full Heal Potion Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Full Heal Potion Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Any Shop",
-                        "name": "Level Up Slot"
                     },
                     {
                         "ref": "Level Up Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Level Up Slot"
                     },
                     {
-                        "ref": "Potion 1 Slot/Any Shop",
-                        "name": "Potion 1 Slot"
-                    },
-                    {
                         "ref": "Potion 1 Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Potion 1 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Any Shop",
-                        "name": "Potion 2 Slot"
                     },
                     {
                         "ref": "Potion 2 Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Potion 2 Slot"
                     },
                     {
-                        "ref": "Potion 3 Slot/Any Shop",
-                        "name": "Potion 3 Slot"
-                    },
-                    {
                         "ref": "Potion 3 Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Potion 3 Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Any Shop",
-                        "name": "Primary Upgrade Slot"
                     },
                     {
                         "ref": "Primary Upgrade Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Primary Upgrade Slot"
                     },
                     {
-                        "ref": "Secondary Upgrade Slot/Any Shop",
-                        "name": "Secondary Upgrade Slot"
-                    },
-                    {
                         "ref": "Secondary Upgrade Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Secondary Upgrade Slot"
                     },
                     {
-                        "ref": "Special Upgrade Slot/Any Shop",
-                        "name": "Special Upgrade Slot"
-                    },
-                    {
                         "ref": "Special Upgrade Slot/Scholar's Nest Shop",
                         "name": "Scholar's Nest Shop - Special Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Any Shop",
-                        "name": "Defensive Upgrade Slot"
                     },
                     {
                         "ref": "Defensive Upgrade Slot/Scholar's Nest Shop",
@@ -609,86 +565,47 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Kingdom",
                         "x": 1456,
                         "y": 241
                     }
                 ],
-                "sections":
-                [
-                    {
-                        "ref": "Full Heal Potion Slot/Any Shop",
-                        "name": "Full Heal Potion Slot"
-                    },
+                "sections": [
                     {
                         "ref": "Full Heal Potion Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Full Heal Potion Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Any Shop",
-                        "name": "Level Up Slot"
                     },
                     {
                         "ref": "Level Up Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Level Up Slot"
                     },
                     {
-                        "ref": "Potion 1 Slot/Any Shop",
-                        "name": "Potion 1 Slot"
-                    },
-                    {
                         "ref": "Potion 1 Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Potion 1 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Any Shop",
-                        "name": "Potion 2 Slot"
                     },
                     {
                         "ref": "Potion 2 Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Potion 2 Slot"
                     },
                     {
-                        "ref": "Potion 3 Slot/Any Shop",
-                        "name": "Potion 3 Slot"
-                    },
-                    {
                         "ref": "Potion 3 Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Potion 3 Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Any Shop",
-                        "name": "Primary Upgrade Slot"
                     },
                     {
                         "ref": "Primary Upgrade Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Primary Upgrade Slot"
                     },
                     {
-                        "ref": "Secondary Upgrade Slot/Any Shop",
-                        "name": "Secondary Upgrade Slot"
-                    },
-                    {
                         "ref": "Secondary Upgrade Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Secondary Upgrade Slot"
                     },
                     {
-                        "ref": "Special Upgrade Slot/Any Shop",
-                        "name": "Special Upgrade Slot"
-                    },
-                    {
                         "ref": "Special Upgrade Slot/King's Arsenal Shop",
                         "name": "King's Arsenal Shop - Special Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Any Shop",
-                        "name": "Defensive Upgrade Slot"
                     },
                     {
                         "ref": "Defensive Upgrade Slot/King's Arsenal Shop",
@@ -940,86 +857,47 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Kingdom",
                         "x": 442,
                         "y": 424
                     }
                 ],
-                "sections":
-                [
-                    {
-                        "ref": "Full Heal Potion Slot/Any Shop",
-                        "name": "Full Heal Potion Slot"
-                    },
+                "sections": [
                     {
                         "ref": "Full Heal Potion Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Full Heal Potion Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Any Shop",
-                        "name": "Level Up Slot"
                     },
                     {
                         "ref": "Level Up Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Level Up Slot"
                     },
                     {
-                        "ref": "Potion 1 Slot/Any Shop",
-                        "name": "Potion 1 Slot"
-                    },
-                    {
                         "ref": "Potion 1 Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Potion 1 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Any Shop",
-                        "name": "Potion 2 Slot"
                     },
                     {
                         "ref": "Potion 2 Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Potion 2 Slot"
                     },
                     {
-                        "ref": "Potion 3 Slot/Any Shop",
-                        "name": "Potion 3 Slot"
-                    },
-                    {
                         "ref": "Potion 3 Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Potion 3 Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Any Shop",
-                        "name": "Primary Upgrade Slot"
                     },
                     {
                         "ref": "Primary Upgrade Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Primary Upgrade Slot"
                     },
                     {
-                        "ref": "Secondary Upgrade Slot/Any Shop",
-                        "name": "Secondary Upgrade Slot"
-                    },
-                    {
                         "ref": "Secondary Upgrade Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Secondary Upgrade Slot"
                     },
                     {
-                        "ref": "Special Upgrade Slot/Any Shop",
-                        "name": "Special Upgrade Slot"
-                    },
-                    {
                         "ref": "Special Upgrade Slot/Red Darkhouse Shop",
                         "name": "Red Darkhouse Shop - Special Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Any Shop",
-                        "name": "Defensive Upgrade Slot"
                     },
                     {
                         "ref": "Defensive Upgrade Slot/Red Darkhouse Shop",
@@ -1271,86 +1149,47 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Kingdom",
                         "x": 1079,
                         "y": 460
                     }
                 ],
-                "sections":
-                [
-                    {
-                        "ref": "Full Heal Potion Slot/Any Shop",
-                        "name": "Full Heal Potion Slot"
-                    },
+                "sections": [
                     {
                         "ref": "Full Heal Potion Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Full Heal Potion Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Any Shop",
-                        "name": "Level Up Slot"
                     },
                     {
                         "ref": "Level Up Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Level Up Slot"
                     },
                     {
-                        "ref": "Potion 1 Slot/Any Shop",
-                        "name": "Potion 1 Slot"
-                    },
-                    {
                         "ref": "Potion 1 Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Potion 1 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Any Shop",
-                        "name": "Potion 2 Slot"
                     },
                     {
                         "ref": "Potion 2 Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Potion 2 Slot"
                     },
                     {
-                        "ref": "Potion 3 Slot/Any Shop",
-                        "name": "Potion 3 Slot"
-                    },
-                    {
                         "ref": "Potion 3 Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Potion 3 Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Any Shop",
-                        "name": "Primary Upgrade Slot"
                     },
                     {
                         "ref": "Primary Upgrade Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Primary Upgrade Slot"
                     },
                     {
-                        "ref": "Secondary Upgrade Slot/Any Shop",
-                        "name": "Secondary Upgrade Slot"
-                    },
-                    {
                         "ref": "Secondary Upgrade Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Secondary Upgrade Slot"
                     },
                     {
-                        "ref": "Special Upgrade Slot/Any Shop",
-                        "name": "Special Upgrade Slot"
-                    },
-                    {
                         "ref": "Special Upgrade Slot/Churchmouse Streets Shop",
                         "name": "Churchmouse Streets Shop - Special Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Any Shop",
-                        "name": "Defensive Upgrade Slot"
                     },
                     {
                         "ref": "Defensive Upgrade Slot/Churchmouse Streets Shop",
@@ -1602,86 +1441,47 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Kingdom",
                         "x": 1380,
                         "y": 580
                     }
                 ],
-                "sections":
-                [
-                    {
-                        "ref": "Full Heal Potion Slot/Any Shop",
-                        "name": "Full Heal Potion Slot"
-                    },
+                "sections": [
                     {
                         "ref": "Full Heal Potion Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Full Heal Potion Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Any Shop",
-                        "name": "Level Up Slot"
                     },
                     {
                         "ref": "Level Up Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Level Up Slot"
                     },
                     {
-                        "ref": "Potion 1 Slot/Any Shop",
-                        "name": "Potion 1 Slot"
-                    },
-                    {
                         "ref": "Potion 1 Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Potion 1 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Any Shop",
-                        "name": "Potion 2 Slot"
                     },
                     {
                         "ref": "Potion 2 Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Potion 2 Slot"
                     },
                     {
-                        "ref": "Potion 3 Slot/Any Shop",
-                        "name": "Potion 3 Slot"
-                    },
-                    {
                         "ref": "Potion 3 Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Potion 3 Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Any Shop",
-                        "name": "Primary Upgrade Slot"
                     },
                     {
                         "ref": "Primary Upgrade Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Primary Upgrade Slot"
                     },
                     {
-                        "ref": "Secondary Upgrade Slot/Any Shop",
-                        "name": "Secondary Upgrade Slot"
-                    },
-                    {
                         "ref": "Secondary Upgrade Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Secondary Upgrade Slot"
                     },
                     {
-                        "ref": "Special Upgrade Slot/Any Shop",
-                        "name": "Special Upgrade Slot"
-                    },
-                    {
                         "ref": "Special Upgrade Slot/Emerald Lakeside Shop",
                         "name": "Emerald Lakeside Shop - Special Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Any Shop",
-                        "name": "Defensive Upgrade Slot"
                     },
                     {
                         "ref": "Defensive Upgrade Slot/Emerald Lakeside Shop",
@@ -1933,86 +1733,47 @@
     },
     {
         "item_count": 1,
-        "children":
-        [
+        "children": [
             {
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Kingdom",
                         "x": 960,
                         "y": 228
                     }
                 ],
-                "sections":
-                [
-                    {
-                        "ref": "Full Heal Potion Slot/Any Shop",
-                        "name": "Full Heal Potion Slot"
-                    },
+                "sections": [
                     {
                         "ref": "Full Heal Potion Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Full Heal Potion Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Any Shop",
-                        "name": "Level Up Slot"
                     },
                     {
                         "ref": "Level Up Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Level Up Slot"
                     },
                     {
-                        "ref": "Potion 1 Slot/Any Shop",
-                        "name": "Potion 1 Slot"
-                    },
-                    {
                         "ref": "Potion 1 Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Potion 1 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Any Shop",
-                        "name": "Potion 2 Slot"
                     },
                     {
                         "ref": "Potion 2 Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Potion 2 Slot"
                     },
                     {
-                        "ref": "Potion 3 Slot/Any Shop",
-                        "name": "Potion 3 Slot"
-                    },
-                    {
                         "ref": "Potion 3 Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Potion 3 Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Any Shop",
-                        "name": "Primary Upgrade Slot"
                     },
                     {
                         "ref": "Primary Upgrade Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Primary Upgrade Slot"
                     },
                     {
-                        "ref": "Secondary Upgrade Slot/Any Shop",
-                        "name": "Secondary Upgrade Slot"
-                    },
-                    {
                         "ref": "Secondary Upgrade Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Secondary Upgrade Slot"
                     },
                     {
-                        "ref": "Special Upgrade Slot/Any Shop",
-                        "name": "Special Upgrade Slot"
-                    },
-                    {
                         "ref": "Special Upgrade Slot/The Pale Keep Shop",
                         "name": "The Pale Keep Shop - Special Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Any Shop",
-                        "name": "Defensive Upgrade Slot"
                     },
                     {
                         "ref": "Defensive Upgrade Slot/The Pale Keep Shop",
@@ -2258,6 +2019,58 @@
                         "ref": "Shira/Ancient",
                         "name": "Shira - Ancient"
                     }
+                ]
+            }
+        ]
+    },
+    {
+        "item_count": 1,
+        "children": [
+            {
+                "map_locations": [
+                    {
+                        "map": "Kingdom",
+                        "x": 1624,
+                        "y": 638
+                    }
+                ],
+                "sections": [
+                    {
+                        "ref": "Full Heal Potion Slot/Any Shop",
+                        "name": "Full Heal Potion Slot"
+                    },
+                    {
+                        "ref": "Level Up Slot/Any Shop",
+                        "name": "Level Up Slot"
+                    },
+                    {
+                        "ref": "Potion 1 Slot/Any Shop",
+                        "name": "Potion 1 Slot"
+                    },
+                    {
+                        "ref": "Potion 2 Slot/Any Shop",
+                        "name": "Potion 2 Slot"
+                    },
+                    {
+                        "ref": "Potion 3 Slot/Any Shop",
+                        "name": "Potion 3 Slot"
+                    },
+                    {
+                        "ref": "Primary Upgrade Slot/Any Shop",
+                        "name": "Primary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Secondary Upgrade Slot/Any Shop",
+                        "name": "Secondary Upgrade Slot"
+                    },
+                    {
+                        "ref": "Special Upgrade Slot/Any Shop",
+                        "name": "Special Upgrade Slot"
+                    },
+                    {
+                        "ref": "Defensive Upgrade Slot/Any Shop",
+                        "name": "Defensive Upgrade Slot"
+                    },
                 ]
             }
         ]

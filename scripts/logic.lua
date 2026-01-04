@@ -43,6 +43,48 @@ function canReachAny()
     return count >= 1
 end
 
+function canReachPaleKeepOrder()
+    local order = Tracker:ProviderCountForCode("op_OPK")
+    local count = 1
+
+    if Tracker:ProviderCountForCode("op_OKA") == 1 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 1 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 1 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 1 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 1 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 2 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 2 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 2 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 2 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 2 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 3 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 3 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 3 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 3 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 3 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 4 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 4 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 4 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 4 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 4 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 5 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 5 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 5 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 5 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 5 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    return count >= order
+end
+
 function canReachPaleKeep()
     local order = Tracker:ProviderCountForCode("op_OPK")
     local count = 1
@@ -56,6 +98,48 @@ function canReachPaleKeep()
     return count >= order
 end
 
+function canReachPinnacleOrder()
+    local order = Tracker:ProviderCountForCode("op_OMP")
+    local count = 2
+
+    if Tracker:ProviderCountForCode("op_OKA") == 1 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 1 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 1 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 1 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 1 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 2 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 2 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 2 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 2 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 2 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 3 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 3 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 3 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 3 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 3 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 4 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 4 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 4 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 4 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 4 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    if Tracker:ProviderCountForCode("op_OKA") == 5 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OSN") == 5 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_ORD") == 5 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OEL") == 5 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
+    elseif Tracker:ProviderCountForCode("op_OCS") == 5 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
+    end
+
+    return count >= order and has("palekeep")
+end
+
 function canReachPinnacle()
     local order = Tracker:ProviderCountForCode("op_OMP")
     local count = 2
@@ -66,7 +150,7 @@ function canReachPinnacle()
     if has("lakeside") then count = count + 1 end
     if has("churchmouse") then count = count + 1 end
 
-    return count >= order and has("pale")
+    return count >= order and has("palekeep")
 end
 
 -- Hint Settings
@@ -270,7 +354,7 @@ function canEmeraldLakeside()
 end
 
 function canPaleKeep()
-    if RegionSanityProgOrder() then return has("palekeep") and hasEnoughProgRegion("op_OPK")
+    if RegionSanityProgOrder() then return has("palekeep") and canReachPaleKeepOrder() and hasEnoughProgRegion("op_OPK")
     elseif RegionSanityProg() then  return has("palekeep") and hasEnoughProgRegion("op_OPK")
     elseif RegionSanityOrder() then return has("palekeep") and canReachPaleKeep()
     elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep()
@@ -283,7 +367,7 @@ function canPaleKeep()
 end
 
 function canMoonlitPinnacle()
-    if RegionSanityProgOrder() then return has("moonlit") and hasEnoughProgRegion("op_OMP")
+    if RegionSanityProgOrder() then return has("moonlit") and canReachPinnacleOrder() and hasEnoughProgRegion("op_OMP")
     elseif RegionSanityProg() then  return has("moonlit") and hasEnoughProgRegion("op_OMP")
     elseif RegionSanityOrder() then return has("moonlit") and canReachPinnacle()
     elseif RegionSanity() then      return has("moonlit") and canReachPinnacle()

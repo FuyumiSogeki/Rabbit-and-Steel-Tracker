@@ -158,6 +158,7 @@ function onClear(slot_data)
     Tracker:FindObjectForCode("op_ORD").AcquiredCount = slot_data['kingdom_order']['Red Darkhouse']
     Tracker:FindObjectForCode("op_OEL").AcquiredCount = slot_data['kingdom_order']['Emerald Lakeside']
     Tracker:FindObjectForCode("op_OCS").AcquiredCount = slot_data['kingdom_order']['Churchmouse Streets']
+    
     Tracker:FindObjectForCode("op_OPK").AcquiredCount = slot_data['max_kingdoms_per_run'] + 1
     Tracker:FindObjectForCode("op_OMP").AcquiredCount = slot_data['max_kingdoms_per_run'] + 2
 
@@ -217,6 +218,7 @@ function onLocation(location_id, location_name)
 
     if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onLocation: could not find location mapping for id %s", location_id))
+        return
     end
 
     if not v[1] then

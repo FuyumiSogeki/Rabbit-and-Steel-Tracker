@@ -1,117 +1,91 @@
-
 [
     {
         "name": "Shop",
         "color": "#FFFFFF",
-        "children" :
-        [
+        "children": [
             {
                 "name": "Full Heal Potion Slot",
                 "chest_unopened_img": "images/items/Full_heal_square.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 659,
                         "y": 219
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -121,110 +95,86 @@
             {
                 "name": "Level Up Slot",
                 "chest_unopened_img": "images/items/Level_up_orb.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 897,
                         "y": 219
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -234,110 +184,86 @@
             {
                 "name": "Potion 1 Slot",
                 "chest_unopened_img": "images/items/Golden_Potion.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 1178,
                         "y": 219
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -347,110 +273,86 @@
             {
                 "name": "Potion 2 Slot",
                 "chest_unopened_img": "images/items/Regen_Potion.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 1479,
                         "y": 219
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -460,110 +362,86 @@
             {
                 "name": "Potion 3 Slot",
                 "chest_unopened_img": "images/items/Darkness_Potion.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 1779,
                         "y": 219
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -573,110 +451,86 @@
             {
                 "name": "Primary Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_blue_0.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 737,
                         "y": 436
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -686,110 +540,86 @@
             {
                 "name": "Secondary Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_green_1.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 1048,
                         "y": 439
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -799,110 +629,86 @@
             {
                 "name": "Special Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_red_2.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 1358,
                         "y": 439
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
@@ -912,110 +718,86 @@
             {
                 "name": "Defensive Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_yellow_3.png",
-                "map_locations": 
-                [
+                "map_locations": [
                     {
                         "map": "Shop",
                         "x": 1668,
                         "y": 439
                     }
                 ],
-                "visibility_rules": 
-                [
+                "visibility_rules": [
                     ""
                 ],
-                "access_rules": 
-                [
+                "access_rules": [
                     ""
                 ],
-                "sections":
-                [
+                "sections": [
                     {
                         "name": "Any Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopGlobal"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopAny"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Scholar's Nest Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopScholarNest"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "King's Arsenal Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopKingArsenal"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Red Darkhouse Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopRedDarkhouse"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Churchmouse Streets Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopChurchmouseStreets"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "Emerald Lakeside Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopEmeraldLakeside"
                         ],
                         "item_count": 1
                     },
                     {
-                        
                         "name": "The Pale Keep Shop",
-                        "visibility_rules": 
-                        [
+                        "visibility_rules": [
                             "$isShopRegion"
                         ],
-                        "access_rules": 
-                        [
+                        "access_rules": [
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
