@@ -6,6 +6,7 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/hint_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/tab_mapping.lua")
 
 CUR_INDEX = -1
 SLOT_DATA = nil
@@ -389,9 +390,12 @@ function onItem(index, item_id, item_name, player_number)
 
         if v[1]:match("_set$") then
             local lootSet = v[1]:gsub("%_set", "")
+            
             for i = 1, 8 do
                 Tracker:FindObjectForCode(string.format("%s%s", lootSet, i)).Active = true
             end
+
+            Tracker:UiHint("ActivateTab", LOOT_MAPPING[v[1]])
         elseif v[1]:match("_upgrade$") then
             local upgradeSet = v[1]:gsub("%_upgrade", "")
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_primary")).Active = true
