@@ -1,7 +1,7 @@
 {
   "name": "Rabbit & Steel Tracker",
   "game_name": "Rabbit & Steel",
-  "package_version": "0.0.1.1",
+  "package_version": "0.0.2.0",
   "package_uid": "RabbitSteelAP",
   "author": "Sogeki",
   "min_poptracker_version": "0.25.9",
