@@ -1,4 +1,4 @@
-LOOT_MAPPING =
+LOOT_SET_TAB_MAPPING =
 {
     ["arcane_set"] = "1",
     ["night_set"] = "1",
