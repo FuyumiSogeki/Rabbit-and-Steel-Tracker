@@ -62,6 +62,8 @@ function canReachRegionOrder(regionChecked, reg, prog)
             elseif Tracker:ProviderCountForCode("op_ORD") == 1 and ((reg and has("darkhouse")) or not reg) and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
             elseif Tracker:ProviderCountForCode("op_OEL") == 1 and ((reg and has("lakeside")) or not reg) and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
             elseif Tracker:ProviderCountForCode("op_OCS") == 1 and ((reg and has("churchmouse") or not reg)) and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+            elseif Tracker:ProviderCountForCode("op_OPK") == 1 and ((reg and has("palekeep") or not reg)) and ((prog and hasEnoughProgRegion("op_OPK")) or not prog) then regionReachCount = regionReachCount + 1
+            elseif Tracker:ProviderCountForCode("op_OMP") == 1 and ((reg and has("moonlit") or not reg)) and ((prog and hasEnoughProgRegion("op_OMP")) or not prog) then regionReachCount = regionReachCount + 1
             end
 
             if regionCheckedOrder > 2 then
@@ -70,6 +72,8 @@ function canReachRegionOrder(regionChecked, reg, prog)
                 elseif Tracker:ProviderCountForCode("op_ORD") == 2 and ((reg and has("darkhouse")) or not reg) and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
                 elseif Tracker:ProviderCountForCode("op_OEL") == 2 and ((reg and has("lakeside")) or not reg) and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
                 elseif Tracker:ProviderCountForCode("op_OCS") == 2 and ((reg and has("churchmouse") or not reg)) and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                elseif Tracker:ProviderCountForCode("op_OPK") == 2 and ((reg and has("palekeep") or not reg)) and ((prog and hasEnoughProgRegion("op_OPK")) or not prog) then regionReachCount = regionReachCount + 1
+                elseif Tracker:ProviderCountForCode("op_OMP") == 2 and ((reg and has("moonlit") or not reg)) and ((prog and hasEnoughProgRegion("op_OMP")) or not prog) then regionReachCount = regionReachCount + 1
                 end
 
                 if regionCheckedOrder > 3 then
@@ -78,6 +82,8 @@ function canReachRegionOrder(regionChecked, reg, prog)
                     elseif Tracker:ProviderCountForCode("op_ORD") == 3 and ((reg and has("darkhouse")) or not reg) and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
                     elseif Tracker:ProviderCountForCode("op_OEL") == 3 and ((reg and has("lakeside")) or not reg) and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
                     elseif Tracker:ProviderCountForCode("op_OCS") == 3 and ((reg and has("churchmouse") or not reg)) and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                    elseif Tracker:ProviderCountForCode("op_OPK") == 3 and ((reg and has("palekeep") or not reg)) and ((prog and hasEnoughProgRegion("op_OPK")) or not prog) then regionReachCount = regionReachCount + 1
+                    elseif Tracker:ProviderCountForCode("op_OMP") == 3 and ((reg and has("moonlit") or not reg)) and ((prog and hasEnoughProgRegion("op_OMP")) or not prog) then regionReachCount = regionReachCount + 1
                     end
 
                     if regionCheckedOrder > 4 then
@@ -86,6 +92,8 @@ function canReachRegionOrder(regionChecked, reg, prog)
                         elseif Tracker:ProviderCountForCode("op_ORD") == 4 and ((reg and has("darkhouse")) or not reg) and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
                         elseif Tracker:ProviderCountForCode("op_OEL") == 4 and ((reg and has("lakeside")) or not reg) and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
                         elseif Tracker:ProviderCountForCode("op_OCS") == 4 and ((reg and has("churchmouse") or not reg)) and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                        elseif Tracker:ProviderCountForCode("op_OPK") == 4 and ((reg and has("palekeep") or not reg)) and ((prog and hasEnoughProgRegion("op_OPK")) or not prog) then regionReachCount = regionReachCount + 1
+                        elseif Tracker:ProviderCountForCode("op_OMP") == 4 and ((reg and has("moonlit") or not reg)) and ((prog and hasEnoughProgRegion("op_OMP")) or not prog) then regionReachCount = regionReachCount + 1
                         end
 
                         if regionCheckedOrder > 5 then
@@ -94,6 +102,30 @@ function canReachRegionOrder(regionChecked, reg, prog)
                             elseif Tracker:ProviderCountForCode("op_ORD") == 5 and ((reg and has("darkhouse")) or not reg) and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
                             elseif Tracker:ProviderCountForCode("op_OEL") == 5 and ((reg and has("lakeside")) or not reg) and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
                             elseif Tracker:ProviderCountForCode("op_OCS") == 5 and ((reg and has("churchmouse") or not reg)) and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                            elseif Tracker:ProviderCountForCode("op_OPK") == 5 and ((reg and has("palekeep") or not reg)) and ((prog and hasEnoughProgRegion("op_OPK")) or not prog) then regionReachCount = regionReachCount + 1
+                            elseif Tracker:ProviderCountForCode("op_OMP") == 5 and ((reg and has("moonlit") or not reg)) and ((prog and hasEnoughProgRegion("op_OMP")) or not prog) then regionReachCount = regionReachCount + 1
+                            end
+
+                            if regionCheckedOrder > 6 then
+                                    if Tracker:ProviderCountForCode("op_OKA") == 6 and ((reg and has("arsenal")) or not reg) and ((prog and hasEnoughProgRegion("op_OKA")) or not prog) then regionReachCount = regionReachCount + 1
+                                elseif Tracker:ProviderCountForCode("op_OSN") == 6 and ((reg and has("scholar")) or not reg) and ((prog and hasEnoughProgRegion("op_OSN")) or not prog) then regionReachCount = regionReachCount + 1
+                                elseif Tracker:ProviderCountForCode("op_ORD") == 6 and ((reg and has("darkhouse")) or not reg) and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
+                                elseif Tracker:ProviderCountForCode("op_OEL") == 6 and ((reg and has("lakeside")) or not reg) and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
+                                elseif Tracker:ProviderCountForCode("op_OCS") == 6 and ((reg and has("churchmouse") or not reg)) and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                                elseif Tracker:ProviderCountForCode("op_OPK") == 6 and ((reg and has("palekeep") or not reg)) and ((prog and hasEnoughProgRegion("op_OPK")) or not prog) then regionReachCount = regionReachCount + 1
+                                elseif Tracker:ProviderCountForCode("op_OMP") == 6 and ((reg and has("moonlit") or not reg)) and ((prog and hasEnoughProgRegion("op_OMP")) or not prog) then regionReachCount = regionReachCount + 1
+                                end
+
+                                if regionCheckedOrder > 7 then
+                                        if Tracker:ProviderCountForCode("op_OKA") == 7 and ((reg and has("arsenal")) or not reg) and ((prog and hasEnoughProgRegion("op_OKA")) or not prog) then regionReachCount = regionReachCount + 1
+                                    elseif Tracker:ProviderCountForCode("op_OSN") == 7 and ((reg and has("scholar")) or not reg) and ((prog and hasEnoughProgRegion("op_OSN")) or not prog) then regionReachCount = regionReachCount + 1
+                                    elseif Tracker:ProviderCountForCode("op_ORD") == 7 and ((reg and has("darkhouse")) or not reg) and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
+                                    elseif Tracker:ProviderCountForCode("op_OEL") == 7 and ((reg and has("lakeside")) or not reg) and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
+                                    elseif Tracker:ProviderCountForCode("op_OCS") == 7 and ((reg and has("churchmouse") or not reg)) and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                                    elseif Tracker:ProviderCountForCode("op_OPK") == 7 and ((reg and has("palekeep") or not reg)) and ((prog and hasEnoughProgRegion("op_OPK")) or not prog) then regionReachCount = regionReachCount + 1
+                                    elseif Tracker:ProviderCountForCode("op_OMP") == 7 and ((reg and has("moonlit") or not reg)) and ((prog and hasEnoughProgRegion("op_OMP")) or not prog) then regionReachCount = regionReachCount + 1
+                                    end
+                                end
                             end
                         end
                     end
@@ -354,9 +386,7 @@ end
 -- Region Logic
 function canKingArsenal()
     if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true)
-    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area", 1)
     elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false)
-    elseif RegionSanity() then      return has("arsenal")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -367,9 +397,7 @@ end
 
 function canScholarNest()
     if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true)
-    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area", 1)
     elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false)
-    elseif RegionSanity() then      return has("scholar")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -380,9 +408,7 @@ end
 
 function canRedDarkhouse()
     if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true)
-    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area", 1)
     elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false)
-    elseif RegionSanity() then      return has("darkhouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -393,9 +419,7 @@ end
 
 function canChurchmouseStreets()
     if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true)
-    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area", 1)
     elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false)
-    elseif RegionSanity() then      return has("churchmouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -406,9 +430,7 @@ end
 
 function canEmeraldLakeside()
     if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true)
-    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area", 1)
     elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false)
-    elseif RegionSanity() then      return has("lakeside")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -418,11 +440,9 @@ function canEmeraldLakeside()
 end
 
 function canPaleKeep()
-    if RegionSanityProgOrder() then return has("palekeep") and canReachPaleKeepOrder() and hasEnoughProgRegion("op_OPK")
-    elseif RegionSanityProg() then  return has("palekeep") and hasEnoughProgRegion("op_OPK")
-    elseif RegionSanityOrder() then return has("palekeep") and canReachPaleKeep()
-    elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep()
-    elseif RegionProgOrder() then   return hasEnoughProgRegion("op_OPK")
+    if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true)
+    elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false)
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OPK")
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
@@ -431,11 +451,9 @@ function canPaleKeep()
 end
 
 function canMoonlitPinnacle()
-    if RegionSanityProgOrder() then return has("moonlit") and canReachPinnacleOrder() and hasEnoughProgRegion("op_OMP")
-    elseif RegionSanityProg() then  return has("moonlit") and hasEnoughProgRegion("op_OMP")
-    elseif RegionSanityOrder() then return has("moonlit") and canReachPinnacle()
-    elseif RegionSanity() then      return has("moonlit") and canReachPinnacle()
-    elseif RegionProgOrder() then   return hasEnoughProgRegion("op_OMP")
+    if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true)
+    elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false)
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OMP")
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
