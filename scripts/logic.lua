@@ -355,16 +355,8 @@ function RegionSanityProgOrder()
     return isKingdomSanity() and isProgressiveRegion() and isKingdomOrder()
 end
 
-function RegionSanityProg()
-    return isKingdomSanity() and isProgressiveRegion() and not isKingdomOrder()
-end
-
 function RegionSanityOrder()
     return isKingdomSanity() and not isProgressiveRegion() and isKingdomOrder()
-end
-
-function RegionSanity()
-    return isKingdomSanity() and not isProgressiveRegion() and not isKingdomOrder()
 end
 
 function RegionProgOrder()
