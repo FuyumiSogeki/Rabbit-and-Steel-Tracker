@@ -44,49 +44,67 @@ function canReachAny()
 end
 
 function canReachRegionOrder(regionChecked, prog)
-    local order = Tracker:ProviderCountForCode(regionChecked)
-    local count = 0
+    local regionCheckedOrder = Tracker:ProviderCountForCode(regionChecked)
+    local regionReachCount = 0
 
-    if prog and Tracker:ProviderCountForCode("progressive_area") < count then
-        return false
+    print(string.format("region order: %s - reach count: %s", regionCheckedOrder, regionReachCount))
+
+    if regionCheckedOrder > 0 then
+        if prog and Tracker:ProviderCountForCode("progressive_area") < regionCheckedOrder then
+            return false
+        end
+
+        regionReachCount = regionReachCount + 1
+
+        if regionCheckedOrder > 1 then
+                if Tracker:ProviderCountForCode("op_OKA") == 1 and has("arsenal") and ((prog and hasEnoughProgRegion("op_OKA")) or not prog) then regionReachCount = regionReachCount + 1
+            elseif Tracker:ProviderCountForCode("op_OSN") == 1 and has("scholar") and ((prog and hasEnoughProgRegion("op_OSN")) or not prog) then regionReachCount = regionReachCount + 1
+            elseif Tracker:ProviderCountForCode("op_ORD") == 1 and has("darkhouse") and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
+            elseif Tracker:ProviderCountForCode("op_OEL") == 1 and has("lakeside") and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
+            elseif Tracker:ProviderCountForCode("op_OCS") == 1 and has("churchmouse") and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+            end
+
+            if regionCheckedOrder > 2 then
+                    if Tracker:ProviderCountForCode("op_OKA") == 2 and has("arsenal") and ((prog and hasEnoughProgRegion("op_OKA")) or not prog) then regionReachCount = regionReachCount + 1
+                elseif Tracker:ProviderCountForCode("op_OSN") == 2 and has("scholar") and ((prog and hasEnoughProgRegion("op_OSN")) or not prog) then regionReachCount = regionReachCount + 1
+                elseif Tracker:ProviderCountForCode("op_ORD") == 2 and has("darkhouse") and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
+                elseif Tracker:ProviderCountForCode("op_OEL") == 2 and has("lakeside") and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
+                elseif Tracker:ProviderCountForCode("op_OCS") == 2 and has("churchmouse") and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                end
+
+                if regionCheckedOrder > 3 then
+                        if Tracker:ProviderCountForCode("op_OKA") == 3 and has("arsenal") and ((prog and hasEnoughProgRegion("op_OKA")) or not prog) then regionReachCount = regionReachCount + 1
+                    elseif Tracker:ProviderCountForCode("op_OSN") == 3 and has("scholar") and ((prog and hasEnoughProgRegion("op_OSN")) or not prog) then regionReachCount = regionReachCount + 1
+                    elseif Tracker:ProviderCountForCode("op_ORD") == 3 and has("darkhouse") and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
+                    elseif Tracker:ProviderCountForCode("op_OEL") == 3 and has("lakeside") and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
+                    elseif Tracker:ProviderCountForCode("op_OCS") == 3 and has("churchmouse") and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                    end
+
+                    if regionCheckedOrder > 4 then
+                            if Tracker:ProviderCountForCode("op_OKA") == 4 and has("arsenal") and ((prog and hasEnoughProgRegion("op_OKA")) or not prog) then regionReachCount = regionReachCount + 1
+                        elseif Tracker:ProviderCountForCode("op_OSN") == 4 and has("scholar") and ((prog and hasEnoughProgRegion("op_OSN")) or not prog) then regionReachCount = regionReachCount + 1
+                        elseif Tracker:ProviderCountForCode("op_ORD") == 4 and has("darkhouse") and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
+                        elseif Tracker:ProviderCountForCode("op_OEL") == 4 and has("lakeside") and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
+                        elseif Tracker:ProviderCountForCode("op_OCS") == 4 and has("churchmouse") and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                        end
+
+                            if regionCheckedOrder > 5 then
+                                if Tracker:ProviderCountForCode("op_OKA") == 5 and has("arsenal") and ((prog and hasEnoughProgRegion("op_OKA")) or not prog) then regionReachCount = regionReachCount + 1
+                            elseif Tracker:ProviderCountForCode("op_OSN") == 5 and has("scholar") and ((prog and hasEnoughProgRegion("op_OSN")) or not prog) then regionReachCount = regionReachCount + 1
+                            elseif Tracker:ProviderCountForCode("op_ORD") == 5 and has("darkhouse") and ((prog and hasEnoughProgRegion("op_ORD")) or not prog) then regionReachCount = regionReachCount + 1
+                            elseif Tracker:ProviderCountForCode("op_OEL") == 5 and has("lakeside") and ((prog and hasEnoughProgRegion("op_OEL")) or not prog) then regionReachCount = regionReachCount + 1
+                            elseif Tracker:ProviderCountForCode("op_OCS") == 5 and has("churchmouse") and ((prog and hasEnoughProgRegion("op_OCS")) or not prog) then regionReachCount = regionReachCount + 1
+                            end
+                        end
+                    end
+                end
+            end
+        end
     end
 
-    if Tracker:ProviderCountForCode("op_OKA") == 1 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OSN") == 1 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_ORD") == 1 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OEL") == 1 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OCS") == 1 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
-    end
+    print(string.format("region order: %s - reach count: %s", regionCheckedOrder, regionReachCount))
 
-    if Tracker:ProviderCountForCode("op_OKA") == 2 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OSN") == 2 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_ORD") == 2 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OEL") == 2 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OCS") == 2 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
-    end
-
-    if Tracker:ProviderCountForCode("op_OKA") == 3 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OSN") == 3 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_ORD") == 3 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OEL") == 3 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OCS") == 3 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
-    end
-
-    if Tracker:ProviderCountForCode("op_OKA") == 4 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OSN") == 4 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_ORD") == 4 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OEL") == 4 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OCS") == 4 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
-    end
-
-    if Tracker:ProviderCountForCode("op_OKA") == 5 and has("arsenal") and hasEnoughProgRegion("op_OKA") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OSN") == 5 and has("scholar") and hasEnoughProgRegion("op_OSN") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_ORD") == 5 and has("darkhouse") and hasEnoughProgRegion("op_ORD") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OEL") == 5 and has("lakeside") and hasEnoughProgRegion("op_OEL") then count = count + 1
-    elseif Tracker:ProviderCountForCode("op_OCS") == 5 and has("churchmouse") and hasEnoughProgRegion("op_OCS") then count = count + 1
-    end
-
-    return count >= order
+    return regionReachCount >= regionCheckedOrder
 end
 
 function canReachPaleKeepOrder()
