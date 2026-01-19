@@ -1,6 +1,5 @@
 LOCATION_MAPPING =
 {
-    --[1] = {"Starting Location"}
     [2] = {"@Kingdom Outskirts/Kingdom Outskirts Battle 1/Any Class"},
     [3] = {"@Kingdom Outskirts/Kingdom Outskirts Chest 1/Any Class"},
     [4] = {"@Kingdom Outskirts/Kingdom Outskirts Battle 2/Any Class"},
