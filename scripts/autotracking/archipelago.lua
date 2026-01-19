@@ -215,11 +215,11 @@ function onLocation(location_id, location_name)
         print(string.format("called onLocation: %s, %s", location_id, location_name))
     end
 
-	lcoal local_locaiton_id = LOCATION_NAME_TO_LOCAL_ID[location_name]
-    local v = LOCATION_MAPPING[local_locaiton_id]
+	lcoal local_location_id = LOCATION_NAME_TO_LOCAL_ID[location_name]
+    local v = LOCATION_MAPPING[local_location_id]
 
     if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("onLocation: could not find location mapping for id %s", local_locaiton_id))
+        print(string.format("onLocation: could not find location mapping for id %s", local_location_id))
         return
     end
 
