@@ -215,7 +215,7 @@ function onLocation(location_id, location_name)
         print(string.format("called onLocation: %s, %s", location_id, location_name))
     end
 
-	local local_location_id = LOCATION_NAME_TO_LOCAL_ID[location_name]
+	local local_location_id = location_id --LOCATION_NAME_TO_LOCAL_ID[location_name]
     local v = LOCATION_MAPPING[local_location_id]
 
     if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
@@ -351,8 +351,7 @@ function onItem(index, item_id, item_name, player_number)
         return
     end
 
-	local local_item_id = ITEM_NAME_TO_LOCAL_ID[item_name]
-	
+	local local_item_id = item_id --ITEM_NAME_TO_LOCAL_ID[item_name]
     CUR_INDEX = index;
     local v = ITEM_MAPPING[local_item_id]
 
