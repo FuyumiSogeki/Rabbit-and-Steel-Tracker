@@ -517,9 +517,7 @@ end
 -- Shop logic
 function canShopAny()
     if RegionSanityProgOrder() then return canReachFirst() and has("progressive_area", 1)
-    elseif RegionSanityProg() then  return canReachAny() and has("progressive_area", 1)
     elseif RegionSanityOrder() then return canReachAny()
-    elseif RegionSanity() then      return canReachAny()
     elseif RegionProgOrder() then   return has("progressive_area", 1)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
