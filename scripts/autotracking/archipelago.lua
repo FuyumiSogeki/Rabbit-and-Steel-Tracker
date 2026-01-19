@@ -215,10 +215,11 @@ function onLocation(location_id, location_name)
         print(string.format("called onLocation: %s, %s", location_id, location_name))
     end
 
-    local v = LOCATION_MAPPING[location_id]
+	lcoal local_locaiton_id = LOCATION_NAME_TO_LOCAL_ID[location_name]
+    local v = LOCATION_MAPPING[local_locaiton_id]
 
     if not v and AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-        print(string.format("onLocation: could not find location mapping for id %s", location_id))
+        print(string.format("onLocation: could not find location mapping for id %s", local_locaiton_id))
         return
     end
 
@@ -306,11 +307,9 @@ function UpdateHintsHighlight(hint)
     local mapping_entry = LOCATION_MAPPING[hint.location]
 
     if not mapping_entry then
-
         if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
             print(string.format("updateHint: could not find location mapping for id %s", hint.location))
         end
-
         return
     end
 
@@ -352,13 +351,14 @@ function onItem(index, item_id, item_name, player_number)
         return
     end
 
-    local is_local = player_number == Archipelago.PlayerNumber
+	local local_item_id = ITEM_NAME_TO_LOCAL_ID[item_name]
+	
     CUR_INDEX = index;
-    local v = ITEM_MAPPING[item_id]
+    local v = ITEM_MAPPING[local_item_id]
 
     if not v then
         if AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
-            print(string.format("onItem: could not find item mapping for id %s", item_id))
+            print(string.format("onItem: could not find item mapping for id %s", local_item_id))
         end
         return
     end
