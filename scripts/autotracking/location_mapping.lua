@@ -495,7 +495,7 @@ LOCATION_MAPPING =
     [489] = {"@Shop/Defensive Upgrade Slot/The Pale Keep Shop"}
 }
 
-ITEM_NAME_TO_LOCAL_ID = {
+LOCATION_NAME_TO_LOCAL_ID = {
     ["Kingdom Outskirts Battle 1"] = 2,
     ["Kingdom Outskirts Chest 1"] = 3,
     ["Kingdom Outskirts Battle 2"] = 4,
