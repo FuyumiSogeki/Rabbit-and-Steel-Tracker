@@ -443,7 +443,7 @@ end
 function canPaleKeep()
     if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true)
     elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false)
-    elseif RegionSanity() then      return has("palekeep")
+    elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep()
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OPK")
     elseif RegionOrder() then       return true
@@ -455,7 +455,7 @@ end
 function canMoonlitPinnacle()
     if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true)
     elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false)
-    elseif RegionSanity() then      return has("moonlit")
+    elseif RegionSanity() then      return has("moonlit") and canReachPinnacle()
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OMP")
     elseif RegionOrder() then       return true
