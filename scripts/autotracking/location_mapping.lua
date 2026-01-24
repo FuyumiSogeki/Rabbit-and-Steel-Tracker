@@ -495,7 +495,7 @@ LOCATION_MAPPING =
 }
 
 LOCATION_NAME_TO_LOCAL_ID = {
-["Kingdom Outskirts Battle 1"] =  1,
+    ["Kingdom Outskirts Battle 1"] =  1,
     ["Kingdom Outskirts Chest 1"] =  2,
     ["Kingdom Outskirts Battle 2"] =  3,
     ["Kingdom Outskirts Chest 2"] =  4,

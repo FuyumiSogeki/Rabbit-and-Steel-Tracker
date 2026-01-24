@@ -359,6 +359,10 @@ function RegionSanityOrder()
     return isKingdomSanity() and not isProgressiveRegion() and isKingdomOrder()
 end
 
+function RegionSanity()
+    return isKingdomSanity() and not isProgressiveRegion() and not isKingdomOrder()
+end
+
 function RegionProgOrder()
     return not isKingdomSanity() and isProgressiveRegion() and isKingdomOrder()
 end
@@ -379,6 +383,7 @@ end
 function canKingArsenal()
     if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true)
     elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false)
+    elseif RegionSanity() then      return has("arsenal")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -390,6 +395,7 @@ end
 function canScholarNest()
     if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true)
     elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false)
+    elseif RegionSanity() then      return has("scholar")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -401,6 +407,7 @@ end
 function canRedDarkhouse()
     if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true)
     elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false)
+    elseif RegionSanity() then      return has("darkhouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -412,6 +419,7 @@ end
 function canChurchmouseStreets()
     if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true)
     elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false)
+    elseif RegionSanity() then      return has("churchmouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -423,6 +431,7 @@ end
 function canEmeraldLakeside()
     if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true)
     elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false)
+    elseif RegionSanity() then      return has("lakeside")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
     elseif RegionOrder() then       return true
@@ -434,6 +443,7 @@ end
 function canPaleKeep()
     if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true)
     elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false)
+    elseif RegionSanity() then      return has("palekeep")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OPK")
     elseif RegionOrder() then       return true
@@ -445,6 +455,7 @@ end
 function canMoonlitPinnacle()
     if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true)
     elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false)
+    elseif RegionSanity() then      return has("moonlit")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OMP")
     elseif RegionOrder() then       return true
