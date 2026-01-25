@@ -194,6 +194,19 @@ function canReachPaleKeep()
     return count >= order
 end
 
+function canReachPaleKeepProg()
+    local order = Tracker:ProviderCountForCode("op_OPK")
+    local count = 1
+
+    if has("arsenal") then count = count + 1 end
+    if has("scholar") then count = count + 1 end
+    if has("darkhouse") then count = count + 1 end
+    if has("lakeside") then count = count + 1 end
+    if has("churchmouse") then count = count + 1 end
+
+    return count >= order
+end
+
 function canReachPinnacleOrder()
     local order = Tracker:ProviderCountForCode("op_OMP")
     local count = 2
@@ -355,6 +368,10 @@ function RegionSanityProgOrder()
     return isKingdomSanity() and isProgressiveRegion() and isKingdomOrder()
 end
 
+function RegionSanityProg()
+    return isKingdomSanity() and isProgressiveRegion() and not isKingdomOrder()
+end
+
 function RegionSanityOrder()
     return isKingdomSanity() and not isProgressiveRegion() and isKingdomOrder()
 end
@@ -383,6 +400,7 @@ end
 function canKingArsenal()
     if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true)
     elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false)
+    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area", 1)
     elseif RegionSanity() then      return has("arsenal")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
@@ -395,6 +413,7 @@ end
 function canScholarNest()
     if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true)
     elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false)
+    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area", 1)
     elseif RegionSanity() then      return has("scholar")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
@@ -407,6 +426,7 @@ end
 function canRedDarkhouse()
     if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true)
     elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false)
+    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area", 1)
     elseif RegionSanity() then      return has("darkhouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
@@ -419,6 +439,7 @@ end
 function canChurchmouseStreets()
     if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true)
     elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false)
+    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area", 1)
     elseif RegionSanity() then      return has("churchmouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
@@ -431,6 +452,7 @@ end
 function canEmeraldLakeside()
     if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true)
     elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false)
+    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area", 1)
     elseif RegionSanity() then      return has("lakeside")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true)
     elseif RegionProg() then        return has("progressive_area", 1)
@@ -443,6 +465,7 @@ end
 function canPaleKeep()
     if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true)
     elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false)
+    elseif RegionSanityProg() then  return has("palekeep") and canReachPaleKeep() and hasEnoughProgRegion("op_OPK")
     elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep()
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OPK")
@@ -455,6 +478,7 @@ end
 function canMoonlitPinnacle()
     if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true)
     elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false)
+    elseif RegionSanityProg() then  return has("moonlit") and canReachPinnacle() and hasEnoughProgRegion("op_OMP")
     elseif RegionSanity() then      return has("moonlit") and canReachPinnacle()
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true)
     elseif RegionProg() then        return hasEnoughProgRegion("op_OMP")
