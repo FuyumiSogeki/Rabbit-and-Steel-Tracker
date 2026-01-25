@@ -22,6 +22,7 @@
                     {
                         "name": "Any Class",
                         "chest_unopened_img": "images/items/Area_Moonlit_Pinnacle.png",
+                        "chest_opened_img":"images/items/Area_Moonlit_Pinnacle_dis.png",
                         "visibility_rules": [
                             ""
                         ],
@@ -33,6 +34,7 @@
                     {
                         "name": "Wizard",
                         "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "chest_opened_img":"images/items/ClassIcon_Wizard_dis.png",
                         "visibility_rules": [
                             "$isWizard"
                         ],
@@ -44,6 +46,7 @@
                     {
                         "name": "Assassin",
                         "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "chest_opened_img":"images/items/ClassIcon_Assassin_dis.png",
                         "visibility_rules": [
                             "$isAssassin"
                         ],
@@ -55,6 +58,7 @@
                     {
                         "name": "Heavyblade",
                         "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "chest_opened_img":"images/items/ClassIcon_Heavyblade_dis.png",
                         "visibility_rules": [
                             "$isHeavyblade"
                         ],
@@ -66,6 +70,7 @@
                     {
                         "name": "Dancer",
                         "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Dancer_dis.png",
                         "visibility_rules": [
                             "$isDancer"
                         ],
@@ -77,6 +82,7 @@
                     {
                         "name": "Druid",
                         "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Druid_dis.png",
                         "visibility_rules": [
                             "$isDruid"
                         ],
@@ -88,6 +94,7 @@
                     {
                         "name": "Spellsword",
                         "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "chest_opened_img":"images/items/ClassIcon_Spellsword_dis.png",
                         "visibility_rules": [
                             "$isSpellsword"
                         ],
@@ -99,6 +106,7 @@
                     {
                         "name": "Sniper",
                         "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "chest_opened_img":"images/items/ClassIcon_Sniper_dis.png",
                         "visibility_rules": [
                             "$isSniper"
                         ],
@@ -110,6 +118,7 @@
                     {
                         "name": "Bruiser",
                         "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "chest_opened_img":"images/items/ClassIcon_Bruiser_dis.png",
                         "visibility_rules": [
                             "$isBruiser"
                         ],
@@ -121,6 +130,7 @@
                     {
                         "name": "Defender",
                         "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "chest_opened_img":"images/items/ClassIcon_Defender_dis.png",
                         "visibility_rules": [
                             "$isDefender"
                         ],
@@ -132,6 +142,7 @@
                     {
                         "name": "Ancient",
                         "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "chest_opened_img":"images/items/ClassIcon_Ancient_dis.png",
                         "visibility_rules": [
                             "$isAncient"
                         ],

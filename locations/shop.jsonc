@@ -6,6 +6,7 @@
             {
                 "name": "Full Heal Potion Slot",
                 "chest_unopened_img": "images/items/Full_heal_square.png",
+                        "chest_opened_img":"images/items/Full_heal_square_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -95,6 +96,7 @@
             {
                 "name": "Level Up Slot",
                 "chest_unopened_img": "images/items/Level_up_orb.png",
+                        "chest_opened_img":"images/items/Level_up_orb_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -184,6 +186,7 @@
             {
                 "name": "Potion 1 Slot",
                 "chest_unopened_img": "images/items/Golden_Potion.png",
+                        "chest_opened_img":"images/items/Golden_Potion_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -273,6 +276,7 @@
             {
                 "name": "Potion 2 Slot",
                 "chest_unopened_img": "images/items/Regen_Potion.png",
+                        "chest_opened_img":"images/items/Regen_Potion_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -362,6 +366,7 @@
             {
                 "name": "Potion 3 Slot",
                 "chest_unopened_img": "images/items/Darkness_Potion.png",
+                        "chest_opened_img":"images/items/Darkness_Potion_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -451,6 +456,7 @@
             {
                 "name": "Primary Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_blue_0.png",
+                        "chest_opened_img":"images/items/Spr_upgrade_blue_0_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -540,6 +546,7 @@
             {
                 "name": "Secondary Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_green_1.png",
+                        "chest_opened_img":"images/items/Spr_upgrade_green_1_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -629,6 +636,7 @@
             {
                 "name": "Special Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_red_2.png",
+                        "chest_opened_img":"images/items/Spr_upgrade_red_2_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
@@ -718,6 +726,7 @@
             {
                 "name": "Defensive Upgrade Slot",
                 "chest_unopened_img": "images/items/Spr_upgrade_yellow_3.png",
+                        "chest_opened_img":"images/items/Spr_upgrade_yellow_3_dis.png",
                 "map_locations": [
                     {
                         "map": "Shop",
