@@ -1913,7 +1913,20 @@
         ]
     },
     {
-        "name": "Shira Defeat",
+        "name": "Shira Defeat Count",
+        "type": "consumable",
+        "loop": "false",
+        "img": "images/items/Spr_battle_flag_2.png",
+        "overlay_background": "#000",
+        "codes": "SD_Count",
+        "max_quantity": 10,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false,
+        "disabled_img_mods":"none"
+    },
+    {
+        "name": "Shira Defeat Goal",
         "type": "consumable",
         "loop": "false",
         "img": "images/items/Spr_battle_flag_2.png",

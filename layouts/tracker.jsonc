@@ -337,7 +337,7 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["progressive_area","op_SD","treasuresphere"],
+            ["progressive_area","SD_Count","treasuresphere"],
             ["scholar","arsenal","darkhouse"],
             ["churchmouse","lakeside","palekeep"],
             ["moonlit"]
@@ -365,9 +365,10 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["op_KS","op_PR","op_GC"],
-            ["op_US","op_SS","op_PS"],
-            ["op_CS","op_IC","op_IS"]
+            ["op_GC","","op_SD"],
+            ["op_KS","op_PR","op_CS"],
+            ["op_US","op_IS","op_PS"],
+            ["op_IC","op_SS"]
         ]
     },
     "tracker_horizontal": 

@@ -405,6 +405,10 @@ function onItem(index, item_id, item_name, player_number)
             local victoryName = v[1]:gsub("victory_", "")
             Tracker:FindObjectForCode(victoryName).Active = true
             Tracker:FindObjectForCode(victoryName).CurrentStage = 2
+            local objVictoryCount = Tracker:FindObjectForCode("SD_Count")
+            if objVictoryCount then
+               objVictoryCount.AcquiredCount = objVictoryCount.AcquiredCount + objVictoryCount.Increment
+            end
         end
 
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
