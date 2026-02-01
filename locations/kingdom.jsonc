@@ -3826,5 +3826,181 @@
                 ]
             }
         ]
+    },
+    {
+        "item_count": 1,
+        "children": [
+            {
+                "map_locations": [
+                    {
+                        "map": "Kingdom",
+                        "x": 477,
+                        "y": 170
+                    }
+                ],
+                "sections": [
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Top Left",
+                        "name": "Kingdom Outskirts Chest 1 - Top Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Bottom Left",
+                        "name": "Kingdom Outskirts Chest 1 - Bottom Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Middle",
+                        "name": "Kingdom Outskirts Chest 1 - Middle"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Top Right",
+                        "name": "Kingdom Outskirts Chest 1 - Top Right"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 1/Bottom Right",
+                        "name": "Kingdom Outskirts Chest 1 - Bottom Right"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Top Left",
+                        "name": "Kingdom Outskirts Chest 2 - Top Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Bottom Left",
+                        "name": "Kingdom Outskirts Chest 2 - Bottom Left"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Middle",
+                        "name": "Kingdom Outskirts Chest 2 - Middle"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Top Right",
+                        "name": "Kingdom Outskirts Chest 2 - Top Right"
+                    },
+                    {
+                        "ref": "Kingdom Outskirts Chest 2/Bottom Right",
+                        "name": "Kingdom Outskirts Chest 2 - Bottom Right"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Top Left",
+                        "name": "Scholar's Nest Chest - Top Left"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Bottom Left",
+                        "name": "Scholar's Nest Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Middle",
+                        "name": "Scholar's Nest Chest - Middle"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Top Right",
+                        "name": "Scholar's Nest Chest - Top Right"
+                    },
+                    {
+                        "ref": "Scholar's Nest Chest/Bottom Right",
+                        "name": "Scholar's Nest Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Top Left",
+                        "name": "King's Arsenal Chest - Top Left"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Bottom Left",
+                        "name": "King's Arsenal Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Middle",
+                        "name": "King's Arsenal Chest - Middle"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Top Right",
+                        "name": "King's Arsenal Chest - Top Right"
+                    },
+                    {
+                        "ref": "King's Arsenal Chest/Bottom Right",
+                        "name": "King's Arsenal Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Top Left",
+                        "name": "Churchmouse Streets Chest - Top Left"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Bottom Left",
+                        "name": "Churchmouse Streets Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Middle",
+                        "name": "Churchmouse Streets Chest - Middle"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Top Right",
+                        "name": "Churchmouse Streets Chest - Top Right"
+                    },
+                    {
+                        "ref": "Churchmouse Streets Chest/Bottom Right",
+                        "name": "Churchmouse Streets Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Top Left",
+                        "name": "Red Darkhouse Chest - Top Left"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Bottom Left",
+                        "name": "Red Darkhouse Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Middle",
+                        "name": "Red Darkhouse Chest - Middle"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Top Right",
+                        "name": "Red Darkhouse Chest - Top Right"
+                    },
+                    {
+                        "ref": "Red Darkhouse Chest/Bottom Right",
+                        "name": "Red Darkhouse Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Top Left",
+                        "name": "Emerald Lakeside Chest - Top Left"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Bottom Left",
+                        "name": "Emerald Lakeside Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Middle",
+                        "name": "Emerald Lakeside Chest - Middle"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Top Right",
+                        "name": "Emerald Lakeside Chest - Top Right"
+                    },
+                    {
+                        "ref": "Emerald Lakeside Chest/Bottom Right",
+                        "name": "Emerald Lakeside Chest - Bottom Right"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Top Left",
+                        "name": "The Pale Keep Chest - Top Left"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Middle",
+                        "name": "The Pale Keep Chest - Middle"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Bottom Left",
+                        "name": "The Pale Keep Chest - Bottom Left"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Top Right",
+                        "name": "The Pale Keep Chest - Top Right"
+                    },
+                    {
+                        "ref": "The Pale Keep Chest/Bottom Right",
+                        "name": "The Pale Keep Chest - Bottom Right"
+                    }
+                ]
+            }
+        ]
     }
 ]
