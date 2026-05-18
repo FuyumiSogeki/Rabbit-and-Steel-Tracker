@@ -184,7 +184,7 @@
                     {
                         "name": "Top Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -196,7 +196,7 @@
                     {
                         "name": "Bottom Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -208,7 +208,7 @@
                     {
                         "name": "Middle",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -220,7 +220,7 @@
                     {
                         "name": "Top Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -232,7 +232,7 @@
                     {
                         "name": "Bottom Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -544,7 +544,7 @@
                     {
                         "name": "Top Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -556,7 +556,7 @@
                     {
                         "name": "Bottom Left",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -568,7 +568,7 @@
                     {
                         "name": "Middle",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -580,7 +580,7 @@
                     {
                         "name": "Top Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],
@@ -592,7 +592,7 @@
                     {
                         "name": "Bottom Right",
                         "chest_unopened_img": "images/items/treasure.png",
-                        "chest_opened_img":"images/items/treasure_dis.png",
+                        "chest_opened_img":"images/items/spr_treasure_half.png",
                         "visibility_rules": [
                             "$isCheckChest"
                         ],

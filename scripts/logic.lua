@@ -11,20 +11,20 @@ end
 
 function hasEnoughProgRegion(regionChecked)
     local order = Tracker:ProviderCountForCode(regionChecked)
-    local count = Tracker:ProviderCountForCode("progressive_area")
+    local count = Tracker:ProviderCountForCode("progressive_area_shira")
     return count >= order
 end
 
 function canReachFirst()
-    if has("arsenal") and Tracker:ProviderCountForCode("op_OKA") == 1 and Tracker:ProviderCountForCode("progressive_area") >= 1 then
+    if has("arsenal") and Tracker:ProviderCountForCode("op_OKA") == 1 and Tracker:ProviderCountForCode("progressive_area_shira") >= 1 then
         return true
-    elseif has("scholar") and Tracker:ProviderCountForCode("op_OSN") == 1 and Tracker:ProviderCountForCode("progressive_area") >= 1 then
+    elseif has("scholar") and Tracker:ProviderCountForCode("op_OSN") == 1 and Tracker:ProviderCountForCode("progressive_area_shira") >= 1 then
         return true
-    elseif has("darkhouse") and Tracker:ProviderCountForCode("op_ORD") == 1 and Tracker:ProviderCountForCode("progressive_area") >= 1 then
+    elseif has("darkhouse") and Tracker:ProviderCountForCode("op_ORD") == 1 and Tracker:ProviderCountForCode("progressive_area_shira") >= 1 then
         return true
-    elseif has("lakeside") and Tracker:ProviderCountForCode("op_OEL") == 1 and Tracker:ProviderCountForCode("progressive_area") >= 1 then
+    elseif has("lakeside") and Tracker:ProviderCountForCode("op_OEL") == 1 and Tracker:ProviderCountForCode("progressive_area_shira") >= 1 then
         return true
-    elseif has("churchmouse") and Tracker:ProviderCountForCode("op_OCS") == 1 and Tracker:ProviderCountForCode("progressive_area") >= 1 then
+    elseif has("churchmouse") and Tracker:ProviderCountForCode("op_OCS") == 1 and Tracker:ProviderCountForCode("progressive_area_shira") >= 1 then
         return true
     else
         return false
@@ -50,7 +50,7 @@ function canReachRegionOrder(regionChecked, reg, prog)
     print(string.format("region order: %s - reach count: %s", regionCheckedOrder, regionReachCount))
 
     if regionCheckedOrder > 0 then
-        if prog and Tracker:ProviderCountForCode("progressive_area") < regionCheckedOrder then
+        if prog and Tracker:ProviderCountForCode("progressive_area_shira") < regionCheckedOrder then
             return false
         end
 
@@ -400,10 +400,10 @@ end
 function canKingArsenal()
     if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true)
     elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false)
-    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area", 1)
+    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area_shira", 1)
     elseif RegionSanity() then      return has("arsenal")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true)
-    elseif RegionProg() then        return has("progressive_area", 1)
+    elseif RegionProg() then        return has("progressive_area_shira", 1)
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
     else                            return false
@@ -413,10 +413,10 @@ end
 function canScholarNest()
     if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true)
     elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false)
-    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area", 1)
+    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area_shira", 1)
     elseif RegionSanity() then      return has("scholar")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true)
-    elseif RegionProg() then        return has("progressive_area", 1)
+    elseif RegionProg() then        return has("progressive_area_shira", 1)
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
     else                            return false
@@ -426,10 +426,10 @@ end
 function canRedDarkhouse()
     if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true)
     elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false)
-    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area", 1)
+    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area_shira", 1)
     elseif RegionSanity() then      return has("darkhouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true)
-    elseif RegionProg() then        return has("progressive_area", 1)
+    elseif RegionProg() then        return has("progressive_area_shira", 1)
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
     else                            return false
@@ -439,10 +439,10 @@ end
 function canChurchmouseStreets()
     if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true)
     elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false)
-    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area", 1)
+    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area_shira", 1)
     elseif RegionSanity() then      return has("churchmouse")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true)
-    elseif RegionProg() then        return has("progressive_area", 1)
+    elseif RegionProg() then        return has("progressive_area_shira", 1)
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
     else                            return false
@@ -452,10 +452,10 @@ end
 function canEmeraldLakeside()
     if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true)
     elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false)
-    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area", 1)
+    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area_shira", 1)
     elseif RegionSanity() then      return has("lakeside")
     elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true)
-    elseif RegionProg() then        return has("progressive_area", 1)
+    elseif RegionProg() then        return has("progressive_area_shira", 1)
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
     else                            return false
@@ -551,10 +551,10 @@ end
 
 -- Shop logic
 function canShopAny()
-    if RegionSanityProgOrder() then return canReachFirst() and has("progressive_area", 1)
+    if RegionSanityProgOrder() then return canReachFirst() and has("progressive_area_shira", 1)
     elseif RegionSanityOrder() then return canReachAny()
-    elseif RegionProgOrder() then   return has("progressive_area", 1)
-    elseif RegionProg() then        return has("progressive_area", 1)
+    elseif RegionProgOrder() then   return has("progressive_area_shira", 1)
+    elseif RegionProg() then        return has("progressive_area_shira", 1)
     elseif RegionOrder() then       return true
     elseif RegionNothing() then     return true
     else                            return false

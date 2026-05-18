@@ -25,4 +25,14 @@ LOOT_SET_TAB_MAPPING =
     ["sacredflame_set"] = "12",
     ["ruins_set"] = "12",
     ["lakeshrine_set"] = "13",
+    ["glacier_set"] = "13",
+    ["memory_set"] = "14",
+    ["cultist_set"] = "14",
+    ["painters_set"] = "15",
+    ["daynight_set"] = "15",
+    ["sharpedge_set"] = "16",
+    ["oceans_set"] = "16",
+    ["performers_set"] = "17",
+    ["miners_set"] = "17",
+    ["teaparty_set"] = "18"
 }

@@ -6,6 +6,12 @@
         "img": "images/maps/kingdom.png"
     },
     {
+        "name": "Extra",
+        "location_size": 24,
+        "location_border_thickness": 4,
+        "img": "images/maps/extra.png"
+    },
+    {
         "name": "Outskirts",
         "location_size": 50,
         "location_border_thickness": 4,

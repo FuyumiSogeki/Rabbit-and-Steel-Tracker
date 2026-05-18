@@ -25,13 +25,26 @@
         "disabled_img_mods":"none"
     },
     {
-        "name": "Region Unlocked",
+        "name": "Region Unlocked (Shira)",
         "type": "consumable",
         "loop": "false",
         "img": "images/items/Area_Kingdom_Outskirts.png",
         "overlay_background": "#000",
-        "codes": "progressive_area",
+        "codes": "progressive_area_shira",
         "max_quantity": 7,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false,
+        "disabled_img_mods":"none"
+    },
+    {
+        "name": "Region Unlocked (Witch)",
+        "type": "consumable",
+        "loop": "false",
+        "img": "images/items/Area_Crack_In_The_Geode.png",
+        "overlay_background": "#000",
+        "codes": "progressive_area_witch",
+        "max_quantity": 5,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false,
@@ -80,6 +93,36 @@
         "codes": "moonlit"
     },
     {
+        "name": "Darkhouse Depths",
+        "type": "toggle",
+        "img": "images/items/Area_Darkhouse_Depths.png",
+        "codes": "depths"
+    },
+    {
+        "name": "Atelier Aurum",
+        "type": "toggle",
+        "img": "images/items/Area_Atelier_Aurum.png",
+        "codes": "atelier"
+    },
+    {
+        "name": "Subterra Sanctum",
+        "type": "toggle",
+        "img": "images/items/Area_Subterra_Sanctum.png",
+        "codes": "sanctum"
+    },
+    {
+        "name": "Looping Hallway",
+        "type": "toggle",
+        "img": "images/items/Area_Looping_Hallway.png",
+        "codes": "looping"
+    },
+    {
+        "name": "Reflecting Pool",
+        "type": "toggle",
+        "img": "images/items/Area_Reflecting_Pool.png",
+        "codes": "pool"
+    },
+    {
         "name": "Class Wizard",
         "type": "progressive",
         "allow_disabled": true,
@@ -91,8 +134,17 @@
                 "codes": "wizard"
             },
             {
-                
-                "img": "images/items/ClassIcon_Wizard_V.png",
+                "img": "images/items/ClassIcon_Wizard_VS.png",
+                "codes": "wizard",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Wizard_VW.png",
+                "codes": "wizard",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Wizard_VSW.png",
                 "codes": "wizard",
                 "inherit_codes": false
             }
@@ -110,8 +162,17 @@
                 "codes": "assassin"
             },
             {
-                
-                "img": "images/items/ClassIcon_Assassin_V.png",
+                "img": "images/items/ClassIcon_Assassin_VS.png",
+                "codes": "assassin",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Assassin_VW.png",
+                "codes": "assassin",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Assassin_VSW.png",
                 "codes": "assassin",
                 "inherit_codes": false
             }
@@ -129,8 +190,17 @@
                 "codes": "heavyblade"
             },
             {
-                
-                "img": "images/items/ClassIcon_Heavyblade_V.png",
+                "img": "images/items/ClassIcon_Heavyblade_VS.png",
+                "codes": "heavyblade",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Heavyblade_VW.png",
+                "codes": "heavyblade",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Heavyblade_VSW.png",
                 "codes": "heavyblade",
                 "inherit_codes": false
             }
@@ -148,8 +218,17 @@
                 "codes": "dancer"
             },
             {
-                
-                "img": "images/items/ClassIcon_Dancer_V.png",
+                "img": "images/items/ClassIcon_Dancer_VS.png",
+                "codes": "dancer",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Dancer_VW.png",
+                "codes": "dancer",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Dancer_VSW.png",
                 "codes": "dancer",
                 "inherit_codes": false
             }
@@ -167,8 +246,17 @@
                 "codes": "druid"
             },
             {
-                
-                "img": "images/items/ClassIcon_Druid_V.png",
+                "img": "images/items/ClassIcon_Druid_VS.png",
+                "codes": "druid",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Druid_VW.png",
+                "codes": "druid",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Druid_VSW.png",
                 "codes": "druid",
                 "inherit_codes": false
             }
@@ -186,8 +274,17 @@
                 "codes": "spellsword"
             },
             {
-                
-                "img": "images/items/ClassIcon_Spellsword_V.png",
+                "img": "images/items/ClassIcon_Spellsword_VS.png",
+                "codes": "spellsword",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Spellsword_VW.png",
+                "codes": "spellsword",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Spellsword_VSW.png",
                 "codes": "spellsword",
                 "inherit_codes": false
             }
@@ -205,8 +302,17 @@
                 "codes": "sniper"
             },
             {
-                
-                "img": "images/items/ClassIcon_Sniper_V.png",
+                "img": "images/items/ClassIcon_Sniper_VS.png",
+                "codes": "sniper",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Sniper_VW.png",
+                "codes": "sniper",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Sniper_VSW.png",
                 "codes": "sniper",
                 "inherit_codes": false
             }
@@ -225,7 +331,19 @@
             },
             {
                 
-                "img": "images/items/ClassIcon_Bruiser_V.png",
+                "img": "images/items/ClassIcon_Bruiser_VS.png",
+                "codes": "bruiser",
+                "inherit_codes": false
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Bruiser_VW.png",
+                "codes": "bruiser",
+                "inherit_codes": false
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Bruiser_VSW.png",
                 "codes": "bruiser",
                 "inherit_codes": false
             }
@@ -244,7 +362,19 @@
             },
             {
                 
-                "img": "images/items/ClassIcon_Defender_V.png",
+                "img": "images/items/ClassIcon_Defender_VS.png",
+                "codes": "defender",
+                "inherit_codes": false
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Defender_VW.png",
+                "codes": "defender",
+                "inherit_codes": false
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Defender_VSW.png",
                 "codes": "defender",
                 "inherit_codes": false
             }
@@ -263,8 +393,132 @@
             },
             {
                 
-                "img": "images/items/ClassIcon_Ancient_V.png",
+                "img": "images/items/ClassIcon_Ancient_VS.png",
                 "codes": "ancient",
+                "inherit_codes": false
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Ancient_VW.png",
+                "codes": "ancient",
+                "inherit_codes": false
+            },
+            {
+                
+                "img": "images/items/ClassIcon_Ancient_VSW.png",
+                "codes": "ancient",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Class Hammermaid",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Hammermaid.png",
+                "codes": "hammermaid"
+            },
+            {
+                "img": "images/items/ClassIcon_Hammermaid_VS.png",
+                "codes": "hammermaid",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Hammermaid_VW.png",
+                "codes": "hammermaid",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Hammermaid_VSW.png",
+                "codes": "hammermaid",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Class Pyromancer",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Pyromancer.png",
+                "codes": "pyromancer"
+            },
+            {
+                "img": "images/items/ClassIcon_Pyromancer_VS.png",
+                "codes": "pyromancer",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Pyromancer_VW.png",
+                "codes": "pyromancer",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Pyromancer_VSW.png",
+                "codes": "pyromancer",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Class Grenadier",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Grenadier.png",
+                "codes": "grenadier"
+            },
+            {
+                "img": "images/items/ClassIcon_Grenadier_VS.png",
+                "codes": "grenadier",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Grenadier_VW.png",
+                "codes": "grenadier",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Grenadier_VSW.png",
+                "codes": "grenadier",
+                "inherit_codes": false
+            }
+        ]
+    },
+    {
+        "name": "Class Shadow",
+        "type": "progressive",
+        "allow_disabled": true,
+        "loop": true,
+        "stages": 
+        [
+            {
+                "img": "images/items/ClassIcon_Shadow.png",
+                "codes": "shadow"
+            },
+            {
+                "img": "images/items/ClassIcon_Shadow_VS.png",
+                "codes": "shadow",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Shadow_VW.png",
+                "codes": "shadow",
+                "inherit_codes": false
+            },
+            {
+                "img": "images/items/ClassIcon_Shadow_VSW.png",
+                "codes": "shadow",
                 "inherit_codes": false
             }
         ]
@@ -1847,6 +2101,536 @@
         "codes": "lakeshrine8"
     },
     {
+        "name": "Glacier Set",
+        "type": "toggle",
+        "codes": "glacier_set"
+    },
+    {
+        "name": "Glacier Spear",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_0.png",
+        "codes": "glacier1"
+    },
+    {
+        "name": "Frost Dagger",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_1.png",
+        "codes": "glacier2"
+    },
+    {
+        "name": "Frozen Staff",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_2.png",
+        "codes": "glacier3"
+    },
+    {
+        "name": "Coldsteel Shield",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_3.png",
+        "codes": "glacier4"
+    },
+    {
+        "name": "Polar Coat",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_4.png",
+        "codes": "glacier5"
+    },
+    {
+        "name": "Icicle Earrings",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_5.png",
+        "codes": "glacier6"
+    },
+    {
+        "name": "Winter Hat",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_6.png",
+        "codes": "glacier7"
+    },
+    {
+        "name": "Snow Boots",
+        "type": "toggle",
+        "img": "images/items/Spr_item_glacier_7.png",
+        "codes": "glacier8"
+    },
+    {
+        "name": "Memory Set",
+        "type": "toggle",
+        "codes": "memory_set"
+    },
+    {
+        "name": "Spear of Remorse",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_0.png",
+        "codes": "memory1"
+    },
+    {
+        "name": "Memory Greatsword",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_1.png",
+        "codes": "memory2"
+    },
+    {
+        "name": "Staff of Sorrow",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_2.png",
+        "codes": "memory3"
+    },
+    {
+        "name": "Shield of Smiles",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_3.png",
+        "codes": "memory4"
+    },
+    {
+        "name": "Lonesome Pendant",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_4.png",
+        "codes": "memory5"
+    },
+    {
+        "name": "Spark of Determination",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_5.png",
+        "codes": "memory6"
+    },
+    {
+        "name": "Crown of Love",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_6.png",
+        "codes": "memory7"
+    },
+    {
+        "name": "Comforting Coat",
+        "type": "toggle",
+        "img": "images/items/Spr_item_memory_7.png",
+        "codes": "memory8"
+    },
+    {
+        "name": "Cultist Set",
+        "type": "toggle",
+        "codes": "cultist_set"
+    },
+    {
+        "name": "Righthand Cast",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_0.png",
+        "codes": "cultist1"
+    },
+    {
+        "name": "Lefthand Cast",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_1.png",
+        "codes": "cultist2"
+    },
+    {
+        "name": "Hexed Blindfold",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_2.png",
+        "codes": "cultist3"
+    },
+    {
+        "name": "Angel's Halo",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_3.png",
+        "codes": "cultist4"
+    },
+    {
+        "name": "Unsacred Pendant",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_4.png",
+        "codes": "cultist5"
+    },
+    {
+        "name": "Whitewing Bracelet",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_5.png",
+        "codes": "cultist6"
+    },
+    {
+        "name": "Darkcrystal Rose",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_6.png",
+        "codes": "cultist7"
+    },
+    {
+        "name": "Dark Wings",
+        "type": "toggle",
+        "img": "images/items/Spr_item_cultist_7.png",
+        "codes": "cultist8"
+    },
+    {
+        "name": "Painters Set",
+        "type": "toggle",
+        "codes": "painters_set"
+    },
+    {
+        "name": "Giant Paintbrush",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_0.png",
+        "codes": "painters1"
+    },
+    {
+        "name": "Sewing Sword",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_1.png",
+        "codes": "painters2"
+    },
+    {
+        "name": "Sketchbook",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_2.png",
+        "codes": "painters3"
+    },
+    {
+        "name": "Palette Shield",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_3.png",
+        "codes": "painters4"
+    },
+    {
+        "name": "Handmade Charm",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_4.png",
+        "codes": "painters5"
+    },
+    {
+        "name": "Painter's Beret",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_5.png",
+        "codes": "painters6"
+    },
+    {
+        "name": "Artist Smock",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_6.png",
+        "codes": "painters7"
+    },
+    {
+        "name": "Colorful Earrings",
+        "type": "toggle",
+        "img": "images/items/Spr_item_painters_7.png",
+        "codes": "painters8"
+    },
+    {
+        "name": "Daynight Set",
+        "type": "toggle",
+        "codes": "daynight_set"
+    },
+    {
+        "name": "Daylight Sword",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_0.png",
+        "codes": "daynight1"
+    },
+    {
+        "name": "Nightgleam Sword",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_1.png",
+        "codes": "daynight2"
+    },
+    {
+        "name": "Spear of Winds",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_2.png",
+        "codes": "daynight3"
+    },
+    {
+        "name": "Spear of Rains",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_3.png",
+        "codes": "daynight4"
+    },
+    {
+        "name": "Heaven's Codex",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_4.png",
+        "codes": "daynight5"
+    },
+    {
+        "name": "Hell's Codex",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_5.png",
+        "codes": "daynight6"
+    },
+    {
+        "name": "Robe of Light",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_6.png",
+        "codes": "daynight7"
+    },
+    {
+        "name": "Robe of Dark",
+        "type": "toggle",
+        "img": "images/items/Spr_item_daynight_7.png",
+        "codes": "daynight8"
+    },
+    {
+        "name": "Sharpedge Set",
+        "type": "toggle",
+        "codes": "sharpedge_set"
+    },
+    {
+        "name": "Hooked Staff",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_0.png",
+        "codes": "sharpedge1"
+    },
+    {
+        "name": "Springloaded Scythe",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_1.png",
+        "codes": "sharpedge2"
+    },
+    {
+        "name": "Hidden Blade",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_2.png",
+        "codes": "sharpedge3"
+    },
+    {
+        "name": "Sharpedged Shield",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_3.png",
+        "codes": "sharpedge4"
+    },
+    {
+        "name": "Pointed Ring",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_4.png",
+        "codes": "sharpedge5"
+    },
+    {
+        "name": "Crown of Swords",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_5.png",
+        "codes": "sharpedge6"
+    },
+    {
+        "name": "Bladed Cloak",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_6.png",
+        "codes": "sharpedge7"
+    },
+    {
+        "name": "Greatsword Pendant",
+        "type": "toggle",
+        "img": "images/items/Spr_item_sharpedge_7.png",
+        "codes": "sharpedge8"
+    },
+    {
+        "name": "Oceans Set",
+        "type": "toggle",
+        "codes": "oceans_set"
+    },
+    {
+        "name": "Rusted Greatsword",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_0.png",
+        "codes": "oceans1"
+    },
+    {
+        "name": "Sand Shovel",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_1.png",
+        "codes": "oceans2"
+    },
+    {
+        "name": "Saltwater Staff",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_2.png",
+        "codes": "oceans3"
+    },
+    {
+        "name": "Large Umbrella",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_3.png",
+        "codes": "oceans4"
+    },
+    {
+        "name": "Onepiece Swimsuit",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_4.png",
+        "codes": "oceans5"
+    },
+    {
+        "name": "Straw Hat",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_5.png",
+        "codes": "oceans6"
+    },
+    {
+        "name": "Large Anchor",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_6.png",
+        "codes": "oceans7"
+    },
+    {
+        "name": "Beach Sandals",
+        "type": "toggle",
+        "img": "images/items/Spr_item_oceans_7.png",
+        "codes": "oceans8"
+    },
+    {
+        "name": "Performers Set",
+        "type": "toggle",
+        "codes": "performers_set"
+    },
+    {
+        "name": "Strongman's Bar",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_0.png",
+        "codes": "performers1"
+    },
+    {
+        "name": "Spinning Chakram",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_1.png",
+        "codes": "performers2"
+    },
+    {
+        "name": "Ribboned Staff",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_2.png",
+        "codes": "performers3"
+    },
+    {
+        "name": "Trick Shield",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_3.png",
+        "codes": "performers4"
+    },
+    {
+        "name": "Rosered Leotard",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_4.png",
+        "codes": "performers5"
+    },
+    {
+        "name": "Jester's Hat",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_5.png",
+        "codes": "performers6"
+    },
+    {
+        "name": "Rainbow Cape",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_6.png",
+        "codes": "performers7"
+    },
+    {
+        "name": "Performer's Shoes",
+        "type": "toggle",
+        "img": "images/items/Spr_item_performers_7.png",
+        "codes": "performers8"
+    },
+    {
+        "name": "Miners Set",
+        "type": "toggle",
+        "codes": "miners_set"
+    },
+    {
+        "name": "Iron Pickaxe",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_0.png",
+        "codes": "miners1"
+    },
+    {
+        "name": "Dynamite Staff",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_1.png",
+        "codes": "miners2"
+    },
+    {
+        "name": "Fossil Dagger",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_2.png",
+        "codes": "miners3"
+    },
+    {
+        "name": "Drill Shield",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_3.png",
+        "codes": "miners4"
+    },
+    {
+        "name": "Canary Charm",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_4.png",
+        "codes": "miners5"
+    },
+    {
+        "name": "Pyrite Earrings",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_5.png",
+        "codes": "miners6"
+    },
+    {
+        "name": "Caver's Cloak",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_6.png",
+        "codes": "miners7"
+    },
+    {
+        "name": "Miner's Headlamp",
+        "type": "toggle",
+        "img": "images/items/Spr_item_miners_7.png",
+        "codes": "miners8"
+    },
+    {
+        "name": "Teaparty Set",
+        "type": "toggle",
+        "codes": "teaparty_set"
+    },
+    {
+        "name": "Tiny Fork",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_0.png",
+        "codes": "teaparty1"
+    },
+    {
+        "name": "Stirring Spoon",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_1.png",
+        "codes": "teaparty2"
+    },
+    {
+        "name": "Fanciful Book",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_2.png",
+        "codes": "teaparty3"
+    },
+    {
+        "name": "Apple Plate",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_3.png",
+        "codes": "teaparty4"
+    },
+    {
+        "name": "Vanilla Wafers",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_4.png",
+        "codes": "teaparty5"
+    },
+    {
+        "name": "Caramel Tea",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_5.png",
+        "codes": "teaparty6"
+    },
+    {
+        "name": "Strawberry Cake",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_6.png",
+        "codes": "teaparty7"
+    },
+    {
+        "name": "Sweet Taffy",
+        "type": "toggle",
+        "img": "images/items/Spr_item_teaparty_7.png",
+        "codes": "teaparty8"
+    },
+    {
         "name": "Victory - Wizard",
         "type": "toggle",
         "codes": "victory_wizard"
@@ -1902,38 +2686,98 @@
         "name": "Goal Condition",
         "type": "progressive",
         "initial_stage_idx": 0,
-        "allow_disabled": true,
+        "allow_disabled": false,
         "loop": false,
         "stages": 
         [
             {
                 "img": "images/settings/Character_Shira.png",
                 "codes": "op_GC,shira_defeat_count"
+            },
+            {
+                "img": "images/settings/Character_Witch.png",
+                "codes": "op_GC,which_defeat_count"
+            },
+            {
+                "img": "images/settings/Character_Both.png",
+                "codes": "op_GC,both_defeat_count"
             }
         ]
     },
     {
-        "name": "Shira Defeat Count",
+        "name": "Game Mode",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "allow_disabled": false,
+        "loop": false,
+        "stages": 
+        [
+            {
+                "img": "images/items/Area_Moonlit_Pinnacle.png",
+                "codes": "op_GM,kingdom_mode"
+            },
+            {
+                "img": "images/items/Area_Reflecting_Pool.png",
+                "codes": "op_GM,extra_mode"
+            },
+            {
+                "img": "images/settings/Character_Any.png",
+                "codes": "op_GM,either_mode"
+            },
+            {
+                "img": "images/items/Aera_True_Random.png",
+                "codes": "op_GM,chaos_mode"
+            }
+        ]
+    },
+    {
+        "name": "Defeat Count Shira",
         "type": "consumable",
         "loop": "false",
         "img": "images/items/Spr_battle_flag_2.png",
         "overlay_background": "#000",
-        "codes": "SD_Count",
-        "max_quantity": 10,
+        "codes": "defeat_count_shira",
+        "max_quantity": 14,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false,
         "disabled_img_mods":"none"
     },
     {
-        "name": "Shira Defeat Goal",
+        "name": "Defeat Count Witch",
+        "type": "consumable",
+        "loop": "false",
+        "img": "images/items/spr_trinket_battle_flag2_1.png",
+        "overlay_background": "#000",
+        "codes": "defeat_count_witch",
+        "max_quantity": 14,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false,
+        "disabled_img_mods":"none"
+    },
+    {
+        "name": "Defeat Goal Shira",
         "type": "consumable",
         "loop": "false",
         "img": "images/items/Spr_battle_flag_2.png",
         "overlay_background": "#000",
-        "codes": "op_SD",
-        "max_quantity": 10,
-        "initial_quantity": 1,
+        "codes": "op_DGS",
+        "max_quantity": 14,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false,
+        "disabled_img_mods":"none"
+    },
+    {
+        "name": "Defeat Goal Witch",
+        "type": "consumable",
+        "loop": "false",
+        "img": "images/items/spr_trinket_battle_flag2_1.png",
+        "overlay_background": "#000",
+        "codes": "op_DGW",
+        "max_quantity": 14,
+        "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false,
         "disabled_img_mods":"none"

@@ -329,6 +329,126 @@
             ["lakeshrine5","lakeshrine6","lakeshrine7","lakeshrine8"]
         ]
     },
+    "glacier_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["glacier1","glacier2","glacier3","glacier4"],
+            ["glacier5","glacier6","glacier7","glacier8"]
+        ]
+    },
+    "memory_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["memory1","memory2","memory3","memory4"],
+            ["memory5","memory6","memory7","memory8"]
+        ]
+    },
+    "cultist_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["cultist1","cultist2","cultist3","cultist4"],
+            ["cultist5","cultist6","cultist7","cultist8"]
+        ]
+    },
+    "painters_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["painters1","painters2","painters3","painters4"],
+            ["painters5","painters6","painters7","painters8"]
+        ]
+    },
+    "daynight_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["daynight1","daynight2","daynight3","daynight4"],
+            ["daynight5","daynight6","daynight7","daynight8"]
+        ]
+    },
+    "sharpedge_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["sharpedge1","sharpedge2","sharpedge3","sharpedge4"],
+            ["sharpedge5","sharpedge6","sharpedge7","sharpedge8"]
+        ]
+    },
+    "oceans_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["oceans1","oceans2","oceans3","oceans4"],
+            ["oceans5","oceans6","oceans7","oceans8"]
+        ]
+    },
+    "performers_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["performers1","performers2","performers3","performers4"],
+            ["performers5","performers6","performers7","performers8"]
+        ]
+    },
+    "miners_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["miners1","miners2","miners3","miners4"],
+            ["miners5","miners6","miners7","miners8"]
+        ]
+    },
+    "teaparty_item_grid":
+     {
+        "type": "itemgrid",
+        "h_alignment": "center",
+        "item_margin": "2,3,-10,-10",
+        "item_size": "50,50",
+        "rows":
+        [
+            ["teaparty1","teaparty2","teaparty3","teaparty4"],
+            ["teaparty5","teaparty6","teaparty7","teaparty8"]
+        ]
+    },
     "area_item_grid": 
     {
         "type": "itemgrid",
@@ -337,10 +457,11 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["progressive_area","SD_Count","treasuresphere"],
-            ["scholar","arsenal","darkhouse"],
-            ["churchmouse","lakeside","palekeep"],
-            ["moonlit"]
+            ["progressive_area_shira","treasuresphere","progressive_area_witch"],
+            ["scholar","arsenal","darkhouse","churchmouse"],
+            ["lakeside","depths","atelier","sanctum"],
+            ["palekeep","moonlit","looping","pool"],
+            ["defeat_count_shira","","defeat_count_witch"]
         ]
     },
     "character_item_grid": 
@@ -351,10 +472,10 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["wizard","assassin","heavyblade"],
-            ["dancer","druid","spellsword"],
-            ["sniper","bruiser","defender"],
-            ["ancient"]
+            ["wizard","assassin","heavyblade","dancer"],
+            ["druid","spellsword","sniper","bruiser"],
+            ["defender","ancient","hammermaid","pyromancer"],
+            ["grenadier","shadow"]
         ]
     },
     "settings_item_grid": 
@@ -365,10 +486,9 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["op_GC","","op_SD"],
-            ["op_KS","op_PR","op_CS"],
-            ["op_US","op_IS","op_PS"],
-            ["op_IC","op_SS"]
+            ["op_GM","op_GC","op_DGS","op_DGW"],
+            ["op_KS","op_PR","op_CS","op_IS"],
+            ["op_US","op_PS","op_IC","op_SS"]
         ]
     },
     "tracker_horizontal": 
@@ -769,7 +889,117 @@
                                                 {
                                                     "type": "layout",
                                                     "key": "lakeshrine_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "glacier_item_grid"
                                                 }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "14",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "memory_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "cultist_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "15",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "painters_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "daynight_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "16",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "sharpedge_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "oceans_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "17",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "performers_item_grid"
+                                                },
+                                                {
+                                                    "type": "layout",
+                                                    "key": "miners_item_grid"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        
+                                        "title": "18",
+                                        "content": 
+                                        {    
+                                            "type": "array",
+                                            "orientation": "vertical",
+                                            "margin": "0,0,0,0",
+                                            "dock": "center",
+                                            "content": 
+                                            [
+                                                {
+                                                    "type": "layout",
+                                                    "key": "teaparty_item_grid"
+                                                }                                        
                                             ]
                                         }
                                     }
@@ -782,6 +1012,38 @@
                     "type": "tabbed",
                     "tabs": 
                     [
+                        {
+                            "title": "Overview",
+                            "content":
+                            {
+                                "type": "tabbed",
+                                "tabs": 
+                                [
+                                    {
+                                        "title": "The Kingdom",
+                                        "content": 
+                                        {
+                                            "type": "map",
+                                            "maps": 
+                                            [
+                                                "Kingdom"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Extra Mode",
+                                        "content": 
+                                        {
+                                            "type": "map",
+                                            "maps": 
+                                            [
+                                                "Extra"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
                         {
                             "title": "Kingdom",
                             "content":
@@ -798,6 +1060,17 @@
                                                 "maps": 
                                                 [
                                                     "Kingdom"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Extra Mode",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Extra"
                                                 ]
                                             }
                                         },

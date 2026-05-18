@@ -106,7 +106,7 @@ ITEM_MAPPING = {
     [94] = {"victory_ancient", "toggle"},
 
     -- Other
-    [95] = {"progressive_area", "consumable"},
+    [95] = {"progressive_area_shira", "consumable"},
     [96] = {"xp", "consumable"},
     [97] = {"treasuresphere", "consumable"},
 

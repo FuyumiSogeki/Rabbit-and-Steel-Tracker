@@ -190,7 +190,8 @@ function onClear(slot_data)
         end
     end
 
-    Tracker:FindObjectForCode("op_SD").AcquiredCount = slot_data['shira_defeats']
+    Tracker:FindObjectForCode("op_DGS").AcquiredCount = slot_data['shira_defeats']
+    Tracker:FindObjectForCode("op_DGW").AcquiredCount = slot_data['witch_defeats']
 
     -- get hints
     if Archipelago.PlayerNumber > -1 then
@@ -405,7 +406,7 @@ function onItem(index, item_id, item_name, player_number)
             local victoryName = v[1]:gsub("victory_", "")
             Tracker:FindObjectForCode(victoryName).Active = true
             Tracker:FindObjectForCode(victoryName).CurrentStage = 2
-            local objVictoryCount = Tracker:FindObjectForCode("SD_Count")
+            local objVictoryCount = Tracker:FindObjectForCode("defeat_count")
             if objVictoryCount then
                objVictoryCount.AcquiredCount = objVictoryCount.AcquiredCount + objVictoryCount.Increment
             end
@@ -442,7 +443,6 @@ function onHighlightChange()
         end
     end
 end
-
 
 -- add AP callbacks
 -- un-/comment as needed
