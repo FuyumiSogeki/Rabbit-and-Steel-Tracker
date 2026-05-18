@@ -1,0 +1,1060 @@
+called onLocation: 1, Kingdom Outskirts Battle 1
+called onLocation: 2, Kingdom Outskirts Chest 1
+called onLocation: 3, Kingdom Outskirts Battle 2
+called onLocation: 4, Kingdom Outskirts Chest 2
+called onLocation: 5, Kingdom Outskirts Battle 3
+called onLocation: 6, Crack in the Geode Battle 1
+called onLocation: 7, Crack in the Geode Chest 1
+called onLocation: 8, Crack in the Geode Battle 2
+called onLocation: 9, Crack in the Geode Chest 2
+called onLocation: 10, Crack in the Geode Battle 3
+called onLocation: 11, Scholar's Nest Battle 1
+called onLocation: 12, Scholar's Nest Battle 2
+called onLocation: 13, Scholar's Nest Battle 3
+called onLocation: 14, Scholar's Nest Chest
+called onLocation: 15, Scholar's Nest Boss
+called onLocation: 16, King's Arsenal Battle 1
+called onLocation: 17, King's Arsenal Battle 2
+called onLocation: 18, King's Arsenal Battle 3
+called onLocation: 19, King's Arsenal Chest
+called onLocation: 20, King's Arsenal Boss
+called onLocation: 21, Red Darkhouse Battle 1
+called onLocation: 22, Red Darkhouse Battle 2
+called onLocation: 23, Red Darkhouse Battle 3
+called onLocation: 24, Red Darkhouse Chest
+called onLocation: 25, Red Darkhouse Boss
+called onLocation: 26, Churchmouse Streets Battle 1
+called onLocation: 27, Churchmouse Streets Battle 2
+called onLocation: 28, Churchmouse Streets Battle 3
+called onLocation: 29, Churchmouse Streets Chest
+called onLocation: 30, Churchmouse Streets Boss
+called onLocation: 31, Emerald Lakeside Battle 1
+called onLocation: 32, Emerald Lakeside Battle 2
+called onLocation: 33, Emerald Lakeside Battle 3
+called onLocation: 34, Emerald Lakeside Chest
+called onLocation: 35, Emerald Lakeside Boss
+called onLocation: 36, Darkhouse Depths Battle 1
+called onLocation: 37, Darkhouse Depths Battle 2
+called onLocation: 38, Darkhouse Depths Battle 3
+called onLocation: 39, Darkhouse Depths Chest
+called onLocation: 40, Darkhouse Depths Boss
+called onLocation: 41, Atelier Aurum Battle 1
+called onLocation: 42, Atelier Aurum Battle 2
+called onLocation: 43, Atelier Aurum Battle 3
+called onLocation: 44, Atelier Aurum Chest
+called onLocation: 45, Atelier Aurum Boss
+called onLocation: 46, Subterra Sanctum Battle 1
+called onLocation: 47, Subterra Sanctum Battle 2
+called onLocation: 48, Subterra Sanctum Battle 3
+called onLocation: 49, Subterra Sanctum Chest
+called onLocation: 50, Subterra Sanctum Boss
+called onLocation: 51, The Pale Keep Battle 1
+called onLocation: 52, The Pale Keep Battle 2
+called onLocation: 53, The Pale Keep Battle 3
+called onLocation: 54, The Pale Keep Chest
+called onLocation: 55, Looping Hallway Battle 1
+called onLocation: 56, Looping Hallway Battle 2
+called onLocation: 57, Looping Hallway Battle 3
+called onLocation: 58, Looping Hallway Chest
+called onLocation: 59, Shira
+called onLocation: 60, Witch
+called onLocation: 61, Kingdom Outskirts Chest 1 Top Left
+called onLocation: 62, Kingdom Outskirts Chest 1 Bottom Left
+called onLocation: 63, Kingdom Outskirts Chest 1 Middle
+called onLocation: 64, Kingdom Outskirts Chest 1 Top Right
+called onLocation: 65, Kingdom Outskirts Chest 1 Bottom Right
+called onLocation: 66, Kingdom Outskirts Chest 2 Top Left
+called onLocation: 67, Kingdom Outskirts Chest 2 Bottom Left
+called onLocation: 68, Kingdom Outskirts Chest 2 Middle
+called onLocation: 69, Kingdom Outskirts Chest 2 Top Right
+called onLocation: 70, Kingdom Outskirts Chest 2 Bottom Right
+called onLocation: 71, Crack in the Geode Chest 1 Top Left
+called onLocation: 72, Crack in the Geode Chest 1 Bottom Left
+called onLocation: 73, Crack in the Geode Chest 1 Middle
+called onLocation: 74, Crack in the Geode Chest 1 Top Right
+called onLocation: 75, Crack in the Geode Chest 1 Bottom Right
+called onLocation: 76, Crack in the Geode Chest 2 Top Left
+called onLocation: 77, Crack in the Geode Chest 2 Bottom Left
+called onLocation: 78, Crack in the Geode Chest 2 Middle
+called onLocation: 79, Crack in the Geode Chest 2 Top Right
+called onLocation: 80, Crack in the Geode Chest 2 Bottom Right
+called onLocation: 81, Scholar's Nest Chest Top Left
+called onLocation: 82, Scholar's Nest Chest Bottom Left
+called onLocation: 83, Scholar's Nest Chest Middle
+called onLocation: 84, Scholar's Nest Chest Top Right
+called onLocation: 85, Scholar's Nest Chest Bottom Right
+called onLocation: 86, King's Arsenal Chest Top Left
+called onLocation: 87, King's Arsenal Chest Bottom Left
+called onLocation: 88, King's Arsenal Chest Middle
+called onLocation: 89, King's Arsenal Chest Top Right
+called onLocation: 90, King's Arsenal Chest Bottom Right
+called onLocation: 91, Red Darkhouse Chest Top Left
+called onLocation: 92, Red Darkhouse Chest Bottom Left
+called onLocation: 93, Red Darkhouse Chest Middle
+called onLocation: 94, Red Darkhouse Chest Top Right
+called onLocation: 95, Red Darkhouse Chest Bottom Right
+called onLocation: 96, Churchmouse Streets Chest Top Left
+called onLocation: 97, Churchmouse Streets Chest Bottom Left
+called onLocation: 98, Churchmouse Streets Chest Middle
+called onLocation: 99, Churchmouse Streets Chest Top Right
+called onLocation: 100, Churchmouse Streets Chest Bottom Right
+called onLocation: 101, Emerald Lakeside Chest Top Left
+called onLocation: 102, Emerald Lakeside Chest Bottom Left
+called onLocation: 103, Emerald Lakeside Chest Middle
+called onLocation: 104, Emerald Lakeside Chest Top Right
+called onLocation: 105, Emerald Lakeside Chest Bottom Right
+called onLocation: 106, Darkhouse Depths Chest Top Left
+called onLocation: 107, Darkhouse Depths Chest Bottom Left
+called onLocation: 108, Darkhouse Depths Chest Middle
+called onLocation: 109, Darkhouse Depths Chest Top Right
+called onLocation: 110, Darkhouse Depths Chest Bottom Right
+called onLocation: 111, Atelier Aurum Chest Top Left
+called onLocation: 112, Atelier Aurum Chest Bottom Left
+called onLocation: 113, Atelier Aurum Chest Middle
+called onLocation: 114, Atelier Aurum Chest Top Right
+called onLocation: 115, Atelier Aurum Chest Bottom Right
+called onLocation: 116, Subterra Sanctum Chest Top Left
+called onLocation: 117, Subterra Sanctum Chest Bottom Left
+called onLocation: 118, Subterra Sanctum Chest Middle
+called onLocation: 119, Subterra Sanctum Chest Top Right
+called onLocation: 120, Subterra Sanctum Chest Bottom Right
+called onLocation: 121, The Pale Keep Chest Top Left
+called onLocation: 122, The Pale Keep Chest Bottom Left
+called onLocation: 123, The Pale Keep Chest Middle
+called onLocation: 124, The Pale Keep Chest Top Right
+called onLocation: 125, The Pale Keep Chest Bottom Right
+called onLocation: 126, Looping Hallway Chest Top Left
+called onLocation: 127, Looping Hallway Chest Bottom Left
+called onLocation: 128, Looping Hallway Chest Middle
+called onLocation: 129, Looping Hallway Chest Top Right
+called onLocation: 130, Looping Hallway Chest Bottom Right
+called onLocation: 131, Kingdom Outskirts Battle 1 - Wizard
+called onLocation: 132, Kingdom Outskirts Chest 1 - Wizard
+called onLocation: 133, Kingdom Outskirts Battle 2 - Wizard
+called onLocation: 134, Kingdom Outskirts Chest 2 - Wizard
+called onLocation: 135, Kingdom Outskirts Battle 3 - Wizard
+called onLocation: 136, Crack in the Geode Battle 1 - Wizard
+called onLocation: 137, Crack in the Geode Chest 1 - Wizard
+called onLocation: 138, Crack in the Geode Battle 2 - Wizard
+called onLocation: 139, Crack in the Geode Chest 2 - Wizard
+called onLocation: 140, Crack in the Geode Battle 3 - Wizard
+called onLocation: 141, Scholar's Nest Battle 1 - Wizard
+called onLocation: 142, Scholar's Nest Battle 2 - Wizard
+called onLocation: 143, Scholar's Nest Battle 3 - Wizard
+called onLocation: 144, Scholar's Nest Chest - Wizard
+called onLocation: 145, Scholar's Nest Boss - Wizard
+called onLocation: 146, King's Arsenal Battle 1 - Wizard
+called onLocation: 147, King's Arsenal Battle 2 - Wizard
+called onLocation: 148, King's Arsenal Battle 3 - Wizard
+called onLocation: 149, King's Arsenal Chest - Wizard
+called onLocation: 150, King's Arsenal Boss - Wizard
+called onLocation: 151, Red Darkhouse Battle 1 - Wizard
+called onLocation: 152, Red Darkhouse Battle 2 - Wizard
+called onLocation: 153, Red Darkhouse Battle 3 - Wizard
+called onLocation: 154, Red Darkhouse Chest - Wizard
+called onLocation: 155, Red Darkhouse Boss - Wizard
+called onLocation: 156, Churchmouse Streets Battle 1 - Wizard
+called onLocation: 157, Churchmouse Streets Battle 2 - Wizard
+called onLocation: 158, Churchmouse Streets Battle 3 - Wizard
+called onLocation: 159, Churchmouse Streets Chest - Wizard
+called onLocation: 160, Churchmouse Streets Boss - Wizard
+called onLocation: 161, Emerald Lakeside Battle 1 - Wizard
+called onLocation: 162, Emerald Lakeside Battle 2 - Wizard
+called onLocation: 163, Emerald Lakeside Battle 3 - Wizard
+called onLocation: 164, Emerald Lakeside Chest - Wizard
+called onLocation: 165, Emerald Lakeside Boss - Wizard
+called onLocation: 166, Darkhouse Depths Battle 1 - Wizard
+called onLocation: 167, Darkhouse Depths Battle 2 - Wizard
+called onLocation: 168, Darkhouse Depths Battle 3 - Wizard
+called onLocation: 169, Darkhouse Depths Chest - Wizard
+called onLocation: 170, Darkhouse Depths Boss - Wizard
+called onLocation: 171, Atelier Aurum Battle 1 - Wizard
+called onLocation: 172, Atelier Aurum Battle 2 - Wizard
+called onLocation: 173, Atelier Aurum Battle 3 - Wizard
+called onLocation: 174, Atelier Aurum Chest - Wizard
+called onLocation: 175, Atelier Aurum Boss - Wizard
+called onLocation: 176, Subterra Sanctum Battle 1 - Wizard
+called onLocation: 177, Subterra Sanctum Battle 2 - Wizard
+called onLocation: 178, Subterra Sanctum Battle 3 - Wizard
+called onLocation: 179, Subterra Sanctum Chest - Wizard
+called onLocation: 180, Subterra Sanctum Boss - Wizard
+called onLocation: 181, The Pale Keep Battle 1 - Wizard
+called onLocation: 182, The Pale Keep Battle 2 - Wizard
+called onLocation: 183, The Pale Keep Battle 3 - Wizard
+called onLocation: 184, The Pale Keep Chest - Wizard
+called onLocation: 185, Shira - Wizard
+called onLocation: 186, Looping Hallway Battle 1 - Wizard
+called onLocation: 187, Looping Hallway Battle 2 - Wizard
+called onLocation: 188, Looping Hallway Battle 3 - Wizard
+called onLocation: 189, Looping Hallway Chest - Wizard
+called onLocation: 190, Witch - Wizard
+called onLocation: 191, Kingdom Outskirts Battle 1 - Assassin
+called onLocation: 192, Kingdom Outskirts Chest 1 - Assassin
+called onLocation: 193, Kingdom Outskirts Battle 2 - Assassin
+called onLocation: 194, Kingdom Outskirts Chest 2 - Assassin
+called onLocation: 195, Kingdom Outskirts Battle 3 - Assassin
+called onLocation: 196, Crack in the Geode Battle 1 - Assassin
+called onLocation: 197, Crack in the Geode Chest 1 - Assassin
+called onLocation: 198, Crack in the Geode Battle 2 - Assassin
+called onLocation: 199, Crack in the Geode Chest 2 - Assassin
+called onLocation: 200, Crack in the Geode Battle 3 - Assassin
+called onLocation: 201, Scholar's Nest Battle 1 - Assassin
+called onLocation: 202, Scholar's Nest Battle 2 - Assassin
+called onLocation: 203, Scholar's Nest Battle 3 - Assassin
+called onLocation: 204, Scholar's Nest Chest - Assassin
+called onLocation: 205, Scholar's Nest Boss - Assassin
+called onLocation: 206, King's Arsenal Battle 1 - Assassin
+called onLocation: 207, King's Arsenal Battle 2 - Assassin
+called onLocation: 208, King's Arsenal Battle 3 - Assassin
+called onLocation: 209, King's Arsenal Chest - Assassin
+called onLocation: 210, King's Arsenal Boss - Assassin
+called onLocation: 211, Red Darkhouse Battle 1 - Assassin
+called onLocation: 212, Red Darkhouse Battle 2 - Assassin
+called onLocation: 213, Red Darkhouse Battle 3 - Assassin
+called onLocation: 214, Red Darkhouse Chest - Assassin
+called onLocation: 215, Red Darkhouse Boss - Assassin
+called onLocation: 216, Churchmouse Streets Battle 1 - Assassin
+called onLocation: 217, Churchmouse Streets Battle 2 - Assassin
+called onLocation: 218, Churchmouse Streets Battle 3 - Assassin
+called onLocation: 219, Churchmouse Streets Chest - Assassin
+called onLocation: 220, Churchmouse Streets Boss - Assassin
+called onLocation: 221, Emerald Lakeside Battle 1 - Assassin
+called onLocation: 222, Emerald Lakeside Battle 2 - Assassin
+called onLocation: 223, Emerald Lakeside Battle 3 - Assassin
+called onLocation: 224, Emerald Lakeside Chest - Assassin
+called onLocation: 225, Emerald Lakeside Boss - Assassin
+called onLocation: 226, Darkhouse Depths Battle 1 - Assassin
+called onLocation: 227, Darkhouse Depths Battle 2 - Assassin
+called onLocation: 228, Darkhouse Depths Battle 3 - Assassin
+called onLocation: 229, Darkhouse Depths Chest - Assassin
+called onLocation: 230, Darkhouse Depths Boss - Assassin
+called onLocation: 231, Atelier Aurum Battle 1 - Assassin
+called onLocation: 232, Atelier Aurum Battle 2 - Assassin
+called onLocation: 233, Atelier Aurum Battle 3 - Assassin
+called onLocation: 234, Atelier Aurum Chest - Assassin
+called onLocation: 235, Atelier Aurum Boss - Assassin
+called onLocation: 236, Subterra Sanctum Battle 1 - Assassin
+called onLocation: 237, Subterra Sanctum Battle 2 - Assassin
+called onLocation: 238, Subterra Sanctum Battle 3 - Assassin
+called onLocation: 239, Subterra Sanctum Chest - Assassin
+called onLocation: 240, Subterra Sanctum Boss - Assassin
+called onLocation: 241, The Pale Keep Battle 1 - Assassin
+called onLocation: 242, The Pale Keep Battle 2 - Assassin
+called onLocation: 243, The Pale Keep Battle 3 - Assassin
+called onLocation: 244, The Pale Keep Chest - Assassin
+called onLocation: 245, Shira - Assassin
+called onLocation: 246, Looping Hallway Battle 1 - Assassin
+called onLocation: 247, Looping Hallway Battle 2 - Assassin
+called onLocation: 248, Looping Hallway Battle 3 - Assassin
+called onLocation: 249, Looping Hallway Chest - Assassin
+called onLocation: 250, Witch - Assassin
+called onLocation: 251, Kingdom Outskirts Battle 1 - Heavyblade
+called onLocation: 252, Kingdom Outskirts Chest 1 - Heavyblade
+called onLocation: 253, Kingdom Outskirts Battle 2 - Heavyblade
+called onLocation: 254, Kingdom Outskirts Chest 2 - Heavyblade
+called onLocation: 255, Kingdom Outskirts Battle 3 - Heavyblade
+called onLocation: 256, Crack in the Geode Battle 1 - Heavyblade
+called onLocation: 257, Crack in the Geode Chest 1 - Heavyblade
+called onLocation: 258, Crack in the Geode Battle 2 - Heavyblade
+called onLocation: 259, Crack in the Geode Chest 2 - Heavyblade
+called onLocation: 260, Crack in the Geode Battle 3 - Heavyblade
+called onLocation: 261, Scholar's Nest Battle 1 - Heavyblade
+called onLocation: 262, Scholar's Nest Battle 2 - Heavyblade
+called onLocation: 263, Scholar's Nest Battle 3 - Heavyblade
+called onLocation: 264, Scholar's Nest Chest - Heavyblade
+called onLocation: 265, Scholar's Nest Boss - Heavyblade
+called onLocation: 266, King's Arsenal Battle 1 - Heavyblade
+called onLocation: 267, King's Arsenal Battle 2 - Heavyblade
+called onLocation: 268, King's Arsenal Battle 3 - Heavyblade
+called onLocation: 269, King's Arsenal Chest - Heavyblade
+called onLocation: 270, King's Arsenal Boss - Heavyblade
+called onLocation: 271, Red Darkhouse Battle 1 - Heavyblade
+called onLocation: 272, Red Darkhouse Battle 2 - Heavyblade
+called onLocation: 273, Red Darkhouse Battle 3 - Heavyblade
+called onLocation: 274, Red Darkhouse Chest - Heavyblade
+called onLocation: 275, Red Darkhouse Boss - Heavyblade
+called onLocation: 276, Churchmouse Streets Battle 1 - Heavyblade
+called onLocation: 277, Churchmouse Streets Battle 2 - Heavyblade
+called onLocation: 278, Churchmouse Streets Battle 3 - Heavyblade
+called onLocation: 279, Churchmouse Streets Chest - Heavyblade
+called onLocation: 280, Churchmouse Streets Boss - Heavyblade
+called onLocation: 281, Emerald Lakeside Battle 1 - Heavyblade
+called onLocation: 282, Emerald Lakeside Battle 2 - Heavyblade
+called onLocation: 283, Emerald Lakeside Battle 3 - Heavyblade
+called onLocation: 284, Emerald Lakeside Chest - Heavyblade
+called onLocation: 285, Emerald Lakeside Boss - Heavyblade
+called onLocation: 286, Darkhouse Depths Battle 1 - Heavyblade
+called onLocation: 287, Darkhouse Depths Battle 2 - Heavyblade
+called onLocation: 288, Darkhouse Depths Battle 3 - Heavyblade
+called onLocation: 289, Darkhouse Depths Chest - Heavyblade
+called onLocation: 290, Darkhouse Depths Boss - Heavyblade
+called onLocation: 291, Atelier Aurum Battle 1 - Heavyblade
+called onLocation: 292, Atelier Aurum Battle 2 - Heavyblade
+called onLocation: 293, Atelier Aurum Battle 3 - Heavyblade
+called onLocation: 294, Atelier Aurum Chest - Heavyblade
+called onLocation: 295, Atelier Aurum Boss - Heavyblade
+called onLocation: 296, Subterra Sanctum Battle 1 - Heavyblade
+called onLocation: 297, Subterra Sanctum Battle 2 - Heavyblade
+called onLocation: 298, Subterra Sanctum Battle 3 - Heavyblade
+called onLocation: 299, Subterra Sanctum Chest - Heavyblade
+called onLocation: 300, Subterra Sanctum Boss - Heavyblade
+called onLocation: 301, The Pale Keep Battle 1 - Heavyblade
+called onLocation: 302, The Pale Keep Battle 2 - Heavyblade
+called onLocation: 303, The Pale Keep Battle 3 - Heavyblade
+called onLocation: 304, The Pale Keep Chest - Heavyblade
+called onLocation: 305, Shira - Heavyblade
+called onLocation: 306, Looping Hallway Battle 1 - Heavyblade
+called onLocation: 307, Looping Hallway Battle 2 - Heavyblade
+called onLocation: 308, Looping Hallway Battle 3 - Heavyblade
+called onLocation: 309, Looping Hallway Chest - Heavyblade
+called onLocation: 310, Witch - Heavyblade
+called onLocation: 311, Kingdom Outskirts Battle 1 - Dancer
+called onLocation: 312, Kingdom Outskirts Chest 1 - Dancer
+called onLocation: 313, Kingdom Outskirts Battle 2 - Dancer
+called onLocation: 314, Kingdom Outskirts Chest 2 - Dancer
+called onLocation: 315, Kingdom Outskirts Battle 3 - Dancer
+called onLocation: 316, Crack in the Geode Battle 1 - Dancer
+called onLocation: 317, Crack in the Geode Chest 1 - Dancer
+called onLocation: 318, Crack in the Geode Battle 2 - Dancer
+called onLocation: 319, Crack in the Geode Chest 2 - Dancer
+called onLocation: 320, Crack in the Geode Battle 3 - Dancer
+called onLocation: 321, Scholar's Nest Battle 1 - Dancer
+called onLocation: 322, Scholar's Nest Battle 2 - Dancer
+called onLocation: 323, Scholar's Nest Battle 3 - Dancer
+called onLocation: 324, Scholar's Nest Chest - Dancer
+called onLocation: 325, Scholar's Nest Boss - Dancer
+called onLocation: 326, King's Arsenal Battle 1 - Dancer
+called onLocation: 327, King's Arsenal Battle 2 - Dancer
+called onLocation: 328, King's Arsenal Battle 3 - Dancer
+called onLocation: 329, King's Arsenal Chest - Dancer
+called onLocation: 330, King's Arsenal Boss - Dancer
+called onLocation: 331, Red Darkhouse Battle 1 - Dancer
+called onLocation: 332, Red Darkhouse Battle 2 - Dancer
+called onLocation: 333, Red Darkhouse Battle 3 - Dancer
+called onLocation: 334, Red Darkhouse Chest - Dancer
+called onLocation: 335, Red Darkhouse Boss - Dancer
+called onLocation: 336, Churchmouse Streets Battle 1 - Dancer
+called onLocation: 337, Churchmouse Streets Battle 2 - Dancer
+called onLocation: 338, Churchmouse Streets Battle 3 - Dancer
+called onLocation: 339, Churchmouse Streets Chest - Dancer
+called onLocation: 340, Churchmouse Streets Boss - Dancer
+called onLocation: 341, Emerald Lakeside Battle 1 - Dancer
+called onLocation: 342, Emerald Lakeside Battle 2 - Dancer
+called onLocation: 343, Emerald Lakeside Battle 3 - Dancer
+called onLocation: 344, Emerald Lakeside Chest - Dancer
+called onLocation: 345, Emerald Lakeside Boss - Dancer
+called onLocation: 346, Darkhouse Depths Battle 1 - Dancer
+called onLocation: 347, Darkhouse Depths Battle 2 - Dancer
+called onLocation: 348, Darkhouse Depths Battle 3 - Dancer
+called onLocation: 349, Darkhouse Depths Chest - Dancer
+called onLocation: 350, Darkhouse Depths Boss - Dancer
+called onLocation: 351, Atelier Aurum Battle 1 - Dancer
+called onLocation: 352, Atelier Aurum Battle 2 - Dancer
+called onLocation: 353, Atelier Aurum Battle 3 - Dancer
+called onLocation: 354, Atelier Aurum Chest - Dancer
+called onLocation: 355, Atelier Aurum Boss - Dancer
+called onLocation: 356, Subterra Sanctum Battle 1 - Dancer
+called onLocation: 357, Subterra Sanctum Battle 2 - Dancer
+called onLocation: 358, Subterra Sanctum Battle 3 - Dancer
+called onLocation: 359, Subterra Sanctum Chest - Dancer
+called onLocation: 360, Subterra Sanctum Boss - Dancer
+called onLocation: 361, The Pale Keep Battle 1 - Dancer
+called onLocation: 362, The Pale Keep Battle 2 - Dancer
+called onLocation: 363, The Pale Keep Battle 3 - Dancer
+called onLocation: 364, The Pale Keep Chest - Dancer
+called onLocation: 365, Shira - Dancer
+called onLocation: 366, Looping Hallway Battle 1 - Dancer
+called onLocation: 367, Looping Hallway Battle 2 - Dancer
+called onLocation: 368, Looping Hallway Battle 3 - Dancer
+called onLocation: 369, Looping Hallway Chest - Dancer
+called onLocation: 370, Witch - Dancer
+called onLocation: 371, Kingdom Outskirts Battle 1 - Druid
+called onLocation: 372, Kingdom Outskirts Chest 1 - Druid
+called onLocation: 373, Kingdom Outskirts Battle 2 - Druid
+called onLocation: 374, Kingdom Outskirts Chest 2 - Druid
+called onLocation: 375, Kingdom Outskirts Battle 3 - Druid
+called onLocation: 376, Crack in the Geode Battle 1 - Druid
+called onLocation: 377, Crack in the Geode Chest 1 - Druid
+called onLocation: 378, Crack in the Geode Battle 2 - Druid
+called onLocation: 379, Crack in the Geode Chest 2 - Druid
+called onLocation: 380, Crack in the Geode Battle 3 - Druid
+called onLocation: 381, Scholar's Nest Battle 1 - Druid
+called onLocation: 382, Scholar's Nest Battle 2 - Druid
+called onLocation: 383, Scholar's Nest Battle 3 - Druid
+called onLocation: 384, Scholar's Nest Chest - Druid
+called onLocation: 385, Scholar's Nest Boss - Druid
+called onLocation: 386, King's Arsenal Battle 1 - Druid
+called onLocation: 387, King's Arsenal Battle 2 - Druid
+called onLocation: 388, King's Arsenal Battle 3 - Druid
+called onLocation: 389, King's Arsenal Chest - Druid
+called onLocation: 390, King's Arsenal Boss - Druid
+called onLocation: 391, Red Darkhouse Battle 1 - Druid
+called onLocation: 392, Red Darkhouse Battle 2 - Druid
+called onLocation: 393, Red Darkhouse Battle 3 - Druid
+called onLocation: 394, Red Darkhouse Chest - Druid
+called onLocation: 395, Red Darkhouse Boss - Druid
+called onLocation: 396, Churchmouse Streets Battle 1 - Druid
+called onLocation: 397, Churchmouse Streets Battle 2 - Druid
+called onLocation: 398, Churchmouse Streets Battle 3 - Druid
+called onLocation: 399, Churchmouse Streets Chest - Druid
+called onLocation: 400, Churchmouse Streets Boss - Druid
+called onLocation: 401, Emerald Lakeside Battle 1 - Druid
+called onLocation: 402, Emerald Lakeside Battle 2 - Druid
+called onLocation: 403, Emerald Lakeside Battle 3 - Druid
+called onLocation: 404, Emerald Lakeside Chest - Druid
+called onLocation: 405, Emerald Lakeside Boss - Druid
+called onLocation: 406, Darkhouse Depths Battle 1 - Druid
+called onLocation: 407, Darkhouse Depths Battle 2 - Druid
+called onLocation: 408, Darkhouse Depths Battle 3 - Druid
+called onLocation: 409, Darkhouse Depths Chest - Druid
+called onLocation: 410, Darkhouse Depths Boss - Druid
+called onLocation: 411, Atelier Aurum Battle 1 - Druid
+called onLocation: 412, Atelier Aurum Battle 2 - Druid
+called onLocation: 413, Atelier Aurum Battle 3 - Druid
+called onLocation: 414, Atelier Aurum Chest - Druid
+called onLocation: 415, Atelier Aurum Boss - Druid
+called onLocation: 416, Subterra Sanctum Battle 1 - Druid
+called onLocation: 417, Subterra Sanctum Battle 2 - Druid
+called onLocation: 418, Subterra Sanctum Battle 3 - Druid
+called onLocation: 419, Subterra Sanctum Chest - Druid
+called onLocation: 420, Subterra Sanctum Boss - Druid
+called onLocation: 421, The Pale Keep Battle 1 - Druid
+called onLocation: 422, The Pale Keep Battle 2 - Druid
+called onLocation: 423, The Pale Keep Battle 3 - Druid
+called onLocation: 424, The Pale Keep Chest - Druid
+called onLocation: 425, Shira - Druid
+called onLocation: 426, Looping Hallway Battle 1 - Druid
+called onLocation: 427, Looping Hallway Battle 2 - Druid
+called onLocation: 428, Looping Hallway Battle 3 - Druid
+called onLocation: 429, Looping Hallway Chest - Druid
+called onLocation: 430, Witch - Druid
+called onLocation: 431, Kingdom Outskirts Battle 1 - Spellsword
+called onLocation: 432, Kingdom Outskirts Chest 1 - Spellsword
+called onLocation: 433, Kingdom Outskirts Battle 2 - Spellsword
+called onLocation: 434, Kingdom Outskirts Chest 2 - Spellsword
+called onLocation: 435, Kingdom Outskirts Battle 3 - Spellsword
+called onLocation: 436, Crack in the Geode Battle 1 - Spellsword
+called onLocation: 437, Crack in the Geode Chest 1 - Spellsword
+called onLocation: 438, Crack in the Geode Battle 2 - Spellsword
+called onLocation: 439, Crack in the Geode Chest 2 - Spellsword
+called onLocation: 440, Crack in the Geode Battle 3 - Spellsword
+called onLocation: 441, Scholar's Nest Battle 1 - Spellsword
+called onLocation: 442, Scholar's Nest Battle 2 - Spellsword
+called onLocation: 443, Scholar's Nest Battle 3 - Spellsword
+called onLocation: 444, Scholar's Nest Chest - Spellsword
+called onLocation: 445, Scholar's Nest Boss - Spellsword
+called onLocation: 446, King's Arsenal Battle 1 - Spellsword
+called onLocation: 447, King's Arsenal Battle 2 - Spellsword
+called onLocation: 448, King's Arsenal Battle 3 - Spellsword
+called onLocation: 449, King's Arsenal Chest - Spellsword
+called onLocation: 450, King's Arsenal Boss - Spellsword
+called onLocation: 451, Red Darkhouse Battle 1 - Spellsword
+called onLocation: 452, Red Darkhouse Battle 2 - Spellsword
+called onLocation: 453, Red Darkhouse Battle 3 - Spellsword
+called onLocation: 454, Red Darkhouse Chest - Spellsword
+called onLocation: 455, Red Darkhouse Boss - Spellsword
+called onLocation: 456, Churchmouse Streets Battle 1 - Spellsword
+called onLocation: 457, Churchmouse Streets Battle 2 - Spellsword
+called onLocation: 458, Churchmouse Streets Battle 3 - Spellsword
+called onLocation: 459, Churchmouse Streets Chest - Spellsword
+called onLocation: 460, Churchmouse Streets Boss - Spellsword
+called onLocation: 461, Emerald Lakeside Battle 1 - Spellsword
+called onLocation: 462, Emerald Lakeside Battle 2 - Spellsword
+called onLocation: 463, Emerald Lakeside Battle 3 - Spellsword
+called onLocation: 464, Emerald Lakeside Chest - Spellsword
+called onLocation: 465, Emerald Lakeside Boss - Spellsword
+called onLocation: 466, Darkhouse Depths Battle 1 - Spellsword
+called onLocation: 467, Darkhouse Depths Battle 2 - Spellsword
+called onLocation: 468, Darkhouse Depths Battle 3 - Spellsword
+called onLocation: 469, Darkhouse Depths Chest - Spellsword
+called onLocation: 470, Darkhouse Depths Boss - Spellsword
+called onLocation: 471, Atelier Aurum Battle 1 - Spellsword
+called onLocation: 472, Atelier Aurum Battle 2 - Spellsword
+called onLocation: 473, Atelier Aurum Battle 3 - Spellsword
+called onLocation: 474, Atelier Aurum Chest - Spellsword
+called onLocation: 475, Atelier Aurum Boss - Spellsword
+called onLocation: 476, Subterra Sanctum Battle 1 - Spellsword
+called onLocation: 477, Subterra Sanctum Battle 2 - Spellsword
+called onLocation: 478, Subterra Sanctum Battle 3 - Spellsword
+called onLocation: 479, Subterra Sanctum Chest - Spellsword
+called onLocation: 480, Subterra Sanctum Boss - Spellsword
+called onLocation: 481, The Pale Keep Battle 1 - Spellsword
+called onLocation: 482, The Pale Keep Battle 2 - Spellsword
+called onLocation: 483, The Pale Keep Battle 3 - Spellsword
+called onLocation: 484, The Pale Keep Chest - Spellsword
+called onLocation: 485, Shira - Spellsword
+called onLocation: 486, Looping Hallway Battle 1 - Spellsword
+called onLocation: 487, Looping Hallway Battle 2 - Spellsword
+called onLocation: 488, Looping Hallway Battle 3 - Spellsword
+called onLocation: 489, Looping Hallway Chest - Spellsword
+called onLocation: 490, Witch - Spellsword
+called onLocation: 491, Kingdom Outskirts Battle 1 - Sniper
+called onLocation: 492, Kingdom Outskirts Chest 1 - Sniper
+called onLocation: 493, Kingdom Outskirts Battle 2 - Sniper
+called onLocation: 494, Kingdom Outskirts Chest 2 - Sniper
+called onLocation: 495, Kingdom Outskirts Battle 3 - Sniper
+called onLocation: 496, Crack in the Geode Battle 1 - Sniper
+called onLocation: 497, Crack in the Geode Chest 1 - Sniper
+called onLocation: 498, Crack in the Geode Battle 2 - Sniper
+called onLocation: 499, Crack in the Geode Chest 2 - Sniper
+called onLocation: 500, Crack in the Geode Battle 3 - Sniper
+called onLocation: 501, Scholar's Nest Battle 1 - Sniper
+called onLocation: 502, Scholar's Nest Battle 2 - Sniper
+called onLocation: 503, Scholar's Nest Battle 3 - Sniper
+called onLocation: 504, Scholar's Nest Chest - Sniper
+called onLocation: 505, Scholar's Nest Boss - Sniper
+called onLocation: 506, King's Arsenal Battle 1 - Sniper
+called onLocation: 507, King's Arsenal Battle 2 - Sniper
+called onLocation: 508, King's Arsenal Battle 3 - Sniper
+called onLocation: 509, King's Arsenal Chest - Sniper
+called onLocation: 510, King's Arsenal Boss - Sniper
+called onLocation: 511, Red Darkhouse Battle 1 - Sniper
+called onLocation: 512, Red Darkhouse Battle 2 - Sniper
+called onLocation: 513, Red Darkhouse Battle 3 - Sniper
+called onLocation: 514, Red Darkhouse Chest - Sniper
+called onLocation: 515, Red Darkhouse Boss - Sniper
+called onLocation: 516, Churchmouse Streets Battle 1 - Sniper
+called onLocation: 517, Churchmouse Streets Battle 2 - Sniper
+called onLocation: 518, Churchmouse Streets Battle 3 - Sniper
+called onLocation: 519, Churchmouse Streets Chest - Sniper
+called onLocation: 520, Churchmouse Streets Boss - Sniper
+called onLocation: 521, Emerald Lakeside Battle 1 - Sniper
+called onLocation: 522, Emerald Lakeside Battle 2 - Sniper
+called onLocation: 523, Emerald Lakeside Battle 3 - Sniper
+called onLocation: 524, Emerald Lakeside Chest - Sniper
+called onLocation: 525, Emerald Lakeside Boss - Sniper
+called onLocation: 526, Darkhouse Depths Battle 1 - Sniper
+called onLocation: 527, Darkhouse Depths Battle 2 - Sniper
+called onLocation: 528, Darkhouse Depths Battle 3 - Sniper
+called onLocation: 529, Darkhouse Depths Chest - Sniper
+called onLocation: 530, Darkhouse Depths Boss - Sniper
+called onLocation: 531, Atelier Aurum Battle 1 - Sniper
+called onLocation: 532, Atelier Aurum Battle 2 - Sniper
+called onLocation: 533, Atelier Aurum Battle 3 - Sniper
+called onLocation: 534, Atelier Aurum Chest - Sniper
+called onLocation: 535, Atelier Aurum Boss - Sniper
+called onLocation: 536, Subterra Sanctum Battle 1 - Sniper
+called onLocation: 537, Subterra Sanctum Battle 2 - Sniper
+called onLocation: 538, Subterra Sanctum Battle 3 - Sniper
+called onLocation: 539, Subterra Sanctum Chest - Sniper
+called onLocation: 540, Subterra Sanctum Boss - Sniper
+called onLocation: 541, The Pale Keep Battle 1 - Sniper
+called onLocation: 542, The Pale Keep Battle 2 - Sniper
+called onLocation: 543, The Pale Keep Battle 3 - Sniper
+called onLocation: 544, The Pale Keep Chest - Sniper
+called onLocation: 545, Shira - Sniper
+called onLocation: 546, Looping Hallway Battle 1 - Sniper
+called onLocation: 547, Looping Hallway Battle 2 - Sniper
+called onLocation: 548, Looping Hallway Battle 3 - Sniper
+called onLocation: 549, Looping Hallway Chest - Sniper
+called onLocation: 550, Witch - Sniper
+called onLocation: 551, Kingdom Outskirts Battle 1 - Bruiser
+called onLocation: 552, Kingdom Outskirts Chest 1 - Bruiser
+called onLocation: 553, Kingdom Outskirts Battle 2 - Bruiser
+called onLocation: 554, Kingdom Outskirts Chest 2 - Bruiser
+called onLocation: 555, Kingdom Outskirts Battle 3 - Bruiser
+called onLocation: 556, Crack in the Geode Battle 1 - Bruiser
+called onLocation: 557, Crack in the Geode Chest 1 - Bruiser
+called onLocation: 558, Crack in the Geode Battle 2 - Bruiser
+called onLocation: 559, Crack in the Geode Chest 2 - Bruiser
+called onLocation: 560, Crack in the Geode Battle 3 - Bruiser
+called onLocation: 561, Scholar's Nest Battle 1 - Bruiser
+called onLocation: 562, Scholar's Nest Battle 2 - Bruiser
+called onLocation: 563, Scholar's Nest Battle 3 - Bruiser
+called onLocation: 564, Scholar's Nest Chest - Bruiser
+called onLocation: 565, Scholar's Nest Boss - Bruiser
+called onLocation: 566, King's Arsenal Battle 1 - Bruiser
+called onLocation: 567, King's Arsenal Battle 2 - Bruiser
+called onLocation: 568, King's Arsenal Battle 3 - Bruiser
+called onLocation: 569, King's Arsenal Chest - Bruiser
+called onLocation: 570, King's Arsenal Boss - Bruiser
+called onLocation: 571, Red Darkhouse Battle 1 - Bruiser
+called onLocation: 572, Red Darkhouse Battle 2 - Bruiser
+called onLocation: 573, Red Darkhouse Battle 3 - Bruiser
+called onLocation: 574, Red Darkhouse Chest - Bruiser
+called onLocation: 575, Red Darkhouse Boss - Bruiser
+called onLocation: 576, Churchmouse Streets Battle 1 - Bruiser
+called onLocation: 577, Churchmouse Streets Battle 2 - Bruiser
+called onLocation: 578, Churchmouse Streets Battle 3 - Bruiser
+called onLocation: 579, Churchmouse Streets Chest - Bruiser
+called onLocation: 580, Churchmouse Streets Boss - Bruiser
+called onLocation: 581, Emerald Lakeside Battle 1 - Bruiser
+called onLocation: 582, Emerald Lakeside Battle 2 - Bruiser
+called onLocation: 583, Emerald Lakeside Battle 3 - Bruiser
+called onLocation: 584, Emerald Lakeside Chest - Bruiser
+called onLocation: 585, Emerald Lakeside Boss - Bruiser
+called onLocation: 586, Darkhouse Depths Battle 1 - Bruiser
+called onLocation: 587, Darkhouse Depths Battle 2 - Bruiser
+called onLocation: 588, Darkhouse Depths Battle 3 - Bruiser
+called onLocation: 589, Darkhouse Depths Chest - Bruiser
+called onLocation: 590, Darkhouse Depths Boss - Bruiser
+called onLocation: 591, Atelier Aurum Battle 1 - Bruiser
+called onLocation: 592, Atelier Aurum Battle 2 - Bruiser
+called onLocation: 593, Atelier Aurum Battle 3 - Bruiser
+called onLocation: 594, Atelier Aurum Chest - Bruiser
+called onLocation: 595, Atelier Aurum Boss - Bruiser
+called onLocation: 596, Subterra Sanctum Battle 1 - Bruiser
+called onLocation: 597, Subterra Sanctum Battle 2 - Bruiser
+called onLocation: 598, Subterra Sanctum Battle 3 - Bruiser
+called onLocation: 599, Subterra Sanctum Chest - Bruiser
+called onLocation: 600, Subterra Sanctum Boss - Bruiser
+called onLocation: 601, The Pale Keep Battle 1 - Bruiser
+called onLocation: 602, The Pale Keep Battle 2 - Bruiser
+called onLocation: 603, The Pale Keep Battle 3 - Bruiser
+called onLocation: 604, The Pale Keep Chest - Bruiser
+called onLocation: 605, Shira - Bruiser
+called onLocation: 606, Looping Hallway Battle 1 - Bruiser
+called onLocation: 607, Looping Hallway Battle 2 - Bruiser
+called onLocation: 608, Looping Hallway Battle 3 - Bruiser
+called onLocation: 609, Looping Hallway Chest - Bruiser
+called onLocation: 610, Witch - Bruiser
+called onLocation: 611, Kingdom Outskirts Battle 1 - Defender
+called onLocation: 612, Kingdom Outskirts Chest 1 - Defender
+called onLocation: 613, Kingdom Outskirts Battle 2 - Defender
+called onLocation: 614, Kingdom Outskirts Chest 2 - Defender
+called onLocation: 615, Kingdom Outskirts Battle 3 - Defender
+called onLocation: 616, Crack in the Geode Battle 1 - Defender
+called onLocation: 617, Crack in the Geode Chest 1 - Defender
+called onLocation: 618, Crack in the Geode Battle 2 - Defender
+called onLocation: 619, Crack in the Geode Chest 2 - Defender
+called onLocation: 620, Crack in the Geode Battle 3 - Defender
+called onLocation: 621, Scholar's Nest Battle 1 - Defender
+called onLocation: 622, Scholar's Nest Battle 2 - Defender
+called onLocation: 623, Scholar's Nest Battle 3 - Defender
+called onLocation: 624, Scholar's Nest Chest - Defender
+called onLocation: 625, Scholar's Nest Boss - Defender
+called onLocation: 626, King's Arsenal Battle 1 - Defender
+called onLocation: 627, King's Arsenal Battle 2 - Defender
+called onLocation: 628, King's Arsenal Battle 3 - Defender
+called onLocation: 629, King's Arsenal Chest - Defender
+called onLocation: 630, King's Arsenal Boss - Defender
+called onLocation: 631, Red Darkhouse Battle 1 - Defender
+called onLocation: 632, Red Darkhouse Battle 2 - Defender
+called onLocation: 633, Red Darkhouse Battle 3 - Defender
+called onLocation: 634, Red Darkhouse Chest - Defender
+called onLocation: 635, Red Darkhouse Boss - Defender
+called onLocation: 636, Churchmouse Streets Battle 1 - Defender
+called onLocation: 637, Churchmouse Streets Battle 2 - Defender
+called onLocation: 638, Churchmouse Streets Battle 3 - Defender
+called onLocation: 639, Churchmouse Streets Chest - Defender
+called onLocation: 640, Churchmouse Streets Boss - Defender
+called onLocation: 641, Emerald Lakeside Battle 1 - Defender
+called onLocation: 642, Emerald Lakeside Battle 2 - Defender
+called onLocation: 643, Emerald Lakeside Battle 3 - Defender
+called onLocation: 644, Emerald Lakeside Chest - Defender
+called onLocation: 645, Emerald Lakeside Boss - Defender
+called onLocation: 646, Darkhouse Depths Battle 1 - Defender
+called onLocation: 647, Darkhouse Depths Battle 2 - Defender
+called onLocation: 648, Darkhouse Depths Battle 3 - Defender
+called onLocation: 649, Darkhouse Depths Chest - Defender
+called onLocation: 650, Darkhouse Depths Boss - Defender
+called onLocation: 651, Atelier Aurum Battle 1 - Defender
+called onLocation: 652, Atelier Aurum Battle 2 - Defender
+called onLocation: 653, Atelier Aurum Battle 3 - Defender
+called onLocation: 654, Atelier Aurum Chest - Defender
+called onLocation: 655, Atelier Aurum Boss - Defender
+called onLocation: 656, Subterra Sanctum Battle 1 - Defender
+called onLocation: 657, Subterra Sanctum Battle 2 - Defender
+called onLocation: 658, Subterra Sanctum Battle 3 - Defender
+called onLocation: 659, Subterra Sanctum Chest - Defender
+called onLocation: 660, Subterra Sanctum Boss - Defender
+called onLocation: 661, The Pale Keep Battle 1 - Defender
+called onLocation: 662, The Pale Keep Battle 2 - Defender
+called onLocation: 663, The Pale Keep Battle 3 - Defender
+called onLocation: 664, The Pale Keep Chest - Defender
+called onLocation: 665, Shira - Defender
+called onLocation: 666, Looping Hallway Battle 1 - Defender
+called onLocation: 667, Looping Hallway Battle 2 - Defender
+called onLocation: 668, Looping Hallway Battle 3 - Defender
+called onLocation: 669, Looping Hallway Chest - Defender
+called onLocation: 670, Witch - Defender
+called onLocation: 671, Kingdom Outskirts Battle 1 - Ancient
+called onLocation: 672, Kingdom Outskirts Chest 1 - Ancient
+called onLocation: 673, Kingdom Outskirts Battle 2 - Ancient
+called onLocation: 674, Kingdom Outskirts Chest 2 - Ancient
+called onLocation: 675, Kingdom Outskirts Battle 3 - Ancient
+called onLocation: 676, Crack in the Geode Battle 1 - Ancient
+called onLocation: 677, Crack in the Geode Chest 1 - Ancient
+called onLocation: 678, Crack in the Geode Battle 2 - Ancient
+called onLocation: 679, Crack in the Geode Chest 2 - Ancient
+called onLocation: 680, Crack in the Geode Battle 3 - Ancient
+called onLocation: 681, Scholar's Nest Battle 1 - Ancient
+called onLocation: 682, Scholar's Nest Battle 2 - Ancient
+called onLocation: 683, Scholar's Nest Battle 3 - Ancient
+called onLocation: 684, Scholar's Nest Chest - Ancient
+called onLocation: 685, Scholar's Nest Boss - Ancient
+called onLocation: 686, King's Arsenal Battle 1 - Ancient
+called onLocation: 687, King's Arsenal Battle 2 - Ancient
+called onLocation: 688, King's Arsenal Battle 3 - Ancient
+called onLocation: 689, King's Arsenal Chest - Ancient
+called onLocation: 690, King's Arsenal Boss - Ancient
+called onLocation: 691, Red Darkhouse Battle 1 - Ancient
+called onLocation: 692, Red Darkhouse Battle 2 - Ancient
+called onLocation: 693, Red Darkhouse Battle 3 - Ancient
+called onLocation: 694, Red Darkhouse Chest - Ancient
+called onLocation: 695, Red Darkhouse Boss - Ancient
+called onLocation: 696, Churchmouse Streets Battle 1 - Ancient
+called onLocation: 697, Churchmouse Streets Battle 2 - Ancient
+called onLocation: 698, Churchmouse Streets Battle 3 - Ancient
+called onLocation: 699, Churchmouse Streets Chest - Ancient
+called onLocation: 700, Churchmouse Streets Boss - Ancient
+called onLocation: 701, Emerald Lakeside Battle 1 - Ancient
+called onLocation: 702, Emerald Lakeside Battle 2 - Ancient
+called onLocation: 703, Emerald Lakeside Battle 3 - Ancient
+called onLocation: 704, Emerald Lakeside Chest - Ancient
+called onLocation: 705, Emerald Lakeside Boss - Ancient
+called onLocation: 706, Darkhouse Depths Battle 1 - Ancient
+called onLocation: 707, Darkhouse Depths Battle 2 - Ancient
+called onLocation: 708, Darkhouse Depths Battle 3 - Ancient
+called onLocation: 709, Darkhouse Depths Chest - Ancient
+called onLocation: 710, Darkhouse Depths Boss - Ancient
+called onLocation: 711, Atelier Aurum Battle 1 - Ancient
+called onLocation: 712, Atelier Aurum Battle 2 - Ancient
+called onLocation: 713, Atelier Aurum Battle 3 - Ancient
+called onLocation: 714, Atelier Aurum Chest - Ancient
+called onLocation: 715, Atelier Aurum Boss - Ancient
+called onLocation: 716, Subterra Sanctum Battle 1 - Ancient
+called onLocation: 717, Subterra Sanctum Battle 2 - Ancient
+called onLocation: 718, Subterra Sanctum Battle 3 - Ancient
+called onLocation: 719, Subterra Sanctum Chest - Ancient
+called onLocation: 720, Subterra Sanctum Boss - Ancient
+called onLocation: 721, The Pale Keep Battle 1 - Ancient
+called onLocation: 722, The Pale Keep Battle 2 - Ancient
+called onLocation: 723, The Pale Keep Battle 3 - Ancient
+called onLocation: 724, The Pale Keep Chest - Ancient
+called onLocation: 725, Shira - Ancient
+called onLocation: 726, Looping Hallway Battle 1 - Ancient
+called onLocation: 727, Looping Hallway Battle 2 - Ancient
+called onLocation: 728, Looping Hallway Battle 3 - Ancient
+called onLocation: 729, Looping Hallway Chest - Ancient
+called onLocation: 730, Witch - Ancient
+called onLocation: 731, Kingdom Outskirts Battle 1 - Hammermaid
+called onLocation: 732, Kingdom Outskirts Chest 1 - Hammermaid
+called onLocation: 733, Kingdom Outskirts Battle 2 - Hammermaid
+called onLocation: 734, Kingdom Outskirts Chest 2 - Hammermaid
+called onLocation: 735, Kingdom Outskirts Battle 3 - Hammermaid
+called onLocation: 736, Crack in the Geode Battle 1 - Hammermaid
+called onLocation: 737, Crack in the Geode Chest 1 - Hammermaid
+called onLocation: 738, Crack in the Geode Battle 2 - Hammermaid
+called onLocation: 739, Crack in the Geode Chest 2 - Hammermaid
+called onLocation: 740, Crack in the Geode Battle 3 - Hammermaid
+called onLocation: 741, Scholar's Nest Battle 1 - Hammermaid
+called onLocation: 742, Scholar's Nest Battle 2 - Hammermaid
+called onLocation: 743, Scholar's Nest Battle 3 - Hammermaid
+called onLocation: 744, Scholar's Nest Chest - Hammermaid
+called onLocation: 745, Scholar's Nest Boss - Hammermaid
+called onLocation: 746, King's Arsenal Battle 1 - Hammermaid
+called onLocation: 747, King's Arsenal Battle 2 - Hammermaid
+called onLocation: 748, King's Arsenal Battle 3 - Hammermaid
+called onLocation: 749, King's Arsenal Chest - Hammermaid
+called onLocation: 750, King's Arsenal Boss - Hammermaid
+called onLocation: 751, Red Darkhouse Battle 1 - Hammermaid
+called onLocation: 752, Red Darkhouse Battle 2 - Hammermaid
+called onLocation: 753, Red Darkhouse Battle 3 - Hammermaid
+called onLocation: 754, Red Darkhouse Chest - Hammermaid
+called onLocation: 755, Red Darkhouse Boss - Hammermaid
+called onLocation: 756, Churchmouse Streets Battle 1 - Hammermaid
+called onLocation: 757, Churchmouse Streets Battle 2 - Hammermaid
+called onLocation: 758, Churchmouse Streets Battle 3 - Hammermaid
+called onLocation: 759, Churchmouse Streets Chest - Hammermaid
+called onLocation: 760, Churchmouse Streets Boss - Hammermaid
+called onLocation: 761, Emerald Lakeside Battle 1 - Hammermaid
+called onLocation: 762, Emerald Lakeside Battle 2 - Hammermaid
+called onLocation: 763, Emerald Lakeside Battle 3 - Hammermaid
+called onLocation: 764, Emerald Lakeside Chest - Hammermaid
+called onLocation: 765, Emerald Lakeside Boss - Hammermaid
+called onLocation: 766, Darkhouse Depths Battle 1 - Hammermaid
+called onLocation: 767, Darkhouse Depths Battle 2 - Hammermaid
+called onLocation: 768, Darkhouse Depths Battle 3 - Hammermaid
+called onLocation: 769, Darkhouse Depths Chest - Hammermaid
+called onLocation: 770, Darkhouse Depths Boss - Hammermaid
+called onLocation: 771, Atelier Aurum Battle 1 - Hammermaid
+called onLocation: 772, Atelier Aurum Battle 2 - Hammermaid
+called onLocation: 773, Atelier Aurum Battle 3 - Hammermaid
+called onLocation: 774, Atelier Aurum Chest - Hammermaid
+called onLocation: 775, Atelier Aurum Boss - Hammermaid
+called onLocation: 776, Subterra Sanctum Battle 1 - Hammermaid
+called onLocation: 777, Subterra Sanctum Battle 2 - Hammermaid
+called onLocation: 778, Subterra Sanctum Battle 3 - Hammermaid
+called onLocation: 779, Subterra Sanctum Chest - Hammermaid
+called onLocation: 780, Subterra Sanctum Boss - Hammermaid
+called onLocation: 781, The Pale Keep Battle 1 - Hammermaid
+called onLocation: 782, The Pale Keep Battle 2 - Hammermaid
+called onLocation: 783, The Pale Keep Battle 3 - Hammermaid
+called onLocation: 784, The Pale Keep Chest - Hammermaid
+called onLocation: 785, Shira - Hammermaid
+called onLocation: 786, Looping Hallway Battle 1 - Hammermaid
+called onLocation: 787, Looping Hallway Battle 2 - Hammermaid
+called onLocation: 788, Looping Hallway Battle 3 - Hammermaid
+called onLocation: 789, Looping Hallway Chest - Hammermaid
+called onLocation: 790, Witch - Hammermaid
+called onLocation: 791, Kingdom Outskirts Battle 1 - Pyromancer
+called onLocation: 792, Kingdom Outskirts Chest 1 - Pyromancer
+called onLocation: 793, Kingdom Outskirts Battle 2 - Pyromancer
+called onLocation: 794, Kingdom Outskirts Chest 2 - Pyromancer
+called onLocation: 795, Kingdom Outskirts Battle 3 - Pyromancer
+called onLocation: 796, Crack in the Geode Battle 1 - Pyromancer
+called onLocation: 797, Crack in the Geode Chest 1 - Pyromancer
+called onLocation: 798, Crack in the Geode Battle 2 - Pyromancer
+called onLocation: 799, Crack in the Geode Chest 2 - Pyromancer
+called onLocation: 800, Crack in the Geode Battle 3 - Pyromancer
+called onLocation: 801, Scholar's Nest Battle 1 - Pyromancer
+called onLocation: 802, Scholar's Nest Battle 2 - Pyromancer
+called onLocation: 803, Scholar's Nest Battle 3 - Pyromancer
+called onLocation: 804, Scholar's Nest Chest - Pyromancer
+called onLocation: 805, Scholar's Nest Boss - Pyromancer
+called onLocation: 806, King's Arsenal Battle 1 - Pyromancer
+called onLocation: 807, King's Arsenal Battle 2 - Pyromancer
+called onLocation: 808, King's Arsenal Battle 3 - Pyromancer
+called onLocation: 809, King's Arsenal Chest - Pyromancer
+called onLocation: 810, King's Arsenal Boss - Pyromancer
+called onLocation: 811, Red Darkhouse Battle 1 - Pyromancer
+called onLocation: 812, Red Darkhouse Battle 2 - Pyromancer
+called onLocation: 813, Red Darkhouse Battle 3 - Pyromancer
+called onLocation: 814, Red Darkhouse Chest - Pyromancer
+called onLocation: 815, Red Darkhouse Boss - Pyromancer
+called onLocation: 816, Churchmouse Streets Battle 1 - Pyromancer
+called onLocation: 817, Churchmouse Streets Battle 2 - Pyromancer
+called onLocation: 818, Churchmouse Streets Battle 3 - Pyromancer
+called onLocation: 819, Churchmouse Streets Chest - Pyromancer
+called onLocation: 820, Churchmouse Streets Boss - Pyromancer
+called onLocation: 821, Emerald Lakeside Battle 1 - Pyromancer
+called onLocation: 822, Emerald Lakeside Battle 2 - Pyromancer
+called onLocation: 823, Emerald Lakeside Battle 3 - Pyromancer
+called onLocation: 824, Emerald Lakeside Chest - Pyromancer
+called onLocation: 825, Emerald Lakeside Boss - Pyromancer
+called onLocation: 826, Darkhouse Depths Battle 1 - Pyromancer
+called onLocation: 827, Darkhouse Depths Battle 2 - Pyromancer
+called onLocation: 828, Darkhouse Depths Battle 3 - Pyromancer
+called onLocation: 829, Darkhouse Depths Chest - Pyromancer
+called onLocation: 830, Darkhouse Depths Boss - Pyromancer
+called onLocation: 831, Atelier Aurum Battle 1 - Pyromancer
+called onLocation: 832, Atelier Aurum Battle 2 - Pyromancer
+called onLocation: 833, Atelier Aurum Battle 3 - Pyromancer
+called onLocation: 834, Atelier Aurum Chest - Pyromancer
+called onLocation: 835, Atelier Aurum Boss - Pyromancer
+called onLocation: 836, Subterra Sanctum Battle 1 - Pyromancer
+called onLocation: 837, Subterra Sanctum Battle 2 - Pyromancer
+called onLocation: 838, Subterra Sanctum Battle 3 - Pyromancer
+called onLocation: 839, Subterra Sanctum Chest - Pyromancer
+called onLocation: 840, Subterra Sanctum Boss - Pyromancer
+called onLocation: 841, The Pale Keep Battle 1 - Pyromancer
+called onLocation: 842, The Pale Keep Battle 2 - Pyromancer
+called onLocation: 843, The Pale Keep Battle 3 - Pyromancer
+called onLocation: 844, The Pale Keep Chest - Pyromancer
+called onLocation: 845, Shira - Pyromancer
+called onLocation: 846, Looping Hallway Battle 1 - Pyromancer
+called onLocation: 847, Looping Hallway Battle 2 - Pyromancer
+called onLocation: 848, Looping Hallway Battle 3 - Pyromancer
+called onLocation: 849, Looping Hallway Chest - Pyromancer
+called onLocation: 850, Witch - Pyromancer
+called onLocation: 851, Kingdom Outskirts Battle 1 - Grenadier
+called onLocation: 852, Kingdom Outskirts Chest 1 - Grenadier
+called onLocation: 853, Kingdom Outskirts Battle 2 - Grenadier
+called onLocation: 854, Kingdom Outskirts Chest 2 - Grenadier
+called onLocation: 855, Kingdom Outskirts Battle 3 - Grenadier
+called onLocation: 856, Crack in the Geode Battle 1 - Grenadier
+called onLocation: 857, Crack in the Geode Chest 1 - Grenadier
+called onLocation: 858, Crack in the Geode Battle 2 - Grenadier
+called onLocation: 859, Crack in the Geode Chest 2 - Grenadier
+called onLocation: 860, Crack in the Geode Battle 3 - Grenadier
+called onLocation: 861, Scholar's Nest Battle 1 - Grenadier
+called onLocation: 862, Scholar's Nest Battle 2 - Grenadier
+called onLocation: 863, Scholar's Nest Battle 3 - Grenadier
+called onLocation: 864, Scholar's Nest Chest - Grenadier
+called onLocation: 865, Scholar's Nest Boss - Grenadier
+called onLocation: 866, King's Arsenal Battle 1 - Grenadier
+called onLocation: 867, King's Arsenal Battle 2 - Grenadier
+called onLocation: 868, King's Arsenal Battle 3 - Grenadier
+called onLocation: 869, King's Arsenal Chest - Grenadier
+called onLocation: 870, King's Arsenal Boss - Grenadier
+called onLocation: 871, Red Darkhouse Battle 1 - Grenadier
+called onLocation: 872, Red Darkhouse Battle 2 - Grenadier
+called onLocation: 873, Red Darkhouse Battle 3 - Grenadier
+called onLocation: 874, Red Darkhouse Chest - Grenadier
+called onLocation: 875, Red Darkhouse Boss - Grenadier
+called onLocation: 876, Churchmouse Streets Battle 1 - Grenadier
+called onLocation: 877, Churchmouse Streets Battle 2 - Grenadier
+called onLocation: 878, Churchmouse Streets Battle 3 - Grenadier
+called onLocation: 879, Churchmouse Streets Chest - Grenadier
+called onLocation: 880, Churchmouse Streets Boss - Grenadier
+called onLocation: 881, Emerald Lakeside Battle 1 - Grenadier
+called onLocation: 882, Emerald Lakeside Battle 2 - Grenadier
+called onLocation: 883, Emerald Lakeside Battle 3 - Grenadier
+called onLocation: 884, Emerald Lakeside Chest - Grenadier
+called onLocation: 885, Emerald Lakeside Boss - Grenadier
+called onLocation: 886, Darkhouse Depths Battle 1 - Grenadier
+called onLocation: 887, Darkhouse Depths Battle 2 - Grenadier
+called onLocation: 888, Darkhouse Depths Battle 3 - Grenadier
+called onLocation: 889, Darkhouse Depths Chest - Grenadier
+called onLocation: 890, Darkhouse Depths Boss - Grenadier
+called onLocation: 891, Atelier Aurum Battle 1 - Grenadier
+called onLocation: 892, Atelier Aurum Battle 2 - Grenadier
+called onLocation: 893, Atelier Aurum Battle 3 - Grenadier
+called onLocation: 894, Atelier Aurum Chest - Grenadier
+called onLocation: 895, Atelier Aurum Boss - Grenadier
+called onLocation: 896, Subterra Sanctum Battle 1 - Grenadier
+called onLocation: 897, Subterra Sanctum Battle 2 - Grenadier
+called onLocation: 898, Subterra Sanctum Battle 3 - Grenadier
+called onLocation: 899, Subterra Sanctum Chest - Grenadier
+called onLocation: 900, Subterra Sanctum Boss - Grenadier
+called onLocation: 901, The Pale Keep Battle 1 - Grenadier
+called onLocation: 902, The Pale Keep Battle 2 - Grenadier
+called onLocation: 903, The Pale Keep Battle 3 - Grenadier
+called onLocation: 904, The Pale Keep Chest - Grenadier
+called onLocation: 905, Shira - Grenadier
+called onLocation: 906, Looping Hallway Battle 1 - Grenadier
+called onLocation: 907, Looping Hallway Battle 2 - Grenadier
+called onLocation: 908, Looping Hallway Battle 3 - Grenadier
+called onLocation: 909, Looping Hallway Chest - Grenadier
+called onLocation: 910, Witch - Grenadier
+called onLocation: 911, Kingdom Outskirts Battle 1 - Shadow
+called onLocation: 912, Kingdom Outskirts Chest 1 - Shadow
+called onLocation: 913, Kingdom Outskirts Battle 2 - Shadow
+called onLocation: 914, Kingdom Outskirts Chest 2 - Shadow
+called onLocation: 915, Kingdom Outskirts Battle 3 - Shadow
+called onLocation: 916, Crack in the Geode Battle 1 - Shadow
+called onLocation: 917, Crack in the Geode Chest 1 - Shadow
+called onLocation: 918, Crack in the Geode Battle 2 - Shadow
+called onLocation: 919, Crack in the Geode Chest 2 - Shadow
+called onLocation: 920, Crack in the Geode Battle 3 - Shadow
+called onLocation: 921, Scholar's Nest Battle 1 - Shadow
+called onLocation: 922, Scholar's Nest Battle 2 - Shadow
+called onLocation: 923, Scholar's Nest Battle 3 - Shadow
+called onLocation: 924, Scholar's Nest Chest - Shadow
+called onLocation: 925, Scholar's Nest Boss - Shadow
+called onLocation: 926, King's Arsenal Battle 1 - Shadow
+called onLocation: 927, King's Arsenal Battle 2 - Shadow
+called onLocation: 928, King's Arsenal Battle 3 - Shadow
+called onLocation: 929, King's Arsenal Chest - Shadow
+called onLocation: 930, King's Arsenal Boss - Shadow
+called onLocation: 931, Red Darkhouse Battle 1 - Shadow
+called onLocation: 932, Red Darkhouse Battle 2 - Shadow
+called onLocation: 933, Red Darkhouse Battle 3 - Shadow
+called onLocation: 934, Red Darkhouse Chest - Shadow
+called onLocation: 935, Red Darkhouse Boss - Shadow
+called onLocation: 936, Churchmouse Streets Battle 1 - Shadow
+called onLocation: 937, Churchmouse Streets Battle 2 - Shadow
+called onLocation: 938, Churchmouse Streets Battle 3 - Shadow
+called onLocation: 939, Churchmouse Streets Chest - Shadow
+called onLocation: 940, Churchmouse Streets Boss - Shadow
+called onLocation: 941, Emerald Lakeside Battle 1 - Shadow
+called onLocation: 942, Emerald Lakeside Battle 2 - Shadow
+called onLocation: 943, Emerald Lakeside Battle 3 - Shadow
+called onLocation: 944, Emerald Lakeside Chest - Shadow
+called onLocation: 945, Emerald Lakeside Boss - Shadow
+called onLocation: 946, Darkhouse Depths Battle 1 - Shadow
+called onLocation: 947, Darkhouse Depths Battle 2 - Shadow
+called onLocation: 948, Darkhouse Depths Battle 3 - Shadow
+called onLocation: 949, Darkhouse Depths Chest - Shadow
+called onLocation: 950, Darkhouse Depths Boss - Shadow
+called onLocation: 951, Atelier Aurum Battle 1 - Shadow
+called onLocation: 952, Atelier Aurum Battle 2 - Shadow
+called onLocation: 953, Atelier Aurum Battle 3 - Shadow
+called onLocation: 954, Atelier Aurum Chest - Shadow
+called onLocation: 955, Atelier Aurum Boss - Shadow
+called onLocation: 956, Subterra Sanctum Battle 1 - Shadow
+called onLocation: 957, Subterra Sanctum Battle 2 - Shadow
+called onLocation: 958, Subterra Sanctum Battle 3 - Shadow
+called onLocation: 959, Subterra Sanctum Chest - Shadow
+called onLocation: 960, Subterra Sanctum Boss - Shadow
+called onLocation: 961, The Pale Keep Battle 1 - Shadow
+called onLocation: 962, The Pale Keep Battle 2 - Shadow
+called onLocation: 963, The Pale Keep Battle 3 - Shadow
+called onLocation: 964, The Pale Keep Chest - Shadow
+called onLocation: 965, Shira - Shadow
+called onLocation: 966, Looping Hallway Battle 1 - Shadow
+called onLocation: 967, Looping Hallway Battle 2 - Shadow
+called onLocation: 968, Looping Hallway Battle 3 - Shadow
+called onLocation: 969, Looping Hallway Chest - Shadow
+called onLocation: 970, Witch - Shadow
+called onLocation: 980, Scholar's Nest Shop Full Heal Potion Slot
+called onLocation: 981, Scholar's Nest Shop Level Up Slot
+called onLocation: 982, Scholar's Nest Shop Potion 1 Slot
+called onLocation: 983, Scholar's Nest Shop Potion 2 Slot
+called onLocation: 984, Scholar's Nest Shop Potion 3 Slot
+called onLocation: 985, Scholar's Nest Shop Primary Upgrade Slot
+called onLocation: 986, Scholar's Nest Shop Secondary Upgrade Slot
+called onLocation: 987, Scholar's Nest Shop Special Upgrade Slot
+called onLocation: 988, Scholar's Nest Shop Defensive Upgrade Slot
+called onLocation: 989, King's Arsenal Shop Full Heal Potion Slot
+called onLocation: 990, King's Arsenal Shop Level Up Slot
+called onLocation: 991, King's Arsenal Shop Potion 1 Slot
+called onLocation: 992, King's Arsenal Shop Potion 2 Slot
+called onLocation: 993, King's Arsenal Shop Potion 3 Slot
+called onLocation: 994, King's Arsenal Shop Primary Upgrade Slot
+called onLocation: 995, King's Arsenal Shop Secondary Upgrade Slot
+called onLocation: 996, King's Arsenal Shop Special Upgrade Slot
+called onLocation: 997, King's Arsenal Shop Defensive Upgrade Slot
+called onLocation: 998, Red Darkhouse Shop Full Heal Potion Slot
+called onLocation: 999, Red Darkhouse Shop Level Up Slot
+called onLocation: 1000, Red Darkhouse Shop Potion 1 Slot
+called onLocation: 1001, Red Darkhouse Shop Potion 2 Slot
+called onLocation: 1002, Red Darkhouse Shop Potion 3 Slot
+called onLocation: 1003, Red Darkhouse Shop Primary Upgrade Slot
+called onLocation: 1004, Red Darkhouse Shop Secondary Upgrade Slot
+called onLocation: 1005, Red Darkhouse Shop Special Upgrade Slot
+called onLocation: 1006, Red Darkhouse Shop Defensive Upgrade Slot
+called onLocation: 1007, Churchmouse Streets Shop Full Heal Potion Slot
+called onLocation: 1008, Churchmouse Streets Shop Level Up Slot
+called onLocation: 1009, Churchmouse Streets Shop Potion 1 Slot
+called onLocation: 1010, Churchmouse Streets Shop Potion 2 Slot
+called onLocation: 1011, Churchmouse Streets Shop Potion 3 Slot
+called onLocation: 1012, Churchmouse Streets Shop Primary Upgrade Slot
+called onLocation: 1013, Churchmouse Streets Shop Secondary Upgrade Slot
+called onLocation: 1014, Churchmouse Streets Shop Special Upgrade Slot
+called onLocation: 1015, Churchmouse Streets Shop Defensive Upgrade Slot
+called onLocation: 1016, Emerald Lakeside Shop Full Heal Potion Slot
+called onLocation: 1017, Emerald Lakeside Shop Level Up Slot
+called onLocation: 1018, Emerald Lakeside Shop Potion 1 Slot
+called onLocation: 1019, Emerald Lakeside Shop Potion 2 Slot
+called onLocation: 1020, Emerald Lakeside Shop Potion 3 Slot
+called onLocation: 1021, Emerald Lakeside Shop Primary Upgrade Slot
+called onLocation: 1022, Emerald Lakeside Shop Secondary Upgrade Slot
+called onLocation: 1023, Emerald Lakeside Shop Special Upgrade Slot
+called onLocation: 1024, Emerald Lakeside Shop Defensive Upgrade Slot
+called onLocation: 1025, Darkhouse Depths Shop Full Heal Potion Slot
+called onLocation: 1026, Darkhouse Depths Shop Level Up Slot
+called onLocation: 1027, Darkhouse Depths Shop Potion 1 Slot
+called onLocation: 1028, Darkhouse Depths Shop Potion 2 Slot
+called onLocation: 1029, Darkhouse Depths Shop Potion 3 Slot
+called onLocation: 1030, Darkhouse Depths Shop Primary Upgrade Slot
+called onLocation: 1031, Darkhouse Depths Shop Secondary Upgrade Slot
+called onLocation: 1032, Darkhouse Depths Shop Special Upgrade Slot
+called onLocation: 1033, Darkhouse Depths Shop Defensive Upgrade Slot
+called onLocation: 1034, Atelier Aurum Shop Full Heal Potion Slot
+called onLocation: 1035, Atelier Aurum Shop Level Up Slot
+called onLocation: 1036, Atelier Aurum Shop Potion 1 Slot
+called onLocation: 1037, Atelier Aurum Shop Potion 2 Slot
+called onLocation: 1038, Atelier Aurum Shop Potion 3 Slot
+called onLocation: 1039, Atelier Aurum Shop Primary Upgrade Slot
+called onLocation: 1040, Atelier Aurum Shop Secondary Upgrade Slot
+called onLocation: 1041, Atelier Aurum Shop Special Upgrade Slot
+called onLocation: 1042, Atelier Aurum Shop Defensive Upgrade Slot
+called onLocation: 1043, Subterra Sanctum Shop Full Heal Potion Slot
+called onLocation: 1044, Subterra Sanctum Shop Level Up Slot
+called onLocation: 1045, Subterra Sanctum Shop Potion 1 Slot
+called onLocation: 1046, Subterra Sanctum Shop Potion 2 Slot
+called onLocation: 1047, Subterra Sanctum Shop Potion 3 Slot
+called onLocation: 1048, Subterra Sanctum Shop Primary Upgrade Slot
+called onLocation: 1049, Subterra Sanctum Shop Secondary Upgrade Slot
+called onLocation: 1050, Subterra Sanctum Shop Special Upgrade Slot
+called onLocation: 1051, Subterra Sanctum Shop Defensive Upgrade Slot
+called onLocation: 1052, The Pale Keep Shop Full Heal Potion Slot
+called onLocation: 1053, The Pale Keep Shop Level Up Slot
+called onLocation: 1054, The Pale Keep Shop Potion 1 Slot
+called onLocation: 1055, The Pale Keep Shop Potion 2 Slot
+called onLocation: 1056, The Pale Keep Shop Potion 3 Slot
+called onLocation: 1057, The Pale Keep Shop Primary Upgrade Slot
+called onLocation: 1058, The Pale Keep Shop Secondary Upgrade Slot
+called onLocation: 1059, The Pale Keep Shop Special Upgrade Slot
+called onLocation: 1060, The Pale Keep Shop Defensive Upgrade Slot
+called onLocation: 1061, Looping Hallway Shop Full Heal Potion Slot
+called onLocation: 1062, Looping Hallway Shop Level Up Slot
+called onLocation: 1063, Looping Hallway Shop Potion 1 Slot
+called onLocation: 1064, Looping Hallway Shop Potion 2 Slot
+called onLocation: 1065, Looping Hallway Shop Potion 3 Slot
+called onLocation: 1066, Looping Hallway Shop Primary Upgrade Slot
+called onLocation: 1067, Looping Hallway Shop Secondary Upgrade Slot
+called onLocation: 1068, Looping Hallway Shop Special Upgrade Slot
+called onLocation: 1069, Looping Hallway Shop Defensive Upgrade Slot
