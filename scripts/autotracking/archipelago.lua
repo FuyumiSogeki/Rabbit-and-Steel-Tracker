@@ -150,6 +150,10 @@ function onClear(slot_data)
 
     if slot_data['goal_condition'] == 1 then
         Tracker:FindObjectForCode("op_GC").CurrentStage = 1
+    elseif slot_data['goal_condition'] == 2 then
+        Tracker:FindObjectForCode("op_GC").CurrentStage = 2
+    elseif slot_data['goal_condition'] == 3 then
+        Tracker:FindObjectForCode("op_GC").CurrentStage = 3
     else
         Tracker:FindObjectForCode("op_GC").CurrentStage = 0
     end
@@ -159,9 +163,15 @@ function onClear(slot_data)
     Tracker:FindObjectForCode("op_ORD").AcquiredCount = slot_data['kingdom_order']['Red Darkhouse']
     Tracker:FindObjectForCode("op_OEL").AcquiredCount = slot_data['kingdom_order']['Emerald Lakeside']
     Tracker:FindObjectForCode("op_OCS").AcquiredCount = slot_data['kingdom_order']['Churchmouse Streets']
-    
+    Tracker:FindObjectForCode("op_ODD").AcquiredCount = slot_data['kingdom_order']['Darkhouse Depths']
+    Tracker:FindObjectForCode("op_OAA").AcquiredCount = slot_data['kingdom_order']['Atelier Aurum']
+    Tracker:FindObjectForCode("op_OSS").AcquiredCount = slot_data['kingdom_order']['Subterra Sanctum']
+
     Tracker:FindObjectForCode("op_OPK").AcquiredCount = slot_data['max_kingdoms_per_run'] + 1
     Tracker:FindObjectForCode("op_OMP").AcquiredCount = slot_data['max_kingdoms_per_run'] + 2
+    
+    Tracker:FindObjectForCode("op_OLH").AcquiredCount = slot_data['max_kingdoms_per_run'] + 1
+    Tracker:FindObjectForCode("op_ORP").AcquiredCount = slot_data['max_kingdoms_per_run'] + 2
 
     local CheckClass = slot_data['checks_per_class']
     for _, class in ipairs(CheckClass) do
@@ -175,6 +185,10 @@ function onClear(slot_data)
         elseif class == "Sniper" then Tracker:FindObjectForCode("sniper_checks").Active = true
         elseif class == "Spellsword" then Tracker:FindObjectForCode("spellsword_checks").Active = true
         elseif class == "Wizard" then Tracker:FindObjectForCode("wizard_checks").Active = true
+        elseif class == "Hammermaid" then Tracker:FindObjectForCode("hammermaid_checks").Active = true
+        elseif class == "Pyromancer" then Tracker:FindObjectForCode("pyromancer_checks").Active = true
+        elseif class == "Grenadier" then Tracker:FindObjectForCode("grenadier_checks").Active = true
+        elseif class == "Shadow" then Tracker:FindObjectForCode("shadow_checks").Active = true
         end
     end
 
@@ -187,6 +201,11 @@ function onClear(slot_data)
         elseif region == "Churchmouse Streets" then Tracker:FindObjectForCode("CS_excluded").Active = true
         elseif region == "The Pale Keep" then Tracker:FindObjectForCode("PK_excluded").Active = true
         elseif region == "Moonlit Pinnacle" then Tracker:FindObjectForCode("MP_excluded").Active = true
+        elseif region == "Darkhouse Depths" then Tracker:FindObjectForCode("DD_excluded").Active = true
+        elseif region == "Atelier Aurum" then Tracker:FindObjectForCode("AA_excluded").Active = true
+        elseif region == "Subterra Sanctum" then Tracker:FindObjectForCode("SS_excluded").Active = true
+        elseif region == "Looping Hallway" then Tracker:FindObjectForCode("LH_excluded").Active = true
+        elseif region == "Reflecting Pool" then Tracker:FindObjectForCode("RP_excluded").Active = true
         end
     end
 

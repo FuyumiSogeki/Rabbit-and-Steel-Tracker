@@ -2680,6 +2680,26 @@
         "type": "toggle",
         "codes": "victory_ancient"
     },
+    {
+        "name": "Victory - Hammermaid",
+        "type": "toggle",
+        "codes": "victory_hammermaid"
+    },
+    {
+        "name": "Victory - Pyromancer",
+        "type": "toggle",
+        "codes": "victory_pyromancer"
+    },
+    {
+        "name": "Victory - Grenadier",
+        "type": "toggle",
+        "codes": "victory_grenadier"
+    },
+    {
+        "name": "Victory - Shadow",
+        "type": "toggle",
+        "codes": "victory_shadow"
+    },
 
     //Settings
     {
@@ -2974,7 +2994,7 @@
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OKA",
-        "max_quantity": 5,
+        "max_quantity": 8,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
@@ -2985,7 +3005,7 @@
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OSN",
-        "max_quantity": 5,
+        "max_quantity": 8,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
@@ -2996,7 +3016,7 @@
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_ORD",
-        "max_quantity": 5,
+        "max_quantity": 8,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
@@ -3007,7 +3027,7 @@
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OEL",
-        "max_quantity": 5,
+        "max_quantity": 8,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
@@ -3018,7 +3038,51 @@
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OCS",
-        "max_quantity": 5,
+        "max_quantity": 8,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Churchmouse Streets Order",
+        "type": "consumable",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_OCS",
+        "max_quantity": 8,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Darkhouse Depths Order",
+        "type": "consumable",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_ODD",
+        "max_quantity": 8,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Atelier Aurum Order",
+        "type": "consumable",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_OAA",
+        "max_quantity": 8,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Reflecting Pool Order",
+        "type": "consumable",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_OSS",
+        "max_quantity": 8,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
@@ -3029,7 +3093,7 @@
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OPK",
-        "max_quantity": 6,
+        "max_quantity": 9,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
@@ -3040,7 +3104,29 @@
         "loop": "true",
         "overlay_background": "#000",
         "codes": "op_OMP",
-        "max_quantity": 7,
+        "max_quantity": 10,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Looping Hallway Order",
+        "type": "consumable",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_OLH",
+        "max_quantity": 9,
+        "initial_quantity": 0,
+        "increment": 1,
+        "swap_actions": false
+    },
+    {
+        "name": "Reflecting Pool Order",
+        "type": "consumable",
+        "loop": "true",
+        "overlay_background": "#000",
+        "codes": "op_ORP",
+        "max_quantity": 10,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false
@@ -3096,6 +3182,26 @@
         "codes": "wizard_checks"
     },
     {
+        "name": "Checks For Hammermaid",
+        "type": "toggle",
+        "codes": "hammermaid_checks"
+    },
+    {
+        "name": "Checks For Pyromancer",
+        "type": "toggle",
+        "codes": "pyromancer_checks"
+    },
+    {
+        "name": "Checks For Grenadier",
+        "type": "toggle",
+        "codes": "grenadier_checks"
+    },
+    {
+        "name": "Checks For Shadow",
+        "type": "toggle",
+        "codes": "shadow_checks"
+    },
+    {
         "name": "Excluded King's Arsenal",
         "type": "toggle",
         "codes": "KA_excluded"
@@ -3129,5 +3235,30 @@
         "name": "Excluded Moonlit Pinnacle",
         "type": "toggle",
         "codes": "MP_excluded"
+    },
+    {
+        "name": "Excluded Darkhouse Depths",
+        "type": "toggle",
+        "codes": "DD_excluded"
+    },
+    {
+        "name": "Excluded Atelier Aurum",
+        "type": "toggle",
+        "codes": "AA_excluded"
+    },
+    {
+        "name": "Excluded Subterra Sanctum",
+        "type": "toggle",
+        "codes": "SS_excluded"
+    },
+    {
+        "name": "Excluded Looping Hallway",
+        "type": "toggle",
+        "codes": "LH_excluded"
+    },
+    {
+        "name": "Excluded Reflecting Pool",
+        "type": "toggle",
+        "codes": "RP_excluded"
     }
 ]
