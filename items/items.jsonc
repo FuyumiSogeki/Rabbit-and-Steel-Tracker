@@ -2643,74 +2643,74 @@
         "codes": "teaparty8"
     },
     {
-        "name": "Victory - Wizard",
+        "name": "Shira - Wizard",
         "type": "toggle",
-        "codes": "victory_wizard"
+        "codes": "shira_wizard"
     },
     {
-        "name": "Victory - Assassin",
+        "name": "Shira - Assassin",
         "type": "toggle",
-        "codes": "victory_assassin"
+        "codes": "shira_assassin"
     },
     {
-        "name": "Victory - Heavyblade",
+        "name": "Shira - Heavyblade",
         "type": "toggle",
-        "codes": "victory_heavyblade"
+        "codes": "shira_heavyblade"
     },
     {
-        "name": "Victory - Dancer",
+        "name": "Shira - Dancer",
         "type": "toggle",
-        "codes": "victory_dancer"
+        "codes": "shira_dancer"
     },
     {
-        "name": "Victory - Druid",
+        "name": "Shira - Druid",
         "type": "toggle",
-        "codes": "victory_druid"
+        "codes": "shira_druid"
     },
     {
-        "name": "Victory - Spellsword",
+        "name": "Shira - Spellsword",
         "type": "toggle",
-        "codes": "victory_spellsword"
+        "codes": "shira_spellsword"
     },
     {
-        "name": "Victory - Sniper",
+        "name": "Shira - Sniper",
         "type": "toggle",
-        "codes": "victory_sniper"
+        "codes": "shira_sniper"
     },
     {
-        "name": "Victory - Bruiser",
+        "name": "Shira - Bruiser",
         "type": "toggle",
-        "codes": "victory_bruiser"
+        "codes": "shira_bruiser"
     },
     {
-        "name": "Victory - Defender",
+        "name": "Shira - Defender",
         "type": "toggle",
-        "codes": "victory_defender"
+        "codes": "shira_defender"
     },
     {
-        "name": "Victory - Ancient",
+        "name": "Shira - Ancient",
         "type": "toggle",
-        "codes": "victory_ancient"
+        "codes": "shira_ancient"
     },
     {
-        "name": "Victory - Hammermaid",
+        "name": "Shira - Hammermaid",
         "type": "toggle",
-        "codes": "victory_hammermaid"
+        "codes": "shira_hammermaid"
     },
     {
-        "name": "Victory - Pyromancer",
+        "name": "Shira - Pyromancer",
         "type": "toggle",
-        "codes": "victory_pyromancer"
+        "codes": "shira_pyromancer"
     },
     {
-        "name": "Victory - Grenadier",
+        "name": "Shira - Grenadier",
         "type": "toggle",
-        "codes": "victory_grenadier"
+        "codes": "shira_grenadier"
     },
     {
-        "name": "Victory - Shadow",
+        "name": "Shira - Shadow",
         "type": "toggle",
-        "codes": "victory_shadow"
+        "codes": "shira_shadow"
     },
 
     //Settings
