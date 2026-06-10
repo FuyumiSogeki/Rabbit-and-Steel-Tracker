@@ -437,6 +437,8 @@ function onItem(index, item_id, item_name, player_number)
             if objVictoryCount then
                objVictoryCount.AcquiredCount = objVictoryCount.AcquiredCount + objVictoryCount.Increment
             end
+		elseif v[1] == "progressive_area_shira" then
+			Tracker:FindObjectForCode("progressive_area_witch").AcquiredCount = Tracker:FindObjectForCode("progressive_area_shira").AcquiredCount
         end
 
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
