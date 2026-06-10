@@ -415,6 +415,9 @@ function onItem(index, item_id, item_name, player_number)
             end
 
             Tracker:UiHint("ActivateTab", LOOT_SET_TAB_MAPPING[v[1]])
+		elseif v[1]:match("%d$") then
+            local lootSet = v[1]:sub(1, -2)
+            Tracker:UiHint("ActivateTab", LOOT_SET_TAB_MAPPING[string.format("%s%s", lootSet, "_set")])
         elseif v[1]:match("_upgrade$") then
             local upgradeSet = v[1]:gsub("%_upgrade", "")
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_primary")).Active = true
