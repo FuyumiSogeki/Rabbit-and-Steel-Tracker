@@ -1,6 +1,6 @@
 LOCATION_MAPPING =
 {
-    #Any Class
+    -- Any Class
     [1] = {"@Kingdom Outskirts/Kingdom Outskirts Battle 1/Any Class"},
     [2] = {"@Kingdom Outskirts/Kingdom Outskirts Chest 1/Any Class"},
     [3] = {"@Kingdom Outskirts/Kingdom Outskirts Battle 2/Any Class"},
@@ -62,7 +62,7 @@ LOCATION_MAPPING =
     [59] = {"@Moonlit Pinnacle/Shira/Any Class"},
     [60] = {"@Refection Pool/Witch/Any Class"},
 
-    #Treasurespheres
+    -- Treasurespheres
     [61] = {"@Kingdom Outskirts/Kingdom Outskirts Chest 1/Top Left"},
     [62] = {"@Kingdom Outskirts/Kingdom Outskirts Chest 1/Bottom Left"},
     [63] = {"@Kingdom Outskirts/Kingdom Outskirts Chest 1/Middle"},
@@ -134,7 +134,7 @@ LOCATION_MAPPING =
     [129] = {"@Looping Hallway/Looping Hallway Chest/Top Right"},
     [130] = {"@Looping Hallway/Looping Hallway Chest/Bottom Right"},
 
-    #Class
+    -- Class
     [131] = {"@Kingdom Outskirts/Kingdom Outskirts Battle 1/Wizard"},
     [132] = {"@Kingdom Outskirts/Kingdom Outskirts Chest 1/Wizard"},
     [133] = {"@Kingdom Outskirts/Kingdom Outskirts Battle 2/Wizard"},
@@ -976,7 +976,7 @@ LOCATION_MAPPING =
     [969] = {"@Looping Hallway/Looping Hallway Chest/Shadow"},
     [970] = {"@Refection Pool/Witch/Shadow"},
 
-    #Any Shop
+    -- Any Shop
     [971] = {"@Shop/Full Heal Potion Slot/Any Shop"},
     [972] = {"@Shop/Level Up Slot/Any Shop"},
     [973] = {"@Shop/Potion 1 Slot/Any Shop"},
@@ -987,7 +987,7 @@ LOCATION_MAPPING =
     [978] = {"@Shop/Special Upgrade Slot/Any Shop"},
     [979] = {"@Shop/Defensive Upgrade Slot/Any Shop"},
 
-    #Region Shop
+    -- Region Shop
     [980] = {"@Shop/Full Heal Potion Slot/Scholar's Nest Shop"},
     [981] = {"@Shop/Level Up Slot/Scholar's Nest Shop"},
     [982] = {"@Shop/Potion 1 Slot/Scholar's Nest Shop"},
