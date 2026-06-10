@@ -150,6 +150,54 @@
                             "$canAncient"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Hammermaid",
+                        "chest_unopened_img": "images/items/ClassIcon_Hammermaid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Hammermaid_dis.png",
+                        "visibility_rules": [
+                            "$isHammermaid"
+                        ],
+                        "access_rules": [
+                            "$canHammermaid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pyromancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Pyromancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Pyromancer_dis.png",
+                        "visibility_rules": [
+                            "$isPyromancer"
+                        ],
+                        "access_rules": [
+                            "$canPyromancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grenadier",
+                        "chest_unopened_img": "images/items/ClassIcon_Grenadier.png",
+                        "chest_opened_img":"images/items/ClassIcon_Grenadier_dis.png",
+                        "visibility_rules": [
+                            "$isGrenadier"
+                        ],
+                        "access_rules": [
+                            "$canGrenadier"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shadow",
+                        "chest_unopened_img": "images/items/ClassIcon_Shadow.png",
+                        "chest_opened_img":"images/items/ClassIcon_Shadow_dis.png",
+                        "visibility_rules": [
+                            "$isShadow"
+                        ],
+                        "access_rules": [
+                            "$canShadow"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -360,6 +408,54 @@
                             "$canAncient"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Hammermaid",
+                        "chest_unopened_img": "images/items/ClassIcon_Hammermaid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Hammermaid_dis.png",
+                        "visibility_rules": [
+                            "$isHammermaid"
+                        ],
+                        "access_rules": [
+                            "$canHammermaid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pyromancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Pyromancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Pyromancer_dis.png",
+                        "visibility_rules": [
+                            "$isPyromancer"
+                        ],
+                        "access_rules": [
+                            "$canPyromancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grenadier",
+                        "chest_unopened_img": "images/items/ClassIcon_Grenadier.png",
+                        "chest_opened_img":"images/items/ClassIcon_Grenadier_dis.png",
+                        "visibility_rules": [
+                            "$isGrenadier"
+                        ],
+                        "access_rules": [
+                            "$canGrenadier"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shadow",
+                        "chest_unopened_img": "images/items/ClassIcon_Shadow.png",
+                        "chest_opened_img":"images/items/ClassIcon_Shadow_dis.png",
+                        "visibility_rules": [
+                            "$isShadow"
+                        ],
+                        "access_rules": [
+                            "$canShadow"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -508,6 +604,54 @@
                         ],
                         "access_rules": [
                             "$canAncient"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hammermaid",
+                        "chest_unopened_img": "images/items/ClassIcon_Hammermaid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Hammermaid_dis.png",
+                        "visibility_rules": [
+                            "$isHammermaid"
+                        ],
+                        "access_rules": [
+                            "$canHammermaid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pyromancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Pyromancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Pyromancer_dis.png",
+                        "visibility_rules": [
+                            "$isPyromancer"
+                        ],
+                        "access_rules": [
+                            "$canPyromancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grenadier",
+                        "chest_unopened_img": "images/items/ClassIcon_Grenadier.png",
+                        "chest_opened_img":"images/items/ClassIcon_Grenadier_dis.png",
+                        "visibility_rules": [
+                            "$isGrenadier"
+                        ],
+                        "access_rules": [
+                            "$canGrenadier"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shadow",
+                        "chest_unopened_img": "images/items/ClassIcon_Shadow.png",
+                        "chest_opened_img":"images/items/ClassIcon_Shadow_dis.png",
+                        "visibility_rules": [
+                            "$isShadow"
+                        ],
+                        "access_rules": [
+                            "$canShadow"
                         ],
                         "item_count": 1
                     }
@@ -720,6 +864,54 @@
                             "$canAncient"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Hammermaid",
+                        "chest_unopened_img": "images/items/ClassIcon_Hammermaid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Hammermaid_dis.png",
+                        "visibility_rules": [
+                            "$isHammermaid"
+                        ],
+                        "access_rules": [
+                            "$canHammermaid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pyromancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Pyromancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Pyromancer_dis.png",
+                        "visibility_rules": [
+                            "$isPyromancer"
+                        ],
+                        "access_rules": [
+                            "$canPyromancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grenadier",
+                        "chest_unopened_img": "images/items/ClassIcon_Grenadier.png",
+                        "chest_opened_img":"images/items/ClassIcon_Grenadier_dis.png",
+                        "visibility_rules": [
+                            "$isGrenadier"
+                        ],
+                        "access_rules": [
+                            "$canGrenadier"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shadow",
+                        "chest_unopened_img": "images/items/ClassIcon_Shadow.png",
+                        "chest_opened_img":"images/items/ClassIcon_Shadow_dis.png",
+                        "visibility_rules": [
+                            "$isShadow"
+                        ],
+                        "access_rules": [
+                            "$canShadow"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -868,6 +1060,54 @@
                         ],
                         "access_rules": [
                             "$canAncient"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hammermaid",
+                        "chest_unopened_img": "images/items/ClassIcon_Hammermaid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Hammermaid_dis.png",
+                        "visibility_rules": [
+                            "$isHammermaid"
+                        ],
+                        "access_rules": [
+                            "$canHammermaid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pyromancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Pyromancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Pyromancer_dis.png",
+                        "visibility_rules": [
+                            "$isPyromancer"
+                        ],
+                        "access_rules": [
+                            "$canPyromancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grenadier",
+                        "chest_unopened_img": "images/items/ClassIcon_Grenadier.png",
+                        "chest_opened_img":"images/items/ClassIcon_Grenadier_dis.png",
+                        "visibility_rules": [
+                            "$isGrenadier"
+                        ],
+                        "access_rules": [
+                            "$canGrenadier"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shadow",
+                        "chest_unopened_img": "images/items/ClassIcon_Shadow.png",
+                        "chest_opened_img":"images/items/ClassIcon_Shadow_dis.png",
+                        "visibility_rules": [
+                            "$isShadow"
+                        ],
+                        "access_rules": [
+                            "$canShadow"
                         ],
                         "item_count": 1
                     }
