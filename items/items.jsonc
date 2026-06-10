@@ -51,6 +51,12 @@
         "disabled_img_mods":"none"
     },
     {
+        "name": "Kingdom Outskirts",
+        "type": "toggle",
+        "img": "images/items/Area_Kingdom_Outskirts.png",
+        "codes": "outskirts"
+    },
+    {
         "name": "Scholar's Nest",
         "type": "toggle",
         "img": "images/items/Area_Scholar's_Nest.png",
@@ -91,6 +97,12 @@
         "type": "toggle",
         "img": "images/items/Area_Moonlit_Pinnacle.png",
         "codes": "moonlit"
+    },
+    {
+        "name": "Crack In The Geode",
+        "type": "toggle",
+        "img": "images/items/Area_Crack_In_The_Geode.png",
+        "codes": "geode"
     },
     {
         "name": "Darkhouse Depths",
