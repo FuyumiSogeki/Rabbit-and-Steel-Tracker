@@ -421,11 +421,19 @@ function onItem(index, item_id, item_name, player_number)
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_secondary")).Active = true
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_special")).Active = true
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_defensive")).Active = true
-        elseif v[1]:match("^victory_") then
-            local victoryName = v[1]:gsub("victory_", "")
+        elseif v[1]:match("^vshira_") then
+            local victoryName = v[1]:gsub("shira_", "")
             Tracker:FindObjectForCode(victoryName).Active = true
-            Tracker:FindObjectForCode(victoryName).CurrentStage = 2
-            local objVictoryCount = Tracker:FindObjectForCode("defeat_count")
+            Tracker:FindObjectForCode(victoryName).CurrentStage = Tracker:FindObjectForCode(victoryName).CurrentStage + 1
+            local objVictoryCount = Tracker:FindObjectForCode("defeat_count_shira")
+            if objVictoryCount then
+               objVictoryCount.AcquiredCount = objVictoryCount.AcquiredCount + objVictoryCount.Increment
+            end
+		elseif v[1]:match("^witch_") then
+            local victoryName = v[1]:gsub("witch_", "")
+            Tracker:FindObjectForCode(victoryName).Active = true
+            Tracker:FindObjectForCode(victoryName).CurrentStage = Tracker:FindObjectForCode(victoryName).CurrentStage + 2
+            local objVictoryCount = Tracker:FindObjectForCode("defeat_count_witch")
             if objVictoryCount then
                objVictoryCount.AcquiredCount = objVictoryCount.AcquiredCount + objVictoryCount.Increment
             end
