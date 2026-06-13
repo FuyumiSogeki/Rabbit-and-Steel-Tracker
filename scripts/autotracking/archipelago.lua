@@ -459,6 +459,15 @@ function onItem(index, item_id, item_name, player_number)
     elseif AUTOTRACKER_ENABLE_DEBUG_LOGGING_AP then
         print(string.format("onItem: could not find object for code %s", v[1]))
     end
+
+    hasGeode = Tracker:FindObjectForCode("geode").Active
+    hasOutskirts = Tracker:FindObjectForCode("outskirts").Active
+
+    if hasGeode and not hasOutskirts then
+        Tracker:UiHint("ActivateTab", "Extra Mode")
+    else
+        Tracker:UiHint("ActivateTab", "The Kingdom")
+    end
 end
 
 function onHighlightChange()
