@@ -1,28 +1,28 @@
 [
     {
-        "name": "Kingdom Outskirts",
+        "name": "Crack In The Geode",
         "color": "#FFFFFF",
         "children": [
             {
-                "name": "Kingdom Outskirts Battle 1",
+                "name": "Crack In The Geode Battle 1",
                 "map_locations": [
                     {
-                        "map": "Outskirts",
+                        "map": "Geode",
                         "x": 220,
                         "y": 378
                     }
                 ],
                 "visibility_rules": [
-                    "$isKingdom"
+                    "$isExtra"
                 ],
                 "access_rules": [
-                    "$canOutskirts"
+                    "$canGeode"
                 ],
                 "sections": [
                     {
                         "name": "Any Class",
-                        "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "chest_opened_img":"images/items/Area_Kingdom_Outskirts_dis.png",
+                        "chest_unopened_img": "images/items/Area_Crack_in_The_Geode.png",
+                        "chest_opened_img":"images/items/Area_Crack_in_The_Geode_dis.png",
                         "visibility_rules": [
                             ""
                         ],
@@ -202,25 +202,25 @@
                 ]
             },
             {
-                "name": "Kingdom Outskirts Chest 1",
+                "name": "Crack In The Geode Chest 1",
                 "map_locations": [
                     {
-                        "map": "Outskirts",
+                        "map": "Geode",
                         "x": 594,
                         "y": 378
                     }
                 ],
                 "visibility_rules": [
-                    "$isKingdom"
+                    "$isExtra"
                 ],
                 "access_rules": [
-                    "$canOutskirts"
+                    "$canGeode"
                 ],
                 "sections": [
                     {
                         "name": "Any Class",
-                        "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "chest_opened_img":"images/items/Area_Kingdom_Outskirts_dis.png",
+                        "chest_unopened_img": "images/items/Area_Crack_in_The_Geode.png",
+                        "chest_opened_img":"images/items/Area_Crack_in_The_Geode_dis.png",
                         "visibility_rules": [
                             ""
                         ],
@@ -460,25 +460,25 @@
                 ]
             },
             {
-                "name": "Kingdom Outskirts Battle 2",
+                "name": "Crack In The Geode Battle 2",
                 "map_locations": [
                     {
-                        "map": "Outskirts",
+                        "map": "Geode",
                         "x": 968,
                         "y": 378
                     }
                 ],
                 "visibility_rules": [
-                    "$isKingdom"
+                    "$isExtra"
                 ],
                 "access_rules": [
-                    "$canOutskirts"
+                    "$canGeode"
                 ],
                 "sections": [
                     {
                         "name": "Any Class",
-                        "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "chest_opened_img":"images/items/Area_Kingdom_Outskirts_dis.png",
+                        "chest_unopened_img": "images/items/Area_Crack_in_The_Geode.png",
+                        "chest_opened_img":"images/items/Area_Crack_in_The_Geode_dis.png",
                         "visibility_rules": [
                             ""
                         ],
@@ -658,25 +658,25 @@
                 ]
             },
             {
-                "name": "Kingdom Outskirts Chest 2",
+                "name": "Crack In The Geode Chest 2",
                 "map_locations": [
                     {
-                        "map": "Outskirts",
+                        "map": "Geode",
                         "x": 1422,
                         "y": 378
                     }
                 ],
                 "visibility_rules": [
-                    "$isKingdom"
+                    "$isExtra"
                 ],
                 "access_rules": [
-                    "$canOutskirts"
+                    "$canGeode"
                 ],
                 "sections": [
                     {
                         "name": "Any Class",
-                        "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "chest_opened_img":"images/items/Area_Kingdom_Outskirts_dis.png",
+                        "chest_unopened_img": "images/items/Area_Crack_in_The_Geode.png",
+                        "chest_opened_img":"images/items/Area_Crack_in_The_Geode_dis.png",
                         "visibility_rules": [
                             ""
                         ],
@@ -916,25 +916,25 @@
                 ]
             },
             {
-                "name": "Kingdom Outskirts Battle 3",
+                "name": "Crack In The Geode Battle 3",
                 "map_locations": [
                     {
-                        "map": "Outskirts",
+                        "map": "Geode",
                         "x": 1716,
                         "y": 378
                     }
                 ],
                 "visibility_rules": [
-                    "$isKingdom"
+                    "$isExtra"
                 ],
                 "access_rules": [
-                    "$canOutskirts"
+                    "$canGeode"
                 ],
                 "sections": [
                     {
                         "name": "Any Class",
-                        "chest_unopened_img": "images/items/Area_Kingdom_Outskirts.png",
-                        "chest_opened_img":"images/items/Area_Kingdom_Outskirts_dis.png",
+                        "chest_unopened_img": "images/items/Area_Crack_in_The_Geode.png",
+                        "chest_opened_img":"images/items/Area_Crack_in_The_Geode_dis.png",
                         "visibility_rules": [
                             ""
                         ],

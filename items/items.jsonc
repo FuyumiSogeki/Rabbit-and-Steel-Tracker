@@ -28,10 +28,10 @@
         "name": "Region Unlocked (Shira)",
         "type": "consumable",
         "loop": "false",
-        "img": "images/items/Area_Kingdom_Outskirts.png",
+        "img": "images/settings/progressive_region.png",
         "overlay_background": "#000",
         "codes": "progressive_area_shira",
-        "max_quantity": 7,
+        "max_quantity": 10,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false,
@@ -41,10 +41,10 @@
         "name": "Region Unlocked (Witch)",
         "type": "consumable",
         "loop": "false",
-        "img": "images/items/Area_Crack_In_The_Geode.png",
+        "img": "images/settings/progressive_region.png",
         "overlay_background": "#000",
         "codes": "progressive_area_witch",
-        "max_quantity": 5,
+        "max_quantity": 10,
         "initial_quantity": 0,
         "increment": 1,
         "swap_actions": false,
@@ -2712,6 +2712,76 @@
         "type": "toggle",
         "codes": "shira_shadow"
     },
+    {
+        "name": "Witch - Wizard",
+        "type": "toggle",
+        "codes": "witch_wizard"
+    },
+    {
+        "name": "Witch - Assassin",
+        "type": "toggle",
+        "codes": "witch_assassin"
+    },
+    {
+        "name": "Witch - Heavyblade",
+        "type": "toggle",
+        "codes": "witch_heavyblade"
+    },
+    {
+        "name": "Witch - Dancer",
+        "type": "toggle",
+        "codes": "witch_dancer"
+    },
+    {
+        "name": "Witch - Druid",
+        "type": "toggle",
+        "codes": "witch_druid"
+    },
+    {
+        "name": "Witch - Spellsword",
+        "type": "toggle",
+        "codes": "witch_spellsword"
+    },
+    {
+        "name": "Witch - Sniper",
+        "type": "toggle",
+        "codes": "witch_sniper"
+    },
+    {
+        "name": "Witch - Bruiser",
+        "type": "toggle",
+        "codes": "witch_bruiser"
+    },
+    {
+        "name": "Witch - Defender",
+        "type": "toggle",
+        "codes": "witch_defender"
+    },
+    {
+        "name": "Witch - Ancient",
+        "type": "toggle",
+        "codes": "witch_ancient"
+    },
+    {
+        "name": "Witch - Hammermaid",
+        "type": "toggle",
+        "codes": "witch_hammermaid"
+    },
+    {
+        "name": "Witch - Pyromancer",
+        "type": "toggle",
+        "codes": "witch_pyromancer"
+    },
+    {
+        "name": "Witch - Grenadier",
+        "type": "toggle",
+        "codes": "witch_grenadier"
+    },
+    {
+        "name": "Witch - Shadow",
+        "type": "toggle",
+        "codes": "witch_shadow"
+    },
 
     //Settings
     {
@@ -2728,11 +2798,13 @@
             },
             {
                 "img": "images/settings/Character_Witch.png",
-                "codes": "op_GC,which_defeat_count"
+                "codes": "op_GC,which_defeat_count",
+                "inherit_codes": false
             },
             {
                 "img": "images/settings/Character_Both.png",
-                "codes": "op_GC,both_defeat_count"
+                "codes": "op_GC,both_defeat_count",
+                "inherit_codes": false
             }
         ]
     },
@@ -2750,15 +2822,18 @@
             },
             {
                 "img": "images/items/Area_Reflecting_Pool.png",
-                "codes": "op_GM,extra_mode"
+                "codes": "op_GM,extra_mode",
+                "inherit_codes": false
             },
             {
                 "img": "images/settings/Character_Any.png",
-                "codes": "op_GM,either_mode"
+                "codes": "op_GM,either_mode",
+                "inherit_codes": false
             },
             {
                 "img": "images/items/Aera_True_Random.png",
-                "codes": "op_GM,chaos_mode"
+                "codes": "op_GM,chaos_mode",
+                "inherit_codes": false
             }
         ]
     },

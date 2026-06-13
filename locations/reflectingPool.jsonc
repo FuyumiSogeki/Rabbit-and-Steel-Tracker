@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Reflecting Pool",
+        "color": "#FFFFFF",
+        "children": [
+            {
+                "name": "Witch",
+                "map_locations": [
+                    {
+                        "map": "Pool",
+                        "x": 960,
+                        "y": 360
+                    }
+                ],
+                "visibility_rules": [
+                    "$isReflectingPool"
+                ],
+                "access_rules": [
+                    "$canReflectingPool"
+                ],
+                "sections": [
+                    {
+                        "name": "Any Class",
+                        "chest_unopened_img": "images/items/Area_Reflecting_Pool.png",
+                        "chest_opened_img":"images/items/Area_Reflecting_Pool_dis.png",
+                        "visibility_rules": [
+                            ""
+                        ],
+                        "access_rules": [
+                            ""
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wizard",
+                        "chest_unopened_img": "images/items/ClassIcon_Wizard.png",
+                        "chest_opened_img":"images/items/ClassIcon_Wizard_dis.png",
+                        "visibility_rules": [
+                            "$isWizard"
+                        ],
+                        "access_rules": [
+                            "$canWizard"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Assassin",
+                        "chest_unopened_img": "images/items/ClassIcon_Assassin.png",
+                        "chest_opened_img":"images/items/ClassIcon_Assassin_dis.png",
+                        "visibility_rules": [
+                            "$isAssassin"
+                        ],
+                        "access_rules": [
+                            "$canAssassin"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heavyblade",
+                        "chest_unopened_img": "images/items/ClassIcon_Heavyblade.png",
+                        "chest_opened_img":"images/items/ClassIcon_Heavyblade_dis.png",
+                        "visibility_rules": [
+                            "$isHeavyblade"
+                        ],
+                        "access_rules": [
+                            "$canHeavyblade"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Dancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Dancer_dis.png",
+                        "visibility_rules": [
+                            "$isDancer"
+                        ],
+                        "access_rules": [
+                            "$canDancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Druid",
+                        "chest_unopened_img": "images/items/ClassIcon_Druid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Druid_dis.png",
+                        "visibility_rules": [
+                            "$isDruid"
+                        ],
+                        "access_rules": [
+                            "$canDruid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spellsword",
+                        "chest_unopened_img": "images/items/ClassIcon_Spellsword.png",
+                        "chest_opened_img":"images/items/ClassIcon_Spellsword_dis.png",
+                        "visibility_rules": [
+                            "$isSpellsword"
+                        ],
+                        "access_rules": [
+                            "$canSpellsword"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sniper",
+                        "chest_unopened_img": "images/items/ClassIcon_Sniper.png",
+                        "chest_opened_img":"images/items/ClassIcon_Sniper_dis.png",
+                        "visibility_rules": [
+                            "$isSniper"
+                        ],
+                        "access_rules": [
+                            "$canSniper"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Bruiser",
+                        "chest_unopened_img": "images/items/ClassIcon_Bruiser.png",
+                        "chest_opened_img":"images/items/ClassIcon_Bruiser_dis.png",
+                        "visibility_rules": [
+                            "$isBruiser"
+                        ],
+                        "access_rules": [
+                            "$canBruiser"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Defender",
+                        "chest_unopened_img": "images/items/ClassIcon_Defender.png",
+                        "chest_opened_img":"images/items/ClassIcon_Defender_dis.png",
+                        "visibility_rules": [
+                            "$isDefender"
+                        ],
+                        "access_rules": [
+                            "$canDefender"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ancient",
+                        "chest_unopened_img": "images/items/ClassIcon_Ancient.png",
+                        "chest_opened_img":"images/items/ClassIcon_Ancient_dis.png",
+                        "visibility_rules": [
+                            "$isAncient"
+                        ],
+                        "access_rules": [
+                            "$canAncient"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hammermaid",
+                        "chest_unopened_img": "images/items/ClassIcon_Hammermaid.png",
+                        "chest_opened_img":"images/items/ClassIcon_Hammermaid_dis.png",
+                        "visibility_rules": [
+                            "$isHammermaid"
+                        ],
+                        "access_rules": [
+                            "$canHammermaid"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pyromancer",
+                        "chest_unopened_img": "images/items/ClassIcon_Pyromancer.png",
+                        "chest_opened_img":"images/items/ClassIcon_Pyromancer_dis.png",
+                        "visibility_rules": [
+                            "$isPyromancer"
+                        ],
+                        "access_rules": [
+                            "$canPyromancer"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Grenadier",
+                        "chest_unopened_img": "images/items/ClassIcon_Grenadier.png",
+                        "chest_opened_img":"images/items/ClassIcon_Grenadier_dis.png",
+                        "visibility_rules": [
+                            "$isGrenadier"
+                        ],
+                        "access_rules": [
+                            "$canGrenadier"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shadow",
+                        "chest_unopened_img": "images/items/ClassIcon_Shadow.png",
+                        "chest_opened_img":"images/items/ClassIcon_Shadow_dis.png",
+                        "visibility_rules": [
+                            "$isShadow"
+                        ],
+                        "access_rules": [
+                            "$canShadow"
+                        ],
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

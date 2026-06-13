@@ -709,53 +709,61 @@ function isKingdomOrder()
     return has("kingdom_order_on")
 end
 
+function isKingdom()
+    return not has("extra_mode")
+end
+
+function isExtra()
+    return not has("kingdom_mode")
+end
+
 -- Visibility region
 function isKingArsenal()
-    return not has("KA_excluded")
+    return not has("KA_excluded") and isKingdom()
 end
 
 function isScholarNest()
-    return not has("SN_excluded")
+    return not has("SN_excluded") and isKingdom()
 end
 
 function isRedDarkhouse()
-    return not has("RD_excluded")
+    return not has("RD_excluded") and isKingdom()
 end
 
 function isEmeraldLakeside()
-    return not has("EL_excluded")
+    return not has("EL_excluded") and isKingdom()
 end
 
 function isChurchmouseStreets()
-    return not has("CS_excluded")
+    return not has("CS_excluded") and isKingdom()
 end
 
 function isPaleKeep()
-    return not has("PK_excluded")
+    return not has("PK_excluded") and isKingdom()
 end
 
 function isMoonlitPinnacle()
-    return not has("MP_excluded")
+    return not has("MP_excluded") and isKingdom()
 end
 
-function isDarkhouseDepth()
-    return not has("DD_excluded")
+function isDarkhouseDepths()
+    return not has("DD_excluded") and isExtra()
 end
 
 function isAtelierAurum()
-    return not has("AA_excluded")
+    return not has("AA_excluded") and isExtra()
 end
 
 function isSubterraSanctum()
-    return not has("SS_excluded")
+    return not has("SS_excluded") and isExtra()
 end
 
 function isLoopingHallway()
-    return not has("LH_excluded")
+    return not has("LH_excluded") and isExtra()
 end
 
 function isReflectingPool()
-    return not has("RP_excluded")
+    return not has("RP_excluded") and isExtra()
 end
 
 -- Visibility class
@@ -848,160 +856,176 @@ function RegionNothing()
 end
 
 -- Region Logic
+function canOutskirts()
+    return has("outskirts") or not isKingdomSanity()
+end
+
+function canStartKingdom()
+    return canOutskirts() or not has("either_mode")
+end
+
+function canGeode()
+    return has("geode") or not isKingdomSanity()
+end
+
+function canStartExtra()
+    return canGeode() or not has("either_mode")
+end
+
 function canKingArsenal()
-    if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true)
-    elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false)
-    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area_shira", 1)
-    elseif RegionSanity() then      return has("arsenal")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true)
-    elseif RegionProg() then        return has("progressive_area_shira", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true) and canOutskirts()
+    elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false) and canOutskirts()
+    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionSanity() then      return has("arsenal") and canOutskirts()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true) and canOutskirts()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionOrder() then       return true and canOutskirts()
+    elseif RegionNothing() then     return true and canOutskirts()
+    else                            return false and canOutskirts()
     end
 end
 
 function canScholarNest()
-    if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true)
-    elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false)
-    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area_shira", 1)
-    elseif RegionSanity() then      return has("scholar")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true)
-    elseif RegionProg() then        return has("progressive_area_shira", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true) and canOutskirts()
+    elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false) and canOutskirts()
+    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionSanity() then      return has("scholar") and canOutskirts()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true) and canOutskirts()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionOrder() then       return true and canOutskirts()
+    elseif RegionNothing() then     return true and canOutskirts()
+    else                            return false and canOutskirts()
     end
 end
 
 function canRedDarkhouse()
-    if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true)
-    elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false)
-    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area_shira", 1)
-    elseif RegionSanity() then      return has("darkhouse")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true)
-    elseif RegionProg() then        return has("progressive_area_shira", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true) and canOutskirts()
+    elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false) and canOutskirts()
+    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionSanity() then      return has("darkhouse") and canOutskirts()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true) and canOutskirts()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionOrder() then       return true and canOutskirts()
+    elseif RegionNothing() then     return true and canOutskirts()
+    else                            return false and canOutskirts()
     end
 end
 
 function canChurchmouseStreets()
-    if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true)
-    elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false)
-    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area_shira", 1)
-    elseif RegionSanity() then      return has("churchmouse")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true)
-    elseif RegionProg() then        return has("progressive_area_shira", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true) and canOutskirts()
+    elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false) and canOutskirts()
+    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionSanity() then      return has("churchmouse") and canOutskirts()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true) and canOutskirts()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionOrder() then       return true and canOutskirts()
+    elseif RegionNothing() then     return true and canOutskirts()
+    else                            return false and canOutskirts()
     end
 end
 
 function canEmeraldLakeside()
-    if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true)
-    elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false)
-    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area_shira", 1)
-    elseif RegionSanity() then      return has("lakeside")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true)
-    elseif RegionProg() then        return has("progressive_area_shira", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true) and canOutskirts()
+    elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false) and canOutskirts()
+    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionSanity() then      return has("lakeside") and canOutskirts()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true) and canOutskirts()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
+    elseif RegionOrder() then       return true and canOutskirts()
+    elseif RegionNothing() then     return true and canOutskirts()
+    else                            return false and canOutskirts()
     end
 end
 
 function canPaleKeep()
-    if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true)
-    elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false)
-    elseif RegionSanityProg() then  return has("palekeep") and canReachPaleKeep() and hasEnoughProgRegion("op_OPK")
-    elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true)
-    elseif RegionProg() then        return hasEnoughProgRegion("op_OPK")
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true) and canOutskirts()
+    elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false) and canOutskirts()
+    elseif RegionSanityProg() then  return has("palekeep") and canReachPaleKeep() and hasEnoughProgRegion("op_OPK") and canOutskirts()
+    elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep() and canOutskirts()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true) and canOutskirts()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_OPK") and canOutskirts()
+    elseif RegionOrder() then       return true and canOutskirts()
+    elseif RegionNothing() then     return true and canOutskirts()
+    else                            return false and canOutskirts()
     end
 end
 
 function canMoonlitPinnacle()
-    if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true)
-    elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false)
-    elseif RegionSanityProg() then  return has("moonlit") and canReachPinnacle() and hasEnoughProgRegion("op_OMP")
-    elseif RegionSanity() then      return has("moonlit") and canReachPinnacle()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true)
-    elseif RegionProg() then        return hasEnoughProgRegion("op_OMP")
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true) and canOutskirts()
+    elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false) and canOutskirts()
+    elseif RegionSanityProg() then  return has("moonlit") and canReachPinnacle() and hasEnoughProgRegion("op_OMP") and canOutskirts()
+    elseif RegionSanity() then      return has("moonlit") and canReachPinnacle() and canOutskirts()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true) and canOutskirts()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_OMP") and canOutskirts()
+    elseif RegionOrder() then       return true and canOutskirts()
+    elseif RegionNothing() then     return true and canOutskirts()
+    else                            return false and canOutskirts()
     end
 end
 
 
-function canDarkhouseDepth()
-    if RegionSanityProgOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, true)
-    elseif RegionSanityOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, false)
-    elseif RegionSanityProg() then  return has("depths") and has("progressive_area_witch", 1)
-    elseif RegionSanity() then      return has("depths")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_ODD", false, true)
-    elseif RegionProg() then        return has("progressive_area_witch", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+function canDarkhouseDepths()
+    if RegionSanityProgOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, true) and canGeode()
+    elseif RegionSanityOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, false) and canGeode()
+    elseif RegionSanityProg() then  return has("depths") and has("progressive_area_witch", 1) and canGeode()
+    elseif RegionSanity() then      return has("depths") and canGeode()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_ODD", false, true) and canGeode()
+    elseif RegionProg() then        return has("progressive_area_witch", 1) and canGeode()
+    elseif RegionOrder() then       return true and canGeode()
+    elseif RegionNothing() then     return true and canGeode()
+    else                            return false and canGeode()
     end
 end
 
 function canAtelierAurum()
-    if RegionSanityProgOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, true)
-    elseif RegionSanityOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, false)
-    elseif RegionSanityProg() then  return has("atelier") and has("progressive_area_witch", 1)
-    elseif RegionSanity() then      return has("atelier")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OAA", false, true)
-    elseif RegionProg() then        return has("progressive_area_witch", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, true) and canGeode()
+    elseif RegionSanityOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, false) and canGeode()
+    elseif RegionSanityProg() then  return has("atelier") and has("progressive_area_witch", 1) and canGeode()
+    elseif RegionSanity() then      return has("atelier") and canGeode()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OAA", false, true) and canGeode()
+    elseif RegionProg() then        return has("progressive_area_witch", 1) and canGeode()
+    elseif RegionOrder() then       return true and canGeode()
+    elseif RegionNothing() then     return true and canGeode()
+    else                            return false and canGeode()
     end
 end
 
 function canSubterraSanctum()
-    if RegionSanityProgOrder() then return has("sanctum") and canReachRegionOrder("op_OAA", true, true)
-    elseif RegionSanityOrder() then return has("sanctum") and canReachRegionOrder("op_OAA", true, false)
-    elseif RegionSanityProg() then  return has("sanctum") and has("progressive_area_witch", 1)
-    elseif RegionSanity() then      return has("sanctum")
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true)
-    elseif RegionProg() then        return has("progressive_area_witch", 1)
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("sanctum") and canReachRegionOrder("op_OAA", true, true) and canGeode()
+    elseif RegionSanityOrder() then return has("sanctum") and canReachRegionOrder("op_OAA", true, false) and canGeode()
+    elseif RegionSanityProg() then  return has("sanctum") and has("progressive_area_witch", 1) and canGeode()
+    elseif RegionSanity() then      return has("sanctum") and canGeode()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true) and canGeode()
+    elseif RegionProg() then        return has("progressive_area_witch", 1) and canGeode()
+    elseif RegionOrder() then       return true and canGeode()
+    elseif RegionNothing() then     return true and canGeode()
+    else                            return false and canGeode()
     end
 end
 
 function canLoopingHallway()
-    if RegionSanityProgOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, true)
-    elseif RegionSanityOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, false)
-    elseif RegionSanityProg() then  return has("looping") and canReachHallway() and hasEnoughProgRegion("op_OLH")
-    elseif RegionSanity() then      return has("looping") and canReachHallway()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OLH", false, true)
-    elseif RegionProg() then        return hasEnoughProgRegion("op_OLH")
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, true) and canGeode()
+    elseif RegionSanityOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, false) and canGeode()
+    elseif RegionSanityProg() then  return has("looping") and canReachHallway() and hasEnoughProgRegion("op_OLH") and canGeode()
+    elseif RegionSanity() then      return has("looping") and canReachHallway() and canGeode()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OLH", false, true) and canGeode()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_OLH") and canGeode()
+    elseif RegionOrder() then       return true and canGeode()
+    elseif RegionNothing() then     return true and canGeode()
+    else                            return false and canGeode()
     end
 end
 
 function canReflectingPool()
-    if RegionSanityProgOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, true)
-    elseif RegionSanityOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, false)
-    elseif RegionSanityProg() then  return has("pool") and canReachPool() and hasEnoughProgRegion("op_ORP")
-    elseif RegionSanity() then      return has("pool") and canReachPool()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORP", false, true)
-    elseif RegionProg() then        return hasEnoughProgRegion("op_ORP")
-    elseif RegionOrder() then       return true
-    elseif RegionNothing() then     return true
-    else                            return false
+    if RegionSanityProgOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, true) and canGeode()
+    elseif RegionSanityOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, false) and canGeode()
+    elseif RegionSanityProg() then  return has("pool") and canReachPool() and hasEnoughProgRegion("op_ORP") and canGeode()
+    elseif RegionSanity() then      return has("pool") and canReachPool() and canGeode()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORP", false, true) and canGeode()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_ORP") and canGeode()
+    elseif RegionOrder() then       return true and canGeode()
+    elseif RegionNothing() then     return true and canGeode()
+    else                            return false and canGeode()
     end
 end
 
@@ -1127,7 +1151,7 @@ function canShopPaleKeep()
 end
 
 function canShopDarkhouseDepths()
-    return canDarkhouseDepth()
+    return canDarkhouseDepths()
 end
 
 function canShopAtelierAurum()
@@ -1168,7 +1192,7 @@ function canTreasurePaleKeep()
 end
 
 function canTreasureDarkhouseDepths()
-    return canDarkhouseDepth()
+    return canDarkhouseDepths()
 end
 
 function canTreasureAtelierAurum()

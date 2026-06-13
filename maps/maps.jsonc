@@ -76,5 +76,41 @@
         "location_size": 50,
         "location_border_thickness": 4,
         "img": "images/maps/treasuresphere.png"
+    },
+    {
+        "name": "Geode",
+        "location_size": 50,
+        "location_border_thickness": 4,
+        "img": "images/maps/.png"
+    },
+    {
+        "name": "Depths",
+        "location_size": 50,
+        "location_border_thickness": 4,
+        "img": "images/maps/.png"
+    },
+    {
+        "name": "Atelier",
+        "location_size": 50,
+        "location_border_thickness": 4,
+        "img": "images/maps/.png"
+    },
+    {
+        "name": "Sanctum",
+        "location_size": 50,
+        "location_border_thickness": 4,
+        "img": "images/maps/.png"
+    },
+    {
+        "name": "Looping",
+        "location_size": 50,
+        "location_border_thickness": 4,
+        "img": "images/maps/.png"
+    },
+    {
+        "name": "Pool",
+        "location_size": 50,
+        "location_border_thickness": 4,
+        "img": "images/maps/.png"
     }
 ]

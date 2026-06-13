@@ -149,13 +149,25 @@ function onClear(slot_data)
     end
 
     if slot_data['goal_condition'] == 1 then
-        Tracker:FindObjectForCode("op_GC").CurrentStage = 1
+        Tracker:FindObjectForCode("op_GC").CurrentStage = 0
     elseif slot_data['goal_condition'] == 2 then
-        Tracker:FindObjectForCode("op_GC").CurrentStage = 2
+        Tracker:FindObjectForCode("op_GC").CurrentStage = 1
     elseif slot_data['goal_condition'] == 3 then
-        Tracker:FindObjectForCode("op_GC").CurrentStage = 3
+        Tracker:FindObjectForCode("op_GC").CurrentStage = 2
     else
         Tracker:FindObjectForCode("op_GC").CurrentStage = 0
+    end
+
+    if slot_data['run_type'] == 0 then
+        Tracker:FindObjectForCode("op_GM").CurrentStage = 0
+    elseif slot_data['run_type'] == 1 then
+        Tracker:FindObjectForCode("op_GM").CurrentStage = 1
+    elseif slot_data['run_type'] == 2 then
+        Tracker:FindObjectForCode("op_GM").CurrentStage = 2
+    elseif slot_data['run_type'] == 3 then
+        Tracker:FindObjectForCode("op_GM").CurrentStage = 3
+    else
+        Tracker:FindObjectForCode("op_GM").CurrentStage = 0
     end
 
     Tracker:FindObjectForCode("op_OKA").AcquiredCount = slot_data['kingdom_order']['King\'s Arsenal']

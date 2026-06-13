@@ -457,7 +457,8 @@
         "item_size": "50,50",
         "rows": 
         [
-            ["progressive_area_shira","treasuresphere","progressive_area_witch"],
+            ["progressive_area_shira","treasuresphere"],
+            ["outskirts", "", "geode"],
             ["scholar","arsenal","darkhouse","churchmouse"],
             ["lakeside","depths","atelier","sanctum"],
             ["palekeep","moonlit","looping","pool"],
@@ -1064,17 +1065,6 @@
                                             }
                                         },
                                         {
-                                            "title": "Extra Mode",
-                                            "content": 
-                                            {
-                                                "type": "map",
-                                                "maps": 
-                                                [
-                                                    "Extra"
-                                                ]
-                                            }
-                                        },
-                                        {
                                             "title": "Kingdom Outskirts",
                                             "content": 
                                             {
@@ -1159,6 +1149,39 @@
                                                 "maps": 
                                                 [
                                                     "Pinnacle"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Extra Mode",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Extra"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Crack In The Geode",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Geode"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "title": "Darkhouse Depths",
+                                            "content": 
+                                            {
+                                                "type": "map",
+                                                "maps": 
+                                                [
+                                                    "Depths"
                                                 ]
                                             }
                                         }

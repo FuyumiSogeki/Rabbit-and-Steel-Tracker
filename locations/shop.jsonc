@@ -34,7 +34,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -44,7 +44,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -54,7 +54,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -64,7 +64,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -74,7 +74,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -84,7 +84,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -124,7 +124,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -134,7 +134,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -144,7 +144,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -154,7 +154,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -164,7 +164,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -174,7 +174,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -214,7 +214,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -224,7 +224,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -234,7 +234,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -244,7 +244,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -254,7 +254,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -264,7 +264,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -304,7 +304,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -314,7 +314,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -324,7 +324,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -334,7 +334,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -344,7 +344,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -354,7 +354,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -394,7 +394,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -404,7 +404,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -414,7 +414,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -424,7 +424,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -434,7 +434,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -444,7 +444,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -484,7 +484,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -494,7 +494,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -504,7 +504,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -514,7 +514,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -524,7 +524,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -534,7 +534,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -574,7 +574,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -584,7 +584,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -594,7 +594,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -604,7 +604,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -614,7 +614,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -624,7 +624,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -664,7 +664,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -674,7 +674,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -684,7 +684,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -694,7 +694,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -704,7 +704,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -714,7 +714,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
@@ -754,7 +754,7 @@
                     {
                         "name": "Scholar's Nest Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isScholarNest"
                         ],
                         "access_rules": [
                             "$canShopScholarNest"
@@ -764,7 +764,7 @@
                     {
                         "name": "King's Arsenal Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isKingArsenal"
                         ],
                         "access_rules": [
                             "$canShopKingArsenal"
@@ -774,7 +774,7 @@
                     {
                         "name": "Red Darkhouse Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isRedDarkhouse"
                         ],
                         "access_rules": [
                             "$canShopRedDarkhouse"
@@ -784,7 +784,7 @@
                     {
                         "name": "Churchmouse Streets Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isChurchmouseStreets"
                         ],
                         "access_rules": [
                             "$canShopChurchmouseStreets"
@@ -794,7 +794,7 @@
                     {
                         "name": "Emerald Lakeside Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isEmeraldLakeside"
                         ],
                         "access_rules": [
                             "$canShopEmeraldLakeside"
@@ -804,7 +804,7 @@
                     {
                         "name": "The Pale Keep Shop",
                         "visibility_rules": [
-                            "$isShopRegion"
+                            "$isShopRegion, $isPaleKeep"
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
