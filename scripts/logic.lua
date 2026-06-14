@@ -114,8 +114,6 @@ function canReachRegionOrder(regionChecked, reg, prog)
             foundRegions = find(i)
         end
 
-        print(dump_table(foundRegions))
-
         local isOk = false
 
         for _, v in pairs(foundRegions) do
