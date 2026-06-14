@@ -436,7 +436,7 @@ function onItem(index, item_id, item_name, player_number)
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_secondary")).Active = true
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_special")).Active = true
             Tracker:FindObjectForCode(string.format("%s%s", upgradeSet, "_defensive")).Active = true
-        elseif v[1]:match("^vshira_") then
+        elseif v[1]:match("^shira_") then
             local victoryName = v[1]:gsub("shira_", "")
             Tracker:FindObjectForCode(victoryName).Active = true
             Tracker:FindObjectForCode(victoryName).CurrentStage = Tracker:FindObjectForCode(victoryName).CurrentStage + 1

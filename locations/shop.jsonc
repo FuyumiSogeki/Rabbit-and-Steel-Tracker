@@ -90,6 +90,46 @@
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -178,6 +218,46 @@
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
                         ],
                         "item_count": 1
                     }
@@ -270,6 +350,46 @@
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -358,6 +478,46 @@
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
                         ],
                         "item_count": 1
                     }
@@ -450,6 +610,46 @@
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -538,6 +738,46 @@
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
                         ],
                         "item_count": 1
                     }
@@ -630,6 +870,46 @@
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -720,6 +1000,46 @@
                             "$canShopPaleKeep"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
+                        ],
+                        "item_count": 1
                     }
                 ]
             },
@@ -808,6 +1128,46 @@
                         ],
                         "access_rules": [
                             "$canShopPaleKeep"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Darkhouse Depths Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isDarkhouseDepths"
+                        ],
+                        "access_rules": [
+                            "$canShopDarkhouseDepths"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Atelier Aurum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isAtelierAurum"
+                        ],
+                        "access_rules": [
+                            "$canShopAtelierAurum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Subterra Sanctum Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isSubterraSanctum"
+                        ],
+                        "access_rules": [
+                            "$canShopSubterraSanctum"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Looping Hallway Shop",
+                        "visibility_rules": [
+                            "$isShopRegion, $isLoopingHallway"
+                        ],
+                        "access_rules": [
+                            "$canShopLoopingHallway"
                         ],
                         "item_count": 1
                     }

@@ -459,8 +459,9 @@
         [
             ["progressive_area_shira","treasuresphere"],
             ["outskirts", "", "geode"],
-            ["scholar","arsenal","darkhouse","churchmouse"],
-            ["lakeside","depths","atelier","sanctum"],
+            ["scholar","arsenal","depths","atelier"],
+            ["darkhouse", "churchmouse","sanctum",""],
+            ["lakeside","","",""],
             ["palekeep","moonlit","looping","pool"],
             ["defeat_count_shira","","defeat_count_witch"]
         ]

@@ -1900,14 +1900,6 @@
                         "name": "Subterra Sanctum Shop - Full Heal Potion Slot"
                     },
                     {
-                        "ref": "Full Heal Potion Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Full Heal Potion Slot"
-                    },
-                    {
-                        "ref": "Full Heal Potion Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Full Heal Potion Slot"
-                    },
-                    {
                         "ref": "Full Heal Potion Slot/Looping Hallway Shop",
                         "name": "Looping Hallway Shop - Full Heal Potion Slot"
                     },
@@ -1922,14 +1914,6 @@
                     {
                         "ref": "Level Up Slot/Subterra Sanctum Shop",
                         "name": "Subterra Sanctum Shop - Level Up Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Level Up Slot"
-                    },
-                    {
-                        "ref": "Level Up Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Level Up Slot"
                     },
                     {
                         "ref": "Level Up Slot/Looping Hallway Shop",
@@ -1948,14 +1932,6 @@
                         "name": "Subterra Sanctum Shop - Potion 1 Slot"
                     },
                     {
-                        "ref": "Potion 1 Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Potion 1 Slot"
-                    },
-                    {
-                        "ref": "Potion 1 Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Potion 1 Slot"
-                    },
-                    {
                         "ref": "Potion 1 Slot/Looping Hallway Shop",
                         "name": "Looping Hallway Shop - Potion 1 Slot"
                     },
@@ -1970,14 +1946,6 @@
                     {
                         "ref": "Potion 2 Slot/Subterra Sanctum Shop",
                         "name": "Subterra Sanctum Shop - Potion 2 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Potion 2 Slot"
-                    },
-                    {
-                        "ref": "Potion 2 Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Potion 2 Slot"
                     },
                     {
                         "ref": "Potion 2 Slot/Looping Hallway Shop",
@@ -1996,14 +1964,6 @@
                         "name": "Subterra Sanctum Shop - Potion 3 Slot"
                     },
                     {
-                        "ref": "Potion 3 Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Potion 3 Slot"
-                    },
-                    {
-                        "ref": "Potion 3 Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Potion 3 Slot"
-                    },
-                    {
                         "ref": "Potion 3 Slot/Looping Hallway Shop",
                         "name": "Looping Hallway Shop - Potion 3 Slot"
                     },
@@ -2018,14 +1978,6 @@
                     {
                         "ref": "Primary Upgrade Slot/Subterra Sanctum Shop",
                         "name": "Subterra Sanctum Shop - Primary Upgrade Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Primary Upgrade Slot"
-                    },
-                    {
-                        "ref": "Primary Upgrade Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Primary Upgrade Slot"
                     },
                     {
                         "ref": "Primary Upgrade Slot/Looping Hallway Shop",
@@ -2044,14 +1996,6 @@
                         "name": "Subterra Sanctum Shop - Secondary Upgrade Slot"
                     },
                     {
-                        "ref": "Secondary Upgrade Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Secondary Upgrade Slot"
-                    },
-                    {
-                        "ref": "Secondary Upgrade Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Secondary Upgrade Slot"
-                    },
-                    {
                         "ref": "Secondary Upgrade Slot/Looping Hallway Shop",
                         "name": "Looping Hallway Shop - Secondary Upgrade Slot"
                     },
@@ -2068,14 +2012,6 @@
                         "name": "Subterra Sanctum Shop - Special Upgrade Slot"
                     },
                     {
-                        "ref": "Special Upgrade Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Special Upgrade Slot"
-                    },
-                    {
-                        "ref": "Special Upgrade Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Special Upgrade Slot"
-                    },
-                    {
                         "ref": "Special Upgrade Slot/Looping Hallway Shop",
                         "name": "Looping Hallway Shop - Special Upgrade Slot"
                     },
@@ -2090,14 +2026,6 @@
                     {
                         "ref": "Defensive Upgrade Slot/Subterra Sanctum Shop",
                         "name": "Subterra Sanctum Shop - Defensive Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Churchmouse Streets Shop",
-                        "name": "Churchmouse Streets Shop - Defensive Upgrade Slot"
-                    },
-                    {
-                        "ref": "Defensive Upgrade Slot/Emerald Lakeside Shop",
-                        "name": "Emerald Lakeside Shop - Defensive Upgrade Slot"
                     },
                     {
                         "ref": "Defensive Upgrade Slot/Looping Hallway Shop",
