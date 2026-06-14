@@ -89,14 +89,14 @@ end
 function canReachAny()
     local count = 0
 
-    if has("arsenal") and canOutskirts() and isKingdom() then count = count + 1 end
-    if has("scholar") and canOutskirts() and isKingdom() then count = count + 1 end
-    if has("darkhouse") and canOutskirts() and isKingdom() then count = count + 1 end
-    if has("lakeside") and canOutskirts() and isKingdom() then count = count + 1 end
-    if has("churchmouse") and canOutskirts() and isKingdom() then count = count + 1 end
-    if has("depths") and canGeode() and isExtra() then count = count + 1 end
-    if has("atelier") and canGeode() and isExtra() then count = count + 1 end
-    if has("sanctum") and canGeode() and isExtra() then count = count + 1 end
+    if has("arsenal") and canStartKingdom() and isKingdom() then count = count + 1 end
+    if has("scholar") and canStartKingdom() and isKingdom() then count = count + 1 end
+    if has("darkhouse") and canStartKingdom() and isKingdom() then count = count + 1 end
+    if has("lakeside") and canStartKingdom() and isKingdom() then count = count + 1 end
+    if has("churchmouse") and canStartKingdom() and isKingdom() then count = count + 1 end
+    if has("depths") and canStartExtra() and isExtra() then count = count + 1 end
+    if has("atelier") and canStartExtra() and isExtra() then count = count + 1 end
+    if has("sanctum") and canStartExtra() and isExtra() then count = count + 1 end
 
     return count >= 1
 end
@@ -397,159 +397,159 @@ function canStartExtra()
 end
 
 function canKingArsenal()
-    if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true) and canOutskirts()
-    elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false) and canOutskirts()
-    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionSanity() then      return has("arsenal") and canOutskirts()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true) and canOutskirts()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionOrder() then       return true and canOutskirts()
-    elseif RegionNothing() then     return true and canOutskirts()
-    else                            return false and canOutskirts()
+    if RegionSanityProgOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, true) and canStartKingdom()
+    elseif RegionSanityOrder() then return has("arsenal") and canReachRegionOrder("op_OKA", true, false) and canStartKingdom()
+    elseif RegionSanityProg() then  return has("arsenal") and has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionSanity() then      return has("arsenal") and canStartKingdom()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OKA", false, true) and canStartKingdom()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionOrder() then       return true and canStartKingdom()
+    elseif RegionNothing() then     return true and canStartKingdom()
+    else                            return false and canStartKingdom()
     end
 end
 
 function canScholarNest()
-    if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true) and canOutskirts()
-    elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false) and canOutskirts()
-    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionSanity() then      return has("scholar") and canOutskirts()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true) and canOutskirts()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionOrder() then       return true and canOutskirts()
-    elseif RegionNothing() then     return true and canOutskirts()
-    else                            return false and canOutskirts()
+    if RegionSanityProgOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, true) and canStartKingdom()
+    elseif RegionSanityOrder() then return has("scholar") and canReachRegionOrder("op_OSN", true, false) and canStartKingdom()
+    elseif RegionSanityProg() then  return has("scholar") and has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionSanity() then      return has("scholar") and canStartKingdom()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OSN", false, true) and canStartKingdom()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionOrder() then       return true and canStartKingdom()
+    elseif RegionNothing() then     return true and canStartKingdom()
+    else                            return false and canStartKingdom()
     end
 end
 
 function canRedDarkhouse()
-    if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true) and canOutskirts()
-    elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false) and canOutskirts()
-    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionSanity() then      return has("darkhouse") and canOutskirts()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true) and canOutskirts()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionOrder() then       return true and canOutskirts()
-    elseif RegionNothing() then     return true and canOutskirts()
-    else                            return false and canOutskirts()
+    if RegionSanityProgOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, true) and canStartKingdom()
+    elseif RegionSanityOrder() then return has("darkhouse") and canReachRegionOrder("op_ORD", true, false) and canStartKingdom()
+    elseif RegionSanityProg() then  return has("darkhouse") and has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionSanity() then      return has("darkhouse") and canStartKingdom()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORD", false, true) and canStartKingdom()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionOrder() then       return true and canStartKingdom()
+    elseif RegionNothing() then     return true and canStartKingdom()
+    else                            return false and canStartKingdom()
     end
 end
 
 function canChurchmouseStreets()
-    if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true) and canOutskirts()
-    elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false) and canOutskirts()
-    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionSanity() then      return has("churchmouse") and canOutskirts()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true) and canOutskirts()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionOrder() then       return true and canOutskirts()
-    elseif RegionNothing() then     return true and canOutskirts()
-    else                            return false and canOutskirts()
+    if RegionSanityProgOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, true) and canStartKingdom()
+    elseif RegionSanityOrder() then return has("churchmouse") and canReachRegionOrder("op_OCS", true, false) and canStartKingdom()
+    elseif RegionSanityProg() then  return has("churchmouse") and has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionSanity() then      return has("churchmouse") and canStartKingdom()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OCS", false, true) and canStartKingdom()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionOrder() then       return true and canStartKingdom()
+    elseif RegionNothing() then     return true and canStartKingdom()
+    else                            return false and canStartKingdom()
     end
 end
 
 function canEmeraldLakeside()
-    if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true) and canOutskirts()
-    elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false) and canOutskirts()
-    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionSanity() then      return has("lakeside") and canOutskirts()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true) and canOutskirts()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canOutskirts()
-    elseif RegionOrder() then       return true and canOutskirts()
-    elseif RegionNothing() then     return true and canOutskirts()
-    else                            return false and canOutskirts()
+    if RegionSanityProgOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, true) and canStartKingdom()
+    elseif RegionSanityOrder() then return has("lakeside") and canReachRegionOrder("op_OEL", true, false) and canStartKingdom()
+    elseif RegionSanityProg() then  return has("lakeside") and has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionSanity() then      return has("lakeside") and canStartKingdom()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OEL", false, true) and canStartKingdom()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartKingdom()
+    elseif RegionOrder() then       return true and canStartKingdom()
+    elseif RegionNothing() then     return true and canStartKingdom()
+    else                            return false and canStartKingdom()
     end
 end
 
 function canPaleKeep()
-    if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true) and canOutskirts()
-    elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false) and canOutskirts()
-    elseif RegionSanityProg() then  return has("palekeep") and canReachPaleKeep() and hasEnoughProgRegion("op_OPK") and canOutskirts()
-    elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep() and canOutskirts()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true) and canOutskirts()
-    elseif RegionProg() then        return hasEnoughProgRegion("op_OPK") and canOutskirts()
-    elseif RegionOrder() then       return true and canOutskirts()
-    elseif RegionNothing() then     return true and canOutskirts()
-    else                            return false and canOutskirts()
+    if RegionSanityProgOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, true) and canStartKingdom()
+    elseif RegionSanityOrder() then return has("palekeep") and canReachRegionOrder("op_OPK", true, false) and canStartKingdom()
+    elseif RegionSanityProg() then  return has("palekeep") and canReachPaleKeep() and hasEnoughProgRegion("op_OPK") and canStartKingdom()
+    elseif RegionSanity() then      return has("palekeep") and canReachPaleKeep() and canStartKingdom()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OPK", false, true) and canStartKingdom()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_OPK") and canStartKingdom()
+    elseif RegionOrder() then       return true and canStartKingdom()
+    elseif RegionNothing() then     return true and canStartKingdom()
+    else                            return false and canStartKingdom()
     end
 end
 
 function canMoonlitPinnacle()
-    if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true) and canOutskirts()
-    elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false) and canOutskirts()
-    elseif RegionSanityProg() then  return has("moonlit") and canReachPinnacle() and hasEnoughProgRegion("op_OMP") and canOutskirts()
-    elseif RegionSanity() then      return has("moonlit") and canReachPinnacle() and canOutskirts()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true) and canOutskirts()
-    elseif RegionProg() then        return hasEnoughProgRegion("op_OMP") and canOutskirts()
-    elseif RegionOrder() then       return true and canOutskirts()
-    elseif RegionNothing() then     return true and canOutskirts()
-    else                            return false and canOutskirts()
+    if RegionSanityProgOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, true) and canStartKingdom()
+    elseif RegionSanityOrder() then return has("moonlit") and canReachRegionOrder("op_OMP", true, false) and canStartKingdom()
+    elseif RegionSanityProg() then  return has("moonlit") and canReachPinnacle() and hasEnoughProgRegion("op_OMP") and canStartKingdom()
+    elseif RegionSanity() then      return has("moonlit") and canReachPinnacle() and canStartKingdom()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OMP", false, true) and canStartKingdom()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_OMP") and canStartKingdom()
+    elseif RegionOrder() then       return true and canStartKingdom()
+    elseif RegionNothing() then     return true and canStartKingdom()
+    else                            return false and canStartKingdom()
     end
 end
 
 
 function canDarkhouseDepths()
-    if RegionSanityProgOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, true) and canGeode()
-    elseif RegionSanityOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, false) and canGeode()
-    elseif RegionSanityProg() then  return has("depths") and has("progressive_area_shira", 1) and canGeode()
-    elseif RegionSanity() then      return has("depths") and canGeode()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_ODD", false, true) and canGeode()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canGeode()
-    elseif RegionOrder() then       return true and canGeode()
-    elseif RegionNothing() then     return true and canGeode()
-    else                            return false and canGeode()
+    if RegionSanityProgOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, true) and canStartExtra()
+    elseif RegionSanityOrder() then return has("depths") and canReachRegionOrder("op_ODD", true, false) and canStartExtra()
+    elseif RegionSanityProg() then  return has("depths") and has("progressive_area_shira", 1) and canStartExtra()
+    elseif RegionSanity() then      return has("depths") and canStartExtra()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_ODD", false, true) and canStartExtra()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartExtra()
+    elseif RegionOrder() then       return true and canStartExtra()
+    elseif RegionNothing() then     return true and canStartExtra()
+    else                            return false and canStartExtra()
     end
 end
 
 function canAtelierAurum()
-    if RegionSanityProgOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, true) and canGeode()
-    elseif RegionSanityOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, false) and canGeode()
-    elseif RegionSanityProg() then  return has("atelier") and has("progressive_area_shira", 1) and canGeode()
-    elseif RegionSanity() then      return has("atelier") and canGeode()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OAA", false, true) and canGeode()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canGeode()
-    elseif RegionOrder() then       return true and canGeode()
-    elseif RegionNothing() then     return true and canGeode()
-    else                            return false and canGeode()
+    if RegionSanityProgOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, true) and canStartExtra()
+    elseif RegionSanityOrder() then return has("atelier") and canReachRegionOrder("op_OAA", true, false) and canStartExtra()
+    elseif RegionSanityProg() then  return has("atelier") and has("progressive_area_shira", 1) and canStartExtra()
+    elseif RegionSanity() then      return has("atelier") and canStartExtra()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OAA", false, true) and canStartExtra()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartExtra()
+    elseif RegionOrder() then       return true and canStartExtra()
+    elseif RegionNothing() then     return true and canStartExtra()
+    else                            return false and canStartExtra()
     end
 end
 
 function canSubterraSanctum()
-    if RegionSanityProgOrder() then return has("sanctum") and canReachRegionOrder("op_OSS", true, true) and canGeode()
-    elseif RegionSanityOrder() then return has("sanctum") and canReachRegionOrder("op_OSS", true, false) and canGeode()
-    elseif RegionSanityProg() then  return has("sanctum") and has("progressive_area_shira", 1) and canGeode()
-    elseif RegionSanity() then      return has("sanctum") and canGeode()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OSS", false, true) and canGeode()
-    elseif RegionProg() then        return has("progressive_area_shira", 1) and canGeode()
-    elseif RegionOrder() then       return true and canGeode()
-    elseif RegionNothing() then     return true and canGeode()
-    else                            return false and canGeode()
+    if RegionSanityProgOrder() then return has("sanctum") and canReachRegionOrder("op_OSS", true, true) and canStartExtra()
+    elseif RegionSanityOrder() then return has("sanctum") and canReachRegionOrder("op_OSS", true, false) and canStartExtra()
+    elseif RegionSanityProg() then  return has("sanctum") and has("progressive_area_shira", 1) and canStartExtra()
+    elseif RegionSanity() then      return has("sanctum") and canStartExtra()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OSS", false, true) and canStartExtra()
+    elseif RegionProg() then        return has("progressive_area_shira", 1) and canStartExtra()
+    elseif RegionOrder() then       return true and canStartExtra()
+    elseif RegionNothing() then     return true and canStartExtra()
+    else                            return false and canStartExtra()
     end
 end
 
 function canLoopingHallway()
-    if RegionSanityProgOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, true) and canGeode()
-    elseif RegionSanityOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, false) and canGeode()
-    elseif RegionSanityProg() then  return has("looping") and canReachHallway() and hasEnoughProgRegion("op_OLH") and canGeode()
-    elseif RegionSanity() then      return has("looping") and canReachHallway() and canGeode()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_OLH", false, true) and canGeode()
-    elseif RegionProg() then        return hasEnoughProgRegion("op_OLH") and canGeode()
-    elseif RegionOrder() then       return true and canGeode()
-    elseif RegionNothing() then     return true and canGeode()
-    else                            return false and canGeode()
+    if RegionSanityProgOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, true) and canStartExtra()
+    elseif RegionSanityOrder() then return has("looping") and canReachRegionOrder("op_OLH", true, false) and canStartExtra()
+    elseif RegionSanityProg() then  return has("looping") and canReachHallway() and hasEnoughProgRegion("op_OLH") and canStartExtra()
+    elseif RegionSanity() then      return has("looping") and canReachHallway() and canStartExtra()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_OLH", false, true) and canStartExtra()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_OLH") and canStartExtra()
+    elseif RegionOrder() then       return true and canStartExtra()
+    elseif RegionNothing() then     return true and canStartExtra()
+    else                            return false and canStartExtra()
     end
 end
 
 function canReflectingPool()
-    if RegionSanityProgOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, true) and canGeode()
-    elseif RegionSanityOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, false) and canGeode()
-    elseif RegionSanityProg() then  return has("pool") and canReachPool() and hasEnoughProgRegion("op_ORP") and canGeode()
-    elseif RegionSanity() then      return has("pool") and canReachPool() and canGeode()
-    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORP", false, true) and canGeode()
-    elseif RegionProg() then        return hasEnoughProgRegion("op_ORP") and canGeode()
-    elseif RegionOrder() then       return true and canGeode()
-    elseif RegionNothing() then     return true and canGeode()
-    else                            return false and canGeode()
+    if RegionSanityProgOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, true) and canStartExtra()
+    elseif RegionSanityOrder() then return has("pool") and canReachRegionOrder("op_ORP", true, false) and canStartExtra()
+    elseif RegionSanityProg() then  return has("pool") and canReachPool() and hasEnoughProgRegion("op_ORP") and canStartExtra()
+    elseif RegionSanity() then      return has("pool") and canReachPool() and canStartExtra()
+    elseif RegionProgOrder() then   return canReachRegionOrder("op_ORP", false, true) and canStartExtra()
+    elseif RegionProg() then        return hasEnoughProgRegion("op_ORP") and canStartExtra()
+    elseif RegionOrder() then       return true and canStartExtra()
+    elseif RegionNothing() then     return true and canStartExtra()
+    else                            return false and canStartExtra()
     end
 end
 
